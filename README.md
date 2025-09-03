@@ -5,18 +5,23 @@ This project develops a Virtual Healthcare Assistant using Natural Language Proc
 
 The work followed the full data workflow: preparing and cleaning raw data, exploring patterns, building and evaluating an NLP model, and designing a prototype interface for end users.
 
+## 🎥 Project Presentation
+You can watch my project walkthrough here:  
+
+[![Watch the presentation](https://img.youtube.com/vi/B0r3LW2G5iA/0.jpg)](https://youtu.be/B0r3LW2G5iA)
+
 ---
 
 ## Process
 
 ### 1. Data Preparation
-The project began by cleaning and structuring the dataset to ensure it was reliable for analysis and model training:
-- **Imputation**: missing numerical values replaced with means, categorical values with modes  
-- **Text preprocessing**: converted to lowercase, punctuation removed, standardised formatting  
-- **Deduplication**: duplicate rows removed to prevent bias and redundancy  
-- **Balancing**: rare conditions augmented using data generation techniques to reduce class imbalance  
+The first stage focused on ensuring the dataset was ready for analysis:
+- Missing numerical values were filled using means, categorical values with modes  
+- Text was standardised (lowercasing, punctuation removal) to reduce errors in input  
+- Duplicate rows were removed to avoid bias and redundancy  
+- Underrepresented conditions were augmented using data generation techniques to reduce class imbalance  
 
-These steps produced a consistent dataset aligned with best practices in data analytics and machine learning.
+These steps produced a dataset that was consistent and structured for model training.
 
 ### 2. Data Exploration
 Exploratory Data Analysis (EDA) was carried out to understand distributions, biases, and relationships:
@@ -38,7 +43,7 @@ A range of NLP approaches were considered, with **BioBERT** selected for its bio
   - Loss function: Cross-Entropy  
   - Batch processing across 3 epochs  
 
-This approach allowed the model to interpret both precise medical terminology and informal symptom descriptions.
+This approach allowed the model to interpret both precise medical terminology and informal symptom inputs.
 
 ### 4. Model Evaluation
 Performance was assessed with standard classification metrics:
@@ -66,7 +71,7 @@ Prototypes were created in **Axure RP**, following Human-Computer Interaction (H
 
 ## Key Outcomes
 - Cleaned and balanced dataset suitable for NLP modelling  
-- A BioBERT-based classifier trained and evaluated on patient symptom descriptions  
+- A BioBERT-based classifier trained and evaluated on symptom descriptions  
 - Insights into the impact of dataset imbalance on healthcare prediction tasks  
 - Quantitative results from accuracy, precision, recall, F1, and confusion matrix analysis  
 - Safety mechanisms through confidence thresholds and clarifying questions  
