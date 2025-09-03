@@ -1,0 +1,1501 @@
+Age,Gender,Ethnicity,Region,Socioeconomic Status,Symptom Description,Symptom Severity,Duration of Symptoms (days),Additional Symptoms,Chronic Condition,Allergies,Potential Condition,Suggested Action,Insurance Status
+30.0,Female,Other,Suburban,High,chest pain,7.0,23.0,fever,Diabetes,Peanuts,anxiety,visit doctor,No
+63.0,Male,Caucasian,Urban,Middle,mild headache,1.0,5.0,nausea,Diabetes,Dust,diabetes,take home care measures,Yes
+70.0,Other,Other,Urban,High,blurry vision,5.474786656322731,19.0,fatigue,Diabetes,Peanuts,flu,take home care measures,No
+32.0,Male,African American,Rural,High,fever and body aches,2.0,1.0,fever,Diabetes,Peanuts,common cold,visit doctor,No
+53.2381679389313,Other,African American,Rural,Middle,fatigue and weakness,4.0,7.0,muscle aches,Diabetes,Penicillin,arthritis,take home care measures,No
+80.0,Male,Caucasian,Rural,Middle,frequent urination,4.0,16.028505392912173,muscle aches,Asthma,Peanuts,anxiety,go to emergency,Yes
+24.0,Other,Hispanic,Rural,Low,nausea and vomiting,8.0,6.0,nausea,Asthma,Peanuts,asthma,take home care measures,Yes
+85.0,Female,Caucasian,Urban,Middle,joint pain and swelling,2.0,1.0,nausea,Diabetes,Peanuts,diabetes,take home care measures,No
+22.0,Other,Other,Urban,High,blurry vision,4.0,11.0,fever,Diabetes,Peanuts,common cold,visit doctor,No
+57.0,Other,Other,Suburban,Middle,skin rash,5.0,11.0,nausea,Diabetes,Dust,food poisoning,take home care measures,No
+84.0,Male,Hispanic,Rural,Low,sharp stomach pain,10.0,14.0,nausea,Diabetes,Peanuts,hypertension,take home care measures,No
+37.0,Male,Asian,Rural,Low,nausea and vomiting,6.0,19.0,fever,Diabetes,Peanuts,asthma,visit doctor,No
+90.0,Female,African American,Rural,High,frequent urination,8.0,3.0,nausea,Diabetes,Pollen,covid-19,visit doctor,Yes
+73.0,Male,Caucasian,Rural,Middle,persistent cough and shortness of breath,2.0,20.0,fever,Hypertension,Peanuts,migraine,visit doctor,No
+54.0,Other,Hispanic,Rural,Low,frequent urination,10.0,16.028505392912173,nausea,Diabetes,Penicillin,arthritis,take home care measures,No
+60.0,Male,Hispanic,Rural,Middle,joint pain and swelling,4.0,16.028505392912173,fever,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+35.0,Female,African American,Suburban,Low,fatigue and weakness,5.474786656322731,22.0,nausea,Hypertension,Peanuts,hypertension,visit doctor,No
+60.0,Other,Caucasian,Suburban,Middle,sore throat and difficulty swallowing,6.0,12.0,nausea,Diabetes,Penicillin,allergic reaction,take home care measures,Yes
+49.0,Male,Caucasian,Urban,Middle,chest pain,9.0,4.0,nausea,Diabetes,Penicillin,covid-19,visit doctor,Yes
+60.0,Male,Other,Suburban,Middle,blurry vision,7.0,21.0,fever,Hypertension,Dust,food poisoning,go to emergency,No
+53.2381679389313,Male,Hispanic,Rural,Middle,persistent cough and shortness of breath,1.0,14.0,nausea,Diabetes,Dust,covid-19,visit doctor,No
+77.0,Female,Asian,Urban,Middle,numbness in legs,9.0,13.0,fatigue,Hypertension,Dust,covid-19,take home care measures,Yes
+53.2381679389313,Other,Caucasian,Rural,High,frequent urination,10.0,16.028505392912173,muscle aches,Asthma,Peanuts,diabetes,visit doctor,Yes
+31.0,Other,African American,Urban,High,persistent cough and shortness of breath,5.0,2.0,nausea,Diabetes,Peanuts,kidney stones,take home care measures,No
+70.0,Female,African American,Urban,Low,mild headache,5.474786656322731,19.0,fever,Asthma,Dust,flu,go to emergency,Yes
+39.0,Other,Asian,Urban,Middle,fatigue and weakness,4.0,8.0,muscle aches,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+27.0,Other,Other,Rural,Middle,joint pain and swelling,10.0,16.028505392912173,nausea,Diabetes,Peanuts,migraine,visit doctor,Yes
+33.0,Male,Hispanic,Urban,Middle,fever and body aches,2.0,6.0,none,Diabetes,Peanuts,sinus infection,go to emergency,No
+47.0,Male,Hispanic,Suburban,Low,fatigue and weakness,5.474786656322731,16.028505392912173,fatigue,Diabetes,Penicillin,covid-19,visit doctor,Yes
+52.0,Female,Caucasian,Urban,Middle,fever and body aches,1.0,27.0,fever,Diabetes,Peanuts,covid-19,take home care measures,Yes
+56.0,Other,Caucasian,Suburban,High,fatigue and weakness,5.474786656322731,5.0,muscle aches,Diabetes,Penicillin,allergic reaction,take home care measures,Yes
+50.0,Other,African American,Rural,Middle,skin rash,4.0,6.0,none,Diabetes,Peanuts,covid-19,take home care measures,Yes
+82.0,Male,Caucasian,Suburban,Low,sharp stomach pain,6.0,16.028505392912173,fatigue,Asthma,Pollen,kidney stones,go to emergency,Yes
+53.2381679389313,Male,Other,Suburban,Middle,nausea and vomiting,5.0,2.0,fever,Diabetes,Penicillin,asthma,visit doctor,No
+89.0,Female,Hispanic,Suburban,Middle,severe dizziness,9.0,1.0,muscle aches,Hypertension,Peanuts,covid-19,take home care measures,Yes
+53.2381679389313,Male,African American,Rural,Middle,skin rash,8.0,1.0,fatigue,Diabetes,Peanuts,hypertension,visit doctor,Yes
+67.0,Other,African American,Urban,Low,nausea and vomiting,7.0,6.0,fever,Diabetes,Pollen,kidney stones,visit doctor,Yes
+57.0,Male,Caucasian,Suburban,Middle,persistent cough and shortness of breath,10.0,14.0,muscle aches,Diabetes,Peanuts,food poisoning,visit doctor,Yes
+23.0,Female,Caucasian,Suburban,Middle,blurry vision,9.0,20.0,muscle aches,Hypertension,Peanuts,kidney stones,take home care measures,Yes
+62.0,Male,Asian,Suburban,Low,frequent urination,5.474786656322731,14.0,nausea,Hypertension,Dust,hypertension,take home care measures,No
+57.0,Other,Caucasian,Rural,Middle,sharp stomach pain,6.0,19.0,none,Diabetes,Penicillin,food poisoning,take home care measures,No
+51.0,Male,Hispanic,Rural,Middle,nausea and vomiting,1.0,18.0,fatigue,Hypertension,Penicillin,hypertension,take home care measures,Yes
+25.0,Female,Caucasian,Urban,Low,persistent cough and shortness of breath,1.0,10.0,fatigue,Asthma,Penicillin,food poisoning,go to emergency,Yes
+45.0,Male,Caucasian,Rural,Low,frequent urination,5.474786656322731,27.0,none,Hypertension,Dust,muscle strain,take home care measures,Yes
+48.0,Other,Hispanic,Rural,Middle,nausea and vomiting,5.474786656322731,15.0,nausea,Asthma,Peanuts,flu,take home care measures,Yes
+76.0,Other,Other,Suburban,Middle,blurry vision,1.0,20.0,fatigue,Diabetes,Penicillin,food poisoning,take home care measures,No
+39.0,Female,African American,Rural,High,sharp stomach pain,5.474786656322731,4.0,fatigue,Diabetes,Peanuts,food poisoning,take home care measures,Yes
+53.2381679389313,Female,African American,Urban,Middle,blurry vision,6.0,14.0,none,Diabetes,Peanuts,hypertension,take home care measures,No
+53.2381679389313,Female,Caucasian,Urban,Middle,blurry vision,6.0,30.0,muscle aches,Hypertension,Peanuts,asthma,take home care measures,No
+45.0,Male,Caucasian,Rural,Low,joint pain and swelling,8.0,12.0,fatigue,Diabetes,Peanuts,common cold,take home care measures,Yes
+53.0,Male,Asian,Rural,Low,fatigue and weakness,7.0,21.0,fatigue,Diabetes,Penicillin,muscle strain,go to emergency,Yes
+53.2381679389313,Female,Hispanic,Suburban,Low,frequent urination,9.0,23.0,fatigue,Asthma,Penicillin,diabetes,take home care measures,Yes
+33.0,Other,Hispanic,Urban,Low,severe dizziness,5.0,23.0,muscle aches,Diabetes,Peanuts,asthma,visit doctor,Yes
+71.0,Female,Other,Rural,Middle,sharp stomach pain,5.474786656322731,22.0,muscle aches,Diabetes,Peanuts,gastroenteritis,visit doctor,Yes
+38.0,Other,Asian,Urban,High,blurry vision,5.474786656322731,7.0,fever,Hypertension,Peanuts,migraine,visit doctor,Yes
+21.0,Female,Caucasian,Rural,Middle,nausea and vomiting,4.0,11.0,nausea,Diabetes,Peanuts,covid-19,go to emergency,Yes
+56.0,Male,African American,Rural,Middle,fever and body aches,5.474786656322731,5.0,muscle aches,Diabetes,Dust,migraine,go to emergency,Yes
+87.0,Female,African American,Suburban,Middle,nausea and vomiting,3.0,4.0,muscle aches,Diabetes,Pollen,muscle strain,go to emergency,No
+48.0,Female,Caucasian,Suburban,Middle,numbness in legs,4.0,25.0,fever,Diabetes,Peanuts,common cold,go to emergency,Yes
+81.0,Male,African American,Urban,High,blurry vision,5.0,26.0,muscle aches,Diabetes,Peanuts,migraine,take home care measures,No
+53.0,Female,African American,Suburban,Low,numbness in legs,4.0,12.0,fever,Diabetes,Peanuts,muscle strain,visit doctor,Yes
+79.0,Female,Other,Rural,Middle,chest pain,7.0,15.0,none,Asthma,Peanuts,muscle strain,take home care measures,No
+47.0,Female,Caucasian,Urban,High,sore throat and difficulty swallowing,7.0,15.0,nausea,Diabetes,Penicillin,covid-19,visit doctor,No
+64.0,Female,African American,Rural,Middle,blurry vision,2.0,27.0,nausea,Asthma,Peanuts,covid-19,visit doctor,No
+79.0,Male,Other,Urban,High,mild headache,8.0,22.0,none,Diabetes,Pollen,covid-19,visit doctor,No
+47.0,Male,African American,Suburban,Middle,frequent urination,6.0,16.028505392912173,nausea,Asthma,Pollen,covid-19,go to emergency,Yes
+35.0,Male,African American,Suburban,Middle,sharp stomach pain,5.0,30.0,fever,Diabetes,Penicillin,asthma,go to emergency,Yes
+64.0,Other,Asian,Suburban,Low,sharp stomach pain,2.0,27.0,nausea,Asthma,Pollen,hypertension,take home care measures,No
+86.0,Other,Hispanic,Rural,High,back pain and muscle stiffness,3.0,24.0,nausea,Diabetes,Pollen,covid-19,take home care measures,No
+33.0,Female,African American,Rural,Middle,joint pain and swelling,1.0,11.0,nausea,Diabetes,Pollen,asthma,visit doctor,Yes
+84.0,Female,African American,Urban,Low,blurry vision,10.0,10.0,muscle aches,Diabetes,Peanuts,kidney stones,take home care measures,Yes
+62.0,Female,African American,Rural,Middle,persistent cough and shortness of breath,4.0,10.0,fever,Diabetes,Peanuts,food poisoning,visit doctor,No
+53.2381679389313,Male,Other,Urban,Middle,blurry vision,5.0,20.0,nausea,Diabetes,Peanuts,hypertension,visit doctor,Yes
+73.0,Female,African American,Suburban,High,sharp stomach pain,1.0,16.028505392912173,muscle aches,Diabetes,Dust,migraine,take home care measures,Yes
+36.0,Male,Asian,Urban,Middle,blurry vision,4.0,7.0,none,Hypertension,Peanuts,food poisoning,go to emergency,Yes
+81.0,Other,African American,Urban,High,frequent urination,5.474786656322731,4.0,nausea,Diabetes,Penicillin,hypertension,visit doctor,No
+85.0,Male,Caucasian,Suburban,High,sore throat and difficulty swallowing,9.0,16.028505392912173,fever,Diabetes,Peanuts,migraine,go to emergency,Yes
+43.0,Male,Hispanic,Suburban,Low,fever and body aches,6.0,6.0,muscle aches,Hypertension,Peanuts,kidney stones,take home care measures,Yes
+22.0,Male,Asian,Rural,High,blurry vision,3.0,27.0,muscle aches,Hypertension,Pollen,muscle strain,take home care measures,No
+28.0,Male,Hispanic,Urban,Middle,severe dizziness,4.0,24.0,fever,Diabetes,Penicillin,covid-19,go to emergency,Yes
+65.0,Female,African American,Suburban,High,frequent urination,4.0,18.0,nausea,Asthma,Dust,covid-19,take home care measures,No
+21.0,Male,African American,Suburban,High,numbness in legs,4.0,3.0,nausea,Diabetes,Peanuts,asthma,go to emergency,Yes
+68.0,Male,Asian,Urban,Low,chest pain,5.474786656322731,28.0,fever,Diabetes,Penicillin,covid-19,visit doctor,Yes
+53.2381679389313,Male,Asian,Rural,Low,skin rash,3.0,3.0,fatigue,Diabetes,Penicillin,kidney stones,take home care measures,Yes
+70.0,Other,African American,Urban,Middle,mild headache,5.474786656322731,2.0,none,Diabetes,Peanuts,anxiety,take home care measures,Yes
+73.0,Other,Asian,Rural,Middle,sore throat and difficulty swallowing,8.0,15.0,fatigue,Hypertension,Pollen,covid-19,take home care measures,No
+45.0,Male,Other,Urban,High,numbness in legs,8.0,9.0,nausea,Diabetes,Dust,flu,go to emergency,No
+90.0,Male,Other,Rural,Low,numbness in legs,1.0,22.0,muscle aches,Diabetes,Peanuts,flu,go to emergency,No
+19.0,Other,African American,Suburban,High,fever and body aches,4.0,7.0,fever,Hypertension,Peanuts,sinus infection,take home care measures,Yes
+64.0,Male,Caucasian,Rural,Low,mild headache,3.0,20.0,fever,Diabetes,Penicillin,muscle strain,take home care measures,No
+76.0,Male,Hispanic,Urban,Middle,blurry vision,3.0,30.0,fever,Diabetes,Peanuts,food poisoning,take home care measures,No
+63.0,Male,Caucasian,Urban,High,sore throat and difficulty swallowing,10.0,10.0,fever,Diabetes,Peanuts,anxiety,visit doctor,Yes
+67.0,Female,African American,Suburban,Middle,mild headache,10.0,27.0,fatigue,Diabetes,Pollen,flu,take home care measures,No
+63.0,Female,African American,Suburban,Low,blurry vision,1.0,7.0,none,Asthma,Peanuts,food poisoning,take home care measures,Yes
+46.0,Male,Other,Rural,High,persistent cough and shortness of breath,5.0,21.0,nausea,Diabetes,Peanuts,anxiety,go to emergency,No
+74.0,Other,Other,Urban,Low,fever and body aches,5.474786656322731,2.0,nausea,Diabetes,Pollen,covid-19,take home care measures,Yes
+75.0,Female,Asian,Rural,High,mild headache,10.0,17.0,nausea,Diabetes,Pollen,covid-19,visit doctor,Yes
+39.0,Female,African American,Suburban,Middle,persistent cough and shortness of breath,7.0,1.0,muscle aches,Asthma,Peanuts,covid-19,take home care measures,Yes
+75.0,Female,Hispanic,Urban,Middle,persistent cough and shortness of breath,4.0,7.0,none,Diabetes,Penicillin,covid-19,take home care measures,Yes
+53.2381679389313,Male,Asian,Rural,High,severe dizziness,10.0,23.0,fatigue,Diabetes,Peanuts,arthritis,go to emergency,Yes
+62.0,Female,Asian,Urban,Middle,skin rash,3.0,10.0,nausea,Diabetes,Dust,covid-19,visit doctor,Yes
+38.0,Female,Hispanic,Urban,High,severe dizziness,6.0,21.0,nausea,Diabetes,Penicillin,kidney stones,go to emergency,Yes
+34.0,Male,Asian,Suburban,Middle,mild headache,3.0,12.0,fever,Diabetes,Peanuts,anxiety,take home care measures,Yes
+83.0,Male,African American,Rural,Middle,mild headache,10.0,16.028505392912173,muscle aches,Diabetes,Penicillin,common cold,visit doctor,No
+38.0,Female,Asian,Urban,High,back pain and muscle stiffness,6.0,22.0,nausea,Diabetes,Penicillin,food poisoning,take home care measures,No
+82.0,Other,African American,Rural,Middle,blurry vision,9.0,25.0,nausea,Diabetes,Penicillin,kidney stones,take home care measures,Yes
+77.0,Male,African American,Rural,Middle,skin rash,6.0,16.028505392912173,fatigue,Diabetes,Peanuts,migraine,visit doctor,Yes
+23.0,Female,Caucasian,Urban,Middle,blurry vision,6.0,19.0,fatigue,Diabetes,Peanuts,food poisoning,take home care measures,No
+37.0,Female,Other,Rural,High,blurry vision,5.0,16.028505392912173,fever,Diabetes,Penicillin,sinus infection,take home care measures,Yes
+89.0,Male,Caucasian,Suburban,Low,fatigue and weakness,3.0,16.028505392912173,none,Hypertension,Peanuts,arthritis,visit doctor,Yes
+62.0,Female,Caucasian,Urban,Low,persistent cough and shortness of breath,3.0,12.0,fever,Hypertension,Peanuts,hypertension,take home care measures,Yes
+53.2381679389313,Male,African American,Rural,High,sore throat and difficulty swallowing,1.0,15.0,fatigue,Hypertension,Peanuts,covid-19,take home care measures,Yes
+51.0,Female,Hispanic,Suburban,High,chest pain,2.0,7.0,nausea,Diabetes,Peanuts,covid-19,go to emergency,Yes
+76.0,Other,Other,Rural,Low,blurry vision,3.0,5.0,muscle aches,Diabetes,Dust,asthma,take home care measures,Yes
+32.0,Female,Asian,Suburban,Middle,numbness in legs,9.0,11.0,nausea,Hypertension,Pollen,anxiety,take home care measures,No
+44.0,Male,Caucasian,Rural,Low,numbness in legs,10.0,16.028505392912173,fatigue,Asthma,Peanuts,covid-19,take home care measures,Yes
+40.0,Female,Caucasian,Urban,Middle,sore throat and difficulty swallowing,9.0,18.0,nausea,Hypertension,Peanuts,anxiety,visit doctor,Yes
+53.2381679389313,Other,Hispanic,Suburban,Middle,chest pain,5.474786656322731,16.028505392912173,fever,Diabetes,Peanuts,covid-19,take home care measures,Yes
+25.0,Male,African American,Suburban,Middle,fatigue and weakness,9.0,13.0,nausea,Hypertension,Peanuts,food poisoning,take home care measures,Yes
+42.0,Female,Other,Suburban,Middle,skin rash,5.0,26.0,nausea,Diabetes,Dust,allergic reaction,take home care measures,Yes
+89.0,Male,Hispanic,Urban,Middle,fever and body aches,1.0,13.0,fever,Asthma,Penicillin,migraine,visit doctor,Yes
+52.0,Other,Other,Urban,Middle,blurry vision,6.0,9.0,muscle aches,Diabetes,Peanuts,migraine,go to emergency,No
+59.0,Female,African American,Urban,Low,fatigue and weakness,5.474786656322731,27.0,muscle aches,Diabetes,Peanuts,hypertension,visit doctor,No
+74.0,Male,Caucasian,Rural,High,blurry vision,7.0,19.0,muscle aches,Diabetes,Peanuts,covid-19,go to emergency,Yes
+36.0,Female,Asian,Rural,Middle,fatigue and weakness,2.0,8.0,nausea,Diabetes,Peanuts,anxiety,go to emergency,Yes
+26.0,Other,African American,Rural,Low,sharp stomach pain,7.0,24.0,none,Asthma,Penicillin,migraine,go to emergency,Yes
+79.0,Other,Hispanic,Suburban,Middle,numbness in legs,9.0,14.0,nausea,Diabetes,Pollen,migraine,take home care measures,Yes
+53.2381679389313,Male,Other,Rural,High,sharp stomach pain,2.0,15.0,fatigue,Hypertension,Dust,covid-19,take home care measures,No
+77.0,Other,Caucasian,Urban,High,skin rash,3.0,11.0,fatigue,Asthma,Penicillin,food poisoning,go to emergency,No
+59.0,Male,African American,Suburban,Low,frequent urination,5.474786656322731,13.0,nausea,Hypertension,Dust,common cold,take home care measures,Yes
+26.0,Male,Hispanic,Urban,Middle,nausea and vomiting,6.0,1.0,muscle aches,Asthma,Peanuts,anxiety,go to emergency,Yes
+46.0,Male,Caucasian,Suburban,Middle,blurry vision,7.0,1.0,fatigue,Diabetes,Peanuts,asthma,take home care measures,Yes
+89.0,Male,Caucasian,Suburban,Middle,sore throat and difficulty swallowing,5.0,9.0,none,Asthma,Peanuts,muscle strain,take home care measures,Yes
+68.0,Other,Caucasian,Urban,Middle,sharp stomach pain,5.474786656322731,28.0,muscle aches,Hypertension,Peanuts,gastroenteritis,go to emergency,No
+87.0,Male,Other,Suburban,Middle,mild headache,1.0,26.0,fatigue,Diabetes,Pollen,muscle strain,visit doctor,Yes
+53.0,Other,Caucasian,Suburban,Middle,skin rash,5.0,2.0,muscle aches,Asthma,Peanuts,sinus infection,take home care measures,No
+86.0,Male,Other,Rural,Middle,mild headache,5.474786656322731,9.0,fever,Diabetes,Peanuts,kidney stones,go to emergency,No
+57.0,Male,Other,Suburban,Low,sore throat and difficulty swallowing,7.0,19.0,none,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+60.0,Other,Caucasian,Rural,High,sore throat and difficulty swallowing,4.0,22.0,fever,Hypertension,Dust,flu,take home care measures,Yes
+47.0,Female,Caucasian,Rural,High,skin rash,5.474786656322731,7.0,fever,Diabetes,Penicillin,arthritis,visit doctor,No
+58.0,Female,Other,Rural,Middle,fatigue and weakness,5.474786656322731,2.0,none,Hypertension,Dust,arthritis,go to emergency,Yes
+75.0,Female,Other,Urban,High,fever and body aches,1.0,30.0,nausea,Asthma,Dust,asthma,visit doctor,No
+53.0,Other,Caucasian,Suburban,High,chest pain,6.0,9.0,fatigue,Diabetes,Penicillin,food poisoning,visit doctor,Yes
+60.0,Other,Other,Suburban,Middle,sharp stomach pain,4.0,16.028505392912173,nausea,Diabetes,Peanuts,covid-19,take home care measures,No
+34.0,Male,Asian,Suburban,High,fever and body aches,4.0,8.0,nausea,Diabetes,Peanuts,asthma,take home care measures,Yes
+53.2381679389313,Male,African American,Urban,High,joint pain and swelling,8.0,18.0,fatigue,Diabetes,Peanuts,covid-19,go to emergency,Yes
+34.0,Female,Other,Rural,Low,numbness in legs,8.0,16.028505392912173,nausea,Diabetes,Pollen,diabetes,go to emergency,No
+78.0,Female,Hispanic,Rural,High,chest pain,1.0,11.0,nausea,Diabetes,Peanuts,gastroenteritis,take home care measures,No
+19.0,Other,African American,Urban,Low,chest pain,10.0,30.0,nausea,Diabetes,Peanuts,muscle strain,go to emergency,Yes
+20.0,Other,Other,Urban,Low,frequent urination,1.0,9.0,fatigue,Hypertension,Peanuts,common cold,visit doctor,Yes
+63.0,Other,Asian,Suburban,Low,blurry vision,5.474786656322731,16.028505392912173,nausea,Hypertension,Pollen,covid-19,visit doctor,No
+53.2381679389313,Female,African American,Rural,Low,back pain and muscle stiffness,5.474786656322731,6.0,nausea,Diabetes,Peanuts,arthritis,take home care measures,No
+51.0,Male,African American,Urban,High,nausea and vomiting,9.0,8.0,fatigue,Hypertension,Peanuts,covid-19,take home care measures,Yes
+70.0,Other,African American,Rural,High,blurry vision,2.0,18.0,nausea,Asthma,Pollen,sinus infection,take home care measures,Yes
+36.0,Male,Asian,Rural,Middle,skin rash,9.0,9.0,fatigue,Asthma,Penicillin,allergic reaction,take home care measures,Yes
+53.2381679389313,Female,Caucasian,Rural,Middle,chest pain,7.0,14.0,fever,Diabetes,Dust,asthma,go to emergency,No
+48.0,Other,Other,Urban,Low,persistent cough and shortness of breath,9.0,7.0,fatigue,Diabetes,Pollen,covid-19,go to emergency,Yes
+53.2381679389313,Male,African American,Rural,Middle,blurry vision,4.0,6.0,fatigue,Diabetes,Peanuts,covid-19,visit doctor,Yes
+30.0,Other,African American,Suburban,Middle,mild headache,1.0,19.0,none,Diabetes,Dust,flu,visit doctor,No
+90.0,Other,Caucasian,Rural,Middle,severe dizziness,3.0,3.0,fatigue,Diabetes,Peanuts,anxiety,take home care measures,Yes
+84.0,Other,Caucasian,Rural,Middle,blurry vision,5.474786656322731,30.0,none,Diabetes,Dust,asthma,go to emergency,Yes
+42.0,Other,African American,Rural,High,chest pain,5.0,5.0,fever,Diabetes,Penicillin,sinus infection,take home care measures,Yes
+80.0,Male,Asian,Rural,Low,back pain and muscle stiffness,1.0,8.0,nausea,Diabetes,Penicillin,migraine,take home care measures,No
+52.0,Other,Other,Suburban,Middle,numbness in legs,2.0,4.0,fever,Hypertension,Penicillin,muscle strain,take home care measures,No
+86.0,Female,Hispanic,Rural,High,blurry vision,5.474786656322731,4.0,nausea,Diabetes,Peanuts,arthritis,take home care measures,Yes
+59.0,Other,Other,Rural,Middle,skin rash,6.0,11.0,fatigue,Asthma,Pollen,diabetes,take home care measures,Yes
+62.0,Other,Asian,Urban,High,sharp stomach pain,7.0,14.0,nausea,Diabetes,Peanuts,allergic reaction,take home care measures,No
+79.0,Male,Other,Urban,High,fatigue and weakness,6.0,6.0,nausea,Diabetes,Peanuts,arthritis,take home care measures,No
+60.0,Other,African American,Suburban,High,joint pain and swelling,10.0,16.028505392912173,fatigue,Diabetes,Pollen,common cold,go to emergency,No
+38.0,Male,African American,Rural,High,blurry vision,4.0,15.0,fever,Hypertension,Penicillin,migraine,visit doctor,Yes
+76.0,Other,Other,Rural,Middle,blurry vision,7.0,22.0,fatigue,Diabetes,Dust,food poisoning,take home care measures,Yes
+38.0,Female,African American,Urban,Middle,nausea and vomiting,5.474786656322731,9.0,none,Asthma,Dust,muscle strain,take home care measures,Yes
+59.0,Other,Caucasian,Rural,Middle,blurry vision,1.0,20.0,nausea,Diabetes,Peanuts,flu,go to emergency,No
+30.0,Male,Caucasian,Rural,Middle,severe dizziness,9.0,19.0,none,Diabetes,Penicillin,flu,take home care measures,Yes
+90.0,Male,Caucasian,Rural,Low,skin rash,9.0,27.0,fever,Diabetes,Dust,covid-19,take home care measures,No
+51.0,Female,Other,Rural,Middle,frequent urination,5.0,7.0,none,Diabetes,Pollen,anxiety,take home care measures,No
+60.0,Male,African American,Urban,High,severe dizziness,6.0,29.0,nausea,Hypertension,Peanuts,hypertension,take home care measures,No
+29.0,Other,African American,Rural,High,persistent cough and shortness of breath,2.0,21.0,fatigue,Diabetes,Peanuts,sinus infection,visit doctor,Yes
+36.0,Male,Other,Suburban,Middle,back pain and muscle stiffness,5.474786656322731,30.0,none,Diabetes,Penicillin,asthma,take home care measures,No
+53.2381679389313,Other,Caucasian,Suburban,Low,fever and body aches,4.0,15.0,nausea,Diabetes,Dust,muscle strain,take home care measures,No
+21.0,Male,African American,Urban,Middle,blurry vision,4.0,2.0,none,Hypertension,Peanuts,gastroenteritis,visit doctor,Yes
+20.0,Male,Other,Urban,Middle,fever and body aches,8.0,26.0,nausea,Diabetes,Peanuts,hypertension,visit doctor,Yes
+89.0,Other,Asian,Suburban,Middle,persistent cough and shortness of breath,9.0,6.0,none,Diabetes,Dust,asthma,take home care measures,Yes
+32.0,Male,Other,Rural,Low,nausea and vomiting,7.0,16.028505392912173,fever,Hypertension,Peanuts,covid-19,visit doctor,No
+27.0,Male,African American,Rural,High,nausea and vomiting,5.474786656322731,8.0,fever,Asthma,Dust,allergic reaction,visit doctor,No
+57.0,Male,African American,Rural,High,frequent urination,6.0,4.0,fatigue,Hypertension,Peanuts,hypertension,take home care measures,No
+53.0,Other,Caucasian,Urban,Middle,persistent cough and shortness of breath,9.0,16.0,nausea,Asthma,Penicillin,kidney stones,take home care measures,Yes
+53.0,Female,African American,Urban,Middle,sore throat and difficulty swallowing,10.0,9.0,muscle aches,Diabetes,Penicillin,covid-19,take home care measures,Yes
+64.0,Female,Asian,Rural,Low,persistent cough and shortness of breath,3.0,24.0,fever,Asthma,Dust,muscle strain,go to emergency,No
+28.0,Female,Caucasian,Rural,Middle,blurry vision,1.0,20.0,muscle aches,Hypertension,Pollen,anxiety,visit doctor,Yes
+58.0,Male,Other,Urban,High,frequent urination,10.0,26.0,muscle aches,Diabetes,Pollen,flu,visit doctor,No
+19.0,Other,African American,Suburban,High,blurry vision,3.0,25.0,fever,Hypertension,Dust,covid-19,take home care measures,Yes
+57.0,Male,Asian,Suburban,Low,blurry vision,7.0,6.0,fever,Hypertension,Peanuts,gastroenteritis,take home care measures,Yes
+81.0,Female,Caucasian,Urban,Low,frequent urination,3.0,29.0,nausea,Diabetes,Dust,asthma,visit doctor,Yes
+79.0,Other,Caucasian,Rural,High,severe dizziness,6.0,28.0,nausea,Diabetes,Dust,common cold,go to emergency,Yes
+24.0,Male,Caucasian,Urban,Middle,joint pain and swelling,10.0,26.0,fever,Diabetes,Penicillin,sinus infection,go to emergency,Yes
+25.0,Female,Hispanic,Urban,Middle,sharp stomach pain,6.0,10.0,fever,Asthma,Pollen,covid-19,visit doctor,Yes
+32.0,Male,Other,Urban,Low,numbness in legs,6.0,24.0,none,Diabetes,Peanuts,arthritis,go to emergency,No
+86.0,Male,Hispanic,Rural,High,skin rash,8.0,16.0,none,Diabetes,Peanuts,anxiety,visit doctor,No
+82.0,Male,Hispanic,Urban,Low,blurry vision,3.0,13.0,fatigue,Asthma,Pollen,covid-19,go to emergency,No
+78.0,Male,Hispanic,Rural,High,joint pain and swelling,4.0,15.0,fever,Diabetes,Peanuts,asthma,take home care measures,Yes
+61.0,Other,Asian,Rural,Middle,skin rash,1.0,22.0,fever,Asthma,Peanuts,covid-19,go to emergency,No
+71.0,Male,Asian,Rural,High,skin rash,10.0,22.0,nausea,Diabetes,Peanuts,flu,go to emergency,Yes
+32.0,Other,African American,Rural,Low,fever and body aches,8.0,1.0,fever,Hypertension,Peanuts,allergic reaction,visit doctor,Yes
+26.0,Female,Hispanic,Suburban,Low,mild headache,2.0,23.0,none,Hypertension,Peanuts,covid-19,visit doctor,No
+70.0,Male,Asian,Rural,Middle,blurry vision,8.0,23.0,fatigue,Diabetes,Dust,sinus infection,go to emergency,Yes
+18.0,Female,Other,Rural,Middle,blurry vision,5.0,16.0,fever,Hypertension,Peanuts,arthritis,take home care measures,Yes
+60.0,Male,Caucasian,Urban,Middle,chest pain,8.0,23.0,nausea,Diabetes,Penicillin,food poisoning,take home care measures,Yes
+34.0,Other,African American,Rural,Middle,sharp stomach pain,5.474786656322731,16.028505392912173,none,Diabetes,Pollen,flu,take home care measures,No
+30.0,Female,African American,Suburban,Low,skin rash,5.474786656322731,5.0,fatigue,Hypertension,Peanuts,sinus infection,take home care measures,Yes
+53.2381679389313,Female,African American,Rural,Middle,fatigue and weakness,8.0,25.0,fatigue,Diabetes,Dust,diabetes,go to emergency,Yes
+64.0,Male,Asian,Rural,Low,blurry vision,6.0,29.0,nausea,Hypertension,Pollen,sinus infection,go to emergency,No
+72.0,Male,Hispanic,Urban,Low,chest pain,7.0,24.0,fatigue,Diabetes,Peanuts,migraine,take home care measures,Yes
+88.0,Other,Asian,Rural,Middle,mild headache,6.0,28.0,fatigue,Diabetes,Peanuts,muscle strain,visit doctor,No
+38.0,Male,Other,Urban,Middle,fatigue and weakness,5.474786656322731,5.0,none,Diabetes,Peanuts,covid-19,take home care measures,Yes
+20.0,Other,Asian,Rural,Low,blurry vision,2.0,24.0,nausea,Diabetes,Dust,covid-19,take home care measures,Yes
+23.0,Male,Caucasian,Urban,Low,mild headache,9.0,25.0,muscle aches,Diabetes,Peanuts,arthritis,go to emergency,Yes
+71.0,Other,African American,Rural,Low,sharp stomach pain,1.0,30.0,muscle aches,Diabetes,Penicillin,gastroenteritis,take home care measures,No
+44.0,Male,Hispanic,Suburban,Middle,blurry vision,5.474786656322731,16.028505392912173,fatigue,Diabetes,Peanuts,allergic reaction,take home care measures,No
+77.0,Male,Other,Rural,Low,joint pain and swelling,8.0,20.0,muscle aches,Diabetes,Dust,flu,take home care measures,Yes
+24.0,Female,Caucasian,Urban,Middle,severe dizziness,5.474786656322731,25.0,none,Hypertension,Peanuts,muscle strain,take home care measures,No
+34.0,Male,African American,Urban,High,blurry vision,10.0,27.0,nausea,Diabetes,Penicillin,diabetes,take home care measures,No
+71.0,Male,Asian,Suburban,Middle,sore throat and difficulty swallowing,9.0,7.0,fever,Diabetes,Pollen,anxiety,go to emergency,Yes
+69.0,Other,African American,Urban,Low,blurry vision,1.0,25.0,nausea,Hypertension,Peanuts,flu,go to emergency,No
+90.0,Male,African American,Suburban,Middle,sharp stomach pain,8.0,21.0,nausea,Diabetes,Pollen,allergic reaction,take home care measures,Yes
+85.0,Female,Asian,Suburban,High,severe dizziness,4.0,3.0,none,Hypertension,Pollen,allergic reaction,visit doctor,No
+51.0,Male,Other,Suburban,Middle,numbness in legs,9.0,17.0,nausea,Diabetes,Penicillin,flu,visit doctor,No
+79.0,Other,Caucasian,Suburban,Low,blurry vision,8.0,16.028505392912173,fever,Hypertension,Penicillin,covid-19,go to emergency,No
+63.0,Male,Hispanic,Suburban,Middle,fever and body aches,5.474786656322731,16.028505392912173,fatigue,Diabetes,Penicillin,covid-19,take home care measures,Yes
+18.0,Male,Asian,Urban,Middle,sore throat and difficulty swallowing,10.0,13.0,nausea,Hypertension,Peanuts,covid-19,take home care measures,Yes
+21.0,Male,Caucasian,Urban,Low,fatigue and weakness,5.474786656322731,8.0,muscle aches,Asthma,Peanuts,allergic reaction,take home care measures,No
+53.2381679389313,Male,Caucasian,Rural,Middle,fatigue and weakness,5.474786656322731,8.0,none,Asthma,Peanuts,flu,take home care measures,Yes
+27.0,Other,Other,Urban,High,numbness in legs,10.0,2.0,nausea,Hypertension,Dust,kidney stones,visit doctor,Yes
+20.0,Male,African American,Suburban,Low,fever and body aches,4.0,19.0,nausea,Diabetes,Penicillin,arthritis,go to emergency,Yes
+49.0,Female,African American,Rural,Low,blurry vision,4.0,6.0,fatigue,Asthma,Peanuts,arthritis,take home care measures,Yes
+81.0,Male,Asian,Rural,High,fatigue and weakness,1.0,16.028505392912173,nausea,Hypertension,Dust,gastroenteritis,go to emergency,Yes
+71.0,Other,Hispanic,Suburban,Middle,chest pain,5.474786656322731,16.028505392912173,muscle aches,Hypertension,Peanuts,covid-19,visit doctor,No
+77.0,Male,Asian,Rural,Middle,frequent urination,2.0,7.0,nausea,Asthma,Peanuts,asthma,take home care measures,No
+29.0,Male,Other,Urban,Middle,severe dizziness,5.0,15.0,none,Asthma,Peanuts,sinus infection,visit doctor,Yes
+53.2381679389313,Male,African American,Suburban,Middle,blurry vision,4.0,8.0,muscle aches,Diabetes,Peanuts,covid-19,visit doctor,No
+79.0,Male,Asian,Suburban,Middle,chest pain,5.474786656322731,16.028505392912173,nausea,Asthma,Peanuts,gastroenteritis,take home care measures,Yes
+33.0,Male,African American,Urban,Middle,blurry vision,6.0,21.0,nausea,Asthma,Peanuts,migraine,go to emergency,No
+41.0,Male,African American,Rural,Middle,mild headache,5.474786656322731,27.0,nausea,Diabetes,Peanuts,diabetes,go to emergency,No
+87.0,Female,Asian,Suburban,High,frequent urination,6.0,14.0,nausea,Diabetes,Peanuts,asthma,visit doctor,Yes
+53.2381679389313,Female,Asian,Suburban,High,fever and body aches,6.0,17.0,nausea,Diabetes,Dust,asthma,visit doctor,Yes
+53.2381679389313,Male,Hispanic,Rural,Middle,sore throat and difficulty swallowing,9.0,26.0,fever,Hypertension,Dust,covid-19,go to emergency,Yes
+55.0,Female,African American,Rural,Low,nausea and vomiting,9.0,5.0,fatigue,Diabetes,Penicillin,migraine,visit doctor,No
+24.0,Female,African American,Rural,High,blurry vision,2.0,27.0,muscle aches,Asthma,Dust,diabetes,go to emergency,Yes
+53.2381679389313,Male,Other,Rural,High,fever and body aches,6.0,16.028505392912173,nausea,Diabetes,Peanuts,common cold,take home care measures,No
+56.0,Male,Other,Rural,Middle,mild headache,9.0,16.028505392912173,fatigue,Asthma,Peanuts,covid-19,take home care measures,Yes
+49.0,Male,African American,Rural,Low,fever and body aches,5.0,16.028505392912173,nausea,Diabetes,Peanuts,arthritis,take home care measures,Yes
+53.2381679389313,Other,Asian,Rural,Middle,numbness in legs,4.0,29.0,fever,Hypertension,Penicillin,arthritis,visit doctor,Yes
+69.0,Male,Other,Suburban,Middle,sore throat and difficulty swallowing,2.0,3.0,fatigue,Asthma,Dust,covid-19,go to emergency,Yes
+26.0,Male,Asian,Rural,High,back pain and muscle stiffness,3.0,6.0,nausea,Hypertension,Dust,migraine,go to emergency,Yes
+55.0,Other,Caucasian,Urban,Low,skin rash,3.0,10.0,fatigue,Diabetes,Peanuts,allergic reaction,go to emergency,No
+28.0,Male,African American,Suburban,Middle,blurry vision,7.0,29.0,nausea,Hypertension,Dust,muscle strain,go to emergency,No
+54.0,Male,African American,Urban,Middle,blurry vision,5.0,4.0,nausea,Diabetes,Dust,flu,visit doctor,Yes
+87.0,Other,Other,Rural,Middle,blurry vision,5.474786656322731,27.0,nausea,Diabetes,Penicillin,allergic reaction,take home care measures,Yes
+38.0,Male,Caucasian,Rural,High,blurry vision,10.0,16.0,muscle aches,Diabetes,Pollen,flu,take home care measures,Yes
+63.0,Male,Hispanic,Suburban,Low,numbness in legs,5.474786656322731,19.0,muscle aches,Diabetes,Peanuts,gastroenteritis,visit doctor,Yes
+35.0,Female,Asian,Rural,High,persistent cough and shortness of breath,1.0,13.0,nausea,Diabetes,Peanuts,migraine,take home care measures,Yes
+47.0,Male,Caucasian,Rural,High,skin rash,9.0,17.0,fatigue,Diabetes,Dust,covid-19,visit doctor,No
+53.2381679389313,Female,African American,Rural,High,back pain and muscle stiffness,5.0,6.0,nausea,Diabetes,Pollen,asthma,visit doctor,No
+77.0,Male,Asian,Suburban,Low,frequent urination,5.474786656322731,26.0,nausea,Diabetes,Peanuts,food poisoning,take home care measures,Yes
+42.0,Female,Caucasian,Suburban,Middle,frequent urination,1.0,16.0,nausea,Diabetes,Pollen,arthritis,take home care measures,No
+33.0,Male,Hispanic,Urban,Low,fatigue and weakness,9.0,29.0,fatigue,Hypertension,Peanuts,common cold,take home care measures,No
+53.2381679389313,Female,Other,Suburban,Low,fever and body aches,5.474786656322731,16.0,muscle aches,Diabetes,Peanuts,allergic reaction,take home care measures,No
+57.0,Other,Other,Urban,High,blurry vision,1.0,7.0,muscle aches,Diabetes,Peanuts,allergic reaction,go to emergency,Yes
+77.0,Female,Hispanic,Rural,Middle,blurry vision,9.0,14.0,none,Asthma,Dust,sinus infection,go to emergency,Yes
+72.0,Male,Other,Urban,Middle,blurry vision,4.0,2.0,nausea,Hypertension,Penicillin,kidney stones,go to emergency,No
+88.0,Male,Asian,Suburban,High,sharp stomach pain,8.0,2.0,fever,Diabetes,Peanuts,covid-19,go to emergency,No
+41.0,Other,Hispanic,Rural,Middle,blurry vision,10.0,28.0,nausea,Hypertension,Peanuts,migraine,take home care measures,Yes
+27.0,Male,African American,Urban,High,blurry vision,3.0,16.028505392912173,none,Diabetes,Peanuts,anxiety,take home care measures,No
+90.0,Male,African American,Suburban,Low,frequent urination,10.0,10.0,nausea,Hypertension,Peanuts,kidney stones,take home care measures,No
+53.2381679389313,Female,Hispanic,Rural,Middle,sore throat and difficulty swallowing,9.0,30.0,nausea,Diabetes,Peanuts,covid-19,take home care measures,Yes
+26.0,Female,Other,Rural,Low,joint pain and swelling,4.0,16.0,nausea,Diabetes,Peanuts,muscle strain,visit doctor,Yes
+39.0,Other,Asian,Rural,Middle,frequent urination,6.0,5.0,fatigue,Hypertension,Peanuts,food poisoning,take home care measures,No
+83.0,Other,Hispanic,Suburban,High,fever and body aches,5.474786656322731,24.0,fever,Diabetes,Pollen,sinus infection,take home care measures,Yes
+66.0,Female,Hispanic,Rural,Low,sharp stomach pain,3.0,9.0,muscle aches,Diabetes,Peanuts,anxiety,go to emergency,Yes
+31.0,Male,Asian,Rural,Middle,mild headache,5.474786656322731,24.0,muscle aches,Asthma,Penicillin,food poisoning,visit doctor,Yes
+61.0,Male,Caucasian,Suburban,High,nausea and vomiting,3.0,9.0,nausea,Asthma,Penicillin,sinus infection,visit doctor,No
+53.2381679389313,Other,Caucasian,Rural,Middle,blurry vision,3.0,15.0,muscle aches,Diabetes,Peanuts,covid-19,visit doctor,No
+76.0,Female,African American,Urban,Middle,persistent cough and shortness of breath,3.0,11.0,none,Hypertension,Pollen,migraine,go to emergency,No
+53.0,Female,Caucasian,Urban,Middle,joint pain and swelling,6.0,14.0,muscle aches,Diabetes,Peanuts,common cold,take home care measures,No
+53.2381679389313,Other,Asian,Urban,Middle,nausea and vomiting,7.0,29.0,nausea,Diabetes,Penicillin,hypertension,visit doctor,Yes
+43.0,Female,Hispanic,Rural,High,nausea and vomiting,10.0,16.028505392912173,none,Diabetes,Peanuts,sinus infection,visit doctor,Yes
+53.2381679389313,Other,Other,Urban,Low,chest pain,5.474786656322731,16.028505392912173,nausea,Hypertension,Pollen,migraine,visit doctor,No
+27.0,Female,Other,Suburban,Low,sharp stomach pain,10.0,24.0,none,Diabetes,Pollen,migraine,take home care measures,Yes
+76.0,Female,Caucasian,Suburban,Middle,numbness in legs,6.0,4.0,fever,Hypertension,Peanuts,allergic reaction,visit doctor,Yes
+42.0,Male,African American,Rural,Middle,back pain and muscle stiffness,4.0,11.0,muscle aches,Diabetes,Peanuts,gastroenteritis,take home care measures,No
+19.0,Female,Asian,Suburban,High,fever and body aches,9.0,4.0,fatigue,Diabetes,Peanuts,allergic reaction,go to emergency,Yes
+20.0,Male,African American,Suburban,Low,blurry vision,2.0,16.028505392912173,nausea,Hypertension,Pollen,flu,go to emergency,No
+73.0,Female,Hispanic,Urban,High,chest pain,4.0,29.0,nausea,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+55.0,Female,Other,Rural,High,severe dizziness,1.0,16.028505392912173,none,Diabetes,Penicillin,migraine,visit doctor,Yes
+61.0,Female,African American,Rural,Middle,sharp stomach pain,4.0,1.0,fatigue,Diabetes,Pollen,asthma,take home care measures,Yes
+88.0,Male,Other,Rural,High,fever and body aches,7.0,29.0,fatigue,Hypertension,Dust,flu,go to emergency,Yes
+52.0,Other,Hispanic,Rural,Middle,nausea and vomiting,2.0,27.0,nausea,Hypertension,Peanuts,diabetes,take home care measures,Yes
+27.0,Other,Hispanic,Rural,Middle,blurry vision,1.0,16.028505392912173,fatigue,Diabetes,Pollen,covid-19,go to emergency,Yes
+53.2381679389313,Male,Caucasian,Suburban,Low,back pain and muscle stiffness,1.0,15.0,fever,Hypertension,Peanuts,anxiety,take home care measures,No
+77.0,Other,African American,Suburban,Low,fatigue and weakness,9.0,8.0,fatigue,Hypertension,Penicillin,covid-19,take home care measures,No
+48.0,Female,African American,Urban,High,persistent cough and shortness of breath,7.0,22.0,nausea,Diabetes,Penicillin,covid-19,take home care measures,No
+85.0,Female,African American,Urban,Middle,blurry vision,9.0,29.0,fatigue,Hypertension,Peanuts,covid-19,take home care measures,No
+73.0,Female,African American,Suburban,Low,persistent cough and shortness of breath,4.0,11.0,nausea,Asthma,Dust,covid-19,go to emergency,Yes
+25.0,Other,Hispanic,Suburban,Middle,frequent urination,8.0,2.0,none,Diabetes,Peanuts,flu,visit doctor,No
+85.0,Male,Caucasian,Rural,Low,numbness in legs,7.0,16.028505392912173,nausea,Diabetes,Peanuts,asthma,visit doctor,Yes
+65.0,Male,African American,Rural,Low,blurry vision,1.0,14.0,muscle aches,Diabetes,Penicillin,food poisoning,take home care measures,No
+18.0,Other,Asian,Urban,Low,chest pain,7.0,25.0,nausea,Asthma,Penicillin,covid-19,go to emergency,No
+79.0,Other,African American,Rural,Middle,chest pain,5.474786656322731,30.0,fever,Diabetes,Peanuts,arthritis,go to emergency,Yes
+54.0,Other,Other,Rural,Middle,frequent urination,5.0,16.028505392912173,fever,Diabetes,Peanuts,covid-19,go to emergency,Yes
+39.0,Male,Asian,Suburban,Low,blurry vision,9.0,6.0,muscle aches,Diabetes,Pollen,flu,go to emergency,No
+65.0,Female,Caucasian,Rural,High,sharp stomach pain,1.0,27.0,nausea,Hypertension,Peanuts,sinus infection,go to emergency,Yes
+66.0,Other,Caucasian,Urban,Low,blurry vision,5.474786656322731,16.0,fever,Hypertension,Penicillin,muscle strain,visit doctor,Yes
+53.2381679389313,Female,Hispanic,Suburban,Low,blurry vision,5.474786656322731,27.0,nausea,Diabetes,Peanuts,asthma,visit doctor,No
+19.0,Male,Asian,Suburban,High,frequent urination,2.0,18.0,muscle aches,Hypertension,Pollen,covid-19,go to emergency,Yes
+47.0,Female,Caucasian,Urban,Low,nausea and vomiting,5.0,8.0,fever,Hypertension,Peanuts,common cold,visit doctor,Yes
+75.0,Male,Hispanic,Rural,Low,skin rash,3.0,7.0,fever,Diabetes,Dust,covid-19,take home care measures,Yes
+62.0,Other,African American,Suburban,Low,back pain and muscle stiffness,9.0,12.0,none,Hypertension,Peanuts,anxiety,go to emergency,Yes
+61.0,Other,African American,Suburban,Low,blurry vision,10.0,6.0,muscle aches,Diabetes,Dust,flu,take home care measures,Yes
+79.0,Female,African American,Urban,Middle,joint pain and swelling,5.474786656322731,9.0,fatigue,Diabetes,Peanuts,migraine,go to emergency,No
+20.0,Male,Other,Rural,High,skin rash,4.0,9.0,nausea,Asthma,Penicillin,migraine,go to emergency,Yes
+54.0,Female,Caucasian,Urban,Middle,sore throat and difficulty swallowing,4.0,14.0,fatigue,Hypertension,Pollen,arthritis,take home care measures,No
+51.0,Other,Asian,Suburban,Middle,fatigue and weakness,5.474786656322731,29.0,none,Diabetes,Peanuts,flu,take home care measures,Yes
+53.2381679389313,Male,African American,Urban,High,blurry vision,6.0,22.0,nausea,Diabetes,Penicillin,hypertension,go to emergency,No
+71.0,Other,African American,Suburban,High,fever and body aches,5.474786656322731,22.0,none,Hypertension,Penicillin,covid-19,visit doctor,Yes
+24.0,Male,Caucasian,Rural,High,fatigue and weakness,4.0,18.0,fever,Hypertension,Peanuts,food poisoning,go to emergency,Yes
+52.0,Male,Caucasian,Urban,Low,persistent cough and shortness of breath,5.474786656322731,23.0,nausea,Asthma,Pollen,allergic reaction,go to emergency,Yes
+66.0,Female,Other,Rural,Middle,nausea and vomiting,4.0,1.0,fatigue,Diabetes,Peanuts,flu,take home care measures,Yes
+65.0,Male,Hispanic,Rural,High,chest pain,5.474786656322731,16.0,muscle aches,Diabetes,Dust,hypertension,take home care measures,Yes
+65.0,Male,Asian,Rural,High,skin rash,10.0,16.028505392912173,fever,Hypertension,Penicillin,migraine,take home care measures,No
+60.0,Male,Hispanic,Rural,Middle,blurry vision,1.0,16.028505392912173,none,Diabetes,Peanuts,covid-19,visit doctor,No
+53.2381679389313,Male,African American,Urban,Middle,back pain and muscle stiffness,5.474786656322731,2.0,nausea,Diabetes,Peanuts,sinus infection,go to emergency,Yes
+68.0,Male,Other,Suburban,High,chest pain,4.0,1.0,nausea,Diabetes,Peanuts,migraine,take home care measures,Yes
+70.0,Male,African American,Rural,Middle,joint pain and swelling,1.0,22.0,fever,Diabetes,Penicillin,diabetes,take home care measures,Yes
+46.0,Female,African American,Rural,Low,blurry vision,6.0,8.0,muscle aches,Asthma,Peanuts,food poisoning,take home care measures,No
+44.0,Female,Hispanic,Rural,Middle,blurry vision,5.474786656322731,9.0,nausea,Diabetes,Peanuts,kidney stones,visit doctor,No
+77.0,Female,African American,Urban,Middle,nausea and vomiting,1.0,16.028505392912173,fatigue,Diabetes,Pollen,asthma,take home care measures,Yes
+45.0,Male,Other,Urban,Middle,fever and body aches,3.0,7.0,nausea,Diabetes,Peanuts,common cold,go to emergency,Yes
+48.0,Other,Asian,Urban,Low,chest pain,7.0,11.0,muscle aches,Hypertension,Dust,asthma,visit doctor,Yes
+69.0,Male,Hispanic,Suburban,High,fatigue and weakness,2.0,16.028505392912173,none,Diabetes,Penicillin,sinus infection,visit doctor,Yes
+53.2381679389313,Female,Caucasian,Suburban,High,nausea and vomiting,8.0,16.028505392912173,none,Diabetes,Pollen,gastroenteritis,go to emergency,Yes
+29.0,Male,African American,Urban,Middle,fatigue and weakness,2.0,16.028505392912173,nausea,Hypertension,Pollen,muscle strain,go to emergency,Yes
+53.2381679389313,Female,Asian,Suburban,Middle,joint pain and swelling,2.0,11.0,none,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+85.0,Female,Caucasian,Rural,Middle,numbness in legs,4.0,16.028505392912173,none,Hypertension,Peanuts,diabetes,visit doctor,No
+32.0,Male,Other,Urban,High,frequent urination,3.0,26.0,none,Diabetes,Pollen,sinus infection,visit doctor,Yes
+53.2381679389313,Female,Hispanic,Rural,High,blurry vision,10.0,9.0,fatigue,Diabetes,Penicillin,arthritis,go to emergency,Yes
+56.0,Male,Other,Rural,Low,mild headache,8.0,16.028505392912173,muscle aches,Asthma,Penicillin,muscle strain,visit doctor,Yes
+73.0,Male,Caucasian,Urban,Middle,fatigue and weakness,10.0,16.028505392912173,fever,Diabetes,Peanuts,allergic reaction,go to emergency,Yes
+74.0,Female,African American,Rural,Middle,nausea and vomiting,5.474786656322731,4.0,muscle aches,Asthma,Penicillin,gastroenteritis,go to emergency,Yes
+85.0,Male,African American,Rural,Low,nausea and vomiting,6.0,12.0,fever,Diabetes,Pollen,common cold,visit doctor,Yes
+87.0,Male,Asian,Urban,High,nausea and vomiting,8.0,27.0,muscle aches,Diabetes,Penicillin,sinus infection,take home care measures,No
+53.2381679389313,Other,African American,Urban,High,nausea and vomiting,9.0,20.0,fatigue,Asthma,Dust,covid-19,take home care measures,Yes
+22.0,Female,African American,Rural,Low,fever and body aches,6.0,9.0,none,Asthma,Dust,covid-19,go to emergency,No
+26.0,Male,African American,Rural,Middle,sharp stomach pain,10.0,16.028505392912173,fatigue,Hypertension,Peanuts,asthma,take home care measures,No
+53.2381679389313,Other,African American,Suburban,High,fatigue and weakness,6.0,5.0,nausea,Asthma,Peanuts,gastroenteritis,take home care measures,Yes
+24.0,Female,Caucasian,Rural,Middle,blurry vision,10.0,21.0,nausea,Diabetes,Peanuts,diabetes,visit doctor,No
+87.0,Female,Caucasian,Suburban,Middle,frequent urination,1.0,18.0,fever,Hypertension,Peanuts,common cold,visit doctor,No
+28.0,Male,African American,Rural,Middle,mild headache,6.0,16.028505392912173,none,Diabetes,Peanuts,muscle strain,go to emergency,Yes
+53.2381679389313,Male,Asian,Rural,High,back pain and muscle stiffness,1.0,29.0,nausea,Diabetes,Dust,covid-19,go to emergency,No
+32.0,Male,Hispanic,Urban,High,fatigue and weakness,4.0,20.0,muscle aches,Diabetes,Peanuts,hypertension,visit doctor,Yes
+61.0,Other,Caucasian,Rural,High,chest pain,1.0,28.0,none,Asthma,Penicillin,covid-19,take home care measures,Yes
+72.0,Female,Asian,Rural,Middle,numbness in legs,7.0,11.0,nausea,Diabetes,Peanuts,food poisoning,visit doctor,Yes
+78.0,Male,Caucasian,Suburban,Low,fatigue and weakness,6.0,8.0,muscle aches,Diabetes,Peanuts,anxiety,take home care measures,No
+73.0,Female,Caucasian,Urban,Middle,sharp stomach pain,4.0,30.0,fever,Asthma,Peanuts,diabetes,take home care measures,No
+78.0,Male,African American,Suburban,Middle,blurry vision,8.0,6.0,none,Hypertension,Peanuts,gastroenteritis,visit doctor,Yes
+54.0,Female,Hispanic,Urban,High,frequent urination,5.474786656322731,29.0,nausea,Diabetes,Pollen,hypertension,visit doctor,No
+72.0,Male,Other,Urban,Middle,sore throat and difficulty swallowing,5.474786656322731,8.0,fever,Diabetes,Peanuts,arthritis,take home care measures,Yes
+53.2381679389313,Other,Other,Rural,High,blurry vision,3.0,19.0,fever,Diabetes,Peanuts,food poisoning,go to emergency,Yes
+54.0,Other,Asian,Rural,Low,sharp stomach pain,6.0,27.0,fatigue,Diabetes,Penicillin,allergic reaction,visit doctor,Yes
+55.0,Other,Asian,Rural,Low,sore throat and difficulty swallowing,8.0,16.0,fatigue,Asthma,Peanuts,allergic reaction,take home care measures,Yes
+53.2381679389313,Male,Asian,Urban,Middle,nausea and vomiting,8.0,16.028505392912173,none,Diabetes,Peanuts,covid-19,visit doctor,Yes
+59.0,Male,Asian,Suburban,Low,nausea and vomiting,1.0,16.028505392912173,none,Hypertension,Penicillin,common cold,visit doctor,Yes
+64.0,Other,African American,Rural,High,skin rash,7.0,22.0,nausea,Diabetes,Penicillin,common cold,visit doctor,No
+76.0,Other,Other,Urban,High,fever and body aches,3.0,10.0,muscle aches,Asthma,Peanuts,sinus infection,take home care measures,Yes
+65.0,Male,Caucasian,Suburban,High,frequent urination,5.474786656322731,16.028505392912173,muscle aches,Diabetes,Penicillin,arthritis,take home care measures,No
+53.2381679389313,Male,Asian,Rural,High,chest pain,1.0,27.0,none,Diabetes,Penicillin,covid-19,take home care measures,Yes
+75.0,Female,Asian,Rural,Low,persistent cough and shortness of breath,5.474786656322731,16.028505392912173,fever,Asthma,Dust,covid-19,go to emergency,Yes
+19.0,Female,African American,Urban,Middle,back pain and muscle stiffness,8.0,27.0,nausea,Hypertension,Peanuts,kidney stones,visit doctor,Yes
+25.0,Female,Asian,Rural,High,sore throat and difficulty swallowing,1.0,17.0,nausea,Hypertension,Penicillin,kidney stones,visit doctor,Yes
+80.0,Male,Asian,Urban,Low,numbness in legs,1.0,28.0,muscle aches,Diabetes,Peanuts,covid-19,visit doctor,Yes
+81.0,Female,Caucasian,Suburban,Middle,persistent cough and shortness of breath,1.0,14.0,fever,Diabetes,Dust,allergic reaction,go to emergency,Yes
+24.0,Male,Asian,Urban,Middle,fever and body aches,5.474786656322731,16.0,nausea,Hypertension,Peanuts,kidney stones,take home care measures,Yes
+63.0,Male,African American,Urban,Low,blurry vision,7.0,26.0,none,Hypertension,Peanuts,anxiety,visit doctor,No
+31.0,Other,African American,Rural,High,blurry vision,3.0,7.0,fever,Diabetes,Dust,arthritis,visit doctor,No
+65.0,Other,Asian,Rural,Low,sharp stomach pain,9.0,21.0,muscle aches,Asthma,Penicillin,kidney stones,take home care measures,No
+81.0,Female,Other,Suburban,High,nausea and vomiting,1.0,16.028505392912173,muscle aches,Diabetes,Peanuts,gastroenteritis,go to emergency,Yes
+33.0,Male,African American,Suburban,High,blurry vision,5.474786656322731,30.0,none,Asthma,Peanuts,food poisoning,go to emergency,No
+64.0,Other,Hispanic,Rural,High,fatigue and weakness,7.0,27.0,muscle aches,Hypertension,Dust,migraine,take home care measures,No
+18.0,Male,African American,Rural,Middle,sore throat and difficulty swallowing,8.0,23.0,fatigue,Asthma,Penicillin,covid-19,take home care measures,No
+88.0,Male,Hispanic,Rural,High,blurry vision,4.0,10.0,nausea,Diabetes,Peanuts,covid-19,take home care measures,No
+46.0,Female,Asian,Rural,Middle,sore throat and difficulty swallowing,1.0,4.0,fever,Hypertension,Peanuts,food poisoning,go to emergency,Yes
+86.0,Other,African American,Suburban,Middle,nausea and vomiting,4.0,5.0,fever,Diabetes,Peanuts,covid-19,take home care measures,Yes
+83.0,Female,African American,Suburban,High,mild headache,7.0,19.0,nausea,Hypertension,Pollen,migraine,go to emergency,Yes
+82.0,Female,African American,Rural,High,back pain and muscle stiffness,10.0,16.028505392912173,fatigue,Hypertension,Penicillin,migraine,visit doctor,Yes
+49.0,Female,Asian,Urban,Low,chest pain,6.0,2.0,fatigue,Diabetes,Penicillin,kidney stones,go to emergency,Yes
+19.0,Other,Other,Rural,High,nausea and vomiting,9.0,29.0,nausea,Hypertension,Peanuts,asthma,take home care measures,Yes
+82.0,Male,Asian,Suburban,Middle,skin rash,1.0,10.0,fatigue,Diabetes,Dust,covid-19,go to emergency,No
+84.0,Male,African American,Suburban,Middle,blurry vision,3.0,28.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,Yes
+86.0,Female,Caucasian,Rural,Low,frequent urination,5.0,3.0,muscle aches,Hypertension,Dust,kidney stones,visit doctor,Yes
+43.0,Male,Hispanic,Urban,Middle,fatigue and weakness,8.0,9.0,nausea,Hypertension,Peanuts,arthritis,take home care measures,Yes
+78.0,Female,Hispanic,Rural,Middle,back pain and muscle stiffness,5.474786656322731,18.0,muscle aches,Hypertension,Pollen,anxiety,visit doctor,No
+70.0,Other,African American,Rural,High,frequent urination,10.0,22.0,none,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+86.0,Male,Asian,Suburban,Low,nausea and vomiting,4.0,9.0,none,Hypertension,Peanuts,anxiety,take home care measures,Yes
+40.0,Female,African American,Suburban,High,chest pain,7.0,6.0,muscle aches,Diabetes,Peanuts,asthma,visit doctor,No
+41.0,Male,African American,Rural,Middle,blurry vision,3.0,8.0,nausea,Diabetes,Pollen,anxiety,go to emergency,Yes
+67.0,Male,African American,Rural,High,blurry vision,6.0,21.0,fever,Asthma,Pollen,covid-19,visit doctor,Yes
+18.0,Other,Other,Suburban,Middle,blurry vision,7.0,16.0,none,Diabetes,Peanuts,diabetes,visit doctor,Yes
+53.2381679389313,Female,Other,Urban,Low,fever and body aches,4.0,29.0,nausea,Diabetes,Dust,sinus infection,take home care measures,Yes
+53.2381679389313,Other,Other,Suburban,Middle,blurry vision,5.0,20.0,nausea,Asthma,Peanuts,sinus infection,take home care measures,Yes
+53.0,Other,African American,Urban,High,blurry vision,2.0,5.0,fever,Diabetes,Penicillin,diabetes,go to emergency,Yes
+38.0,Male,Caucasian,Suburban,Middle,fatigue and weakness,2.0,4.0,fever,Diabetes,Peanuts,kidney stones,take home care measures,Yes
+22.0,Male,Other,Suburban,Low,persistent cough and shortness of breath,5.0,2.0,fever,Diabetes,Peanuts,covid-19,take home care measures,Yes
+60.0,Male,Caucasian,Suburban,High,fatigue and weakness,5.474786656322731,12.0,nausea,Asthma,Peanuts,sinus infection,take home care measures,Yes
+62.0,Female,Caucasian,Suburban,Low,mild headache,7.0,30.0,none,Diabetes,Peanuts,gastroenteritis,take home care measures,Yes
+53.2381679389313,Male,Asian,Urban,Middle,mild headache,1.0,13.0,nausea,Asthma,Pollen,asthma,take home care measures,Yes
+25.0,Other,Hispanic,Suburban,Middle,blurry vision,10.0,28.0,fever,Diabetes,Dust,anxiety,take home care measures,No
+56.0,Other,Asian,Suburban,Low,numbness in legs,4.0,21.0,fever,Hypertension,Pollen,covid-19,take home care measures,No
+80.0,Male,African American,Urban,Low,blurry vision,1.0,16.0,nausea,Diabetes,Peanuts,asthma,visit doctor,No
+63.0,Other,African American,Rural,Middle,skin rash,1.0,13.0,nausea,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+77.0,Other,Caucasian,Urban,Low,frequent urination,8.0,1.0,nausea,Hypertension,Peanuts,gastroenteritis,take home care measures,No
+50.0,Male,Asian,Rural,Middle,frequent urination,4.0,1.0,muscle aches,Diabetes,Peanuts,covid-19,take home care measures,Yes
+72.0,Male,Other,Rural,Low,frequent urination,9.0,25.0,nausea,Hypertension,Dust,food poisoning,take home care measures,Yes
+77.0,Male,Caucasian,Suburban,Middle,numbness in legs,2.0,9.0,fatigue,Asthma,Peanuts,migraine,go to emergency,No
+31.0,Male,Asian,Suburban,Middle,sharp stomach pain,6.0,30.0,none,Diabetes,Penicillin,asthma,go to emergency,Yes
+53.2381679389313,Other,Caucasian,Urban,Middle,fever and body aches,3.0,21.0,muscle aches,Diabetes,Dust,muscle strain,go to emergency,Yes
+64.0,Female,Other,Rural,Middle,numbness in legs,4.0,18.0,muscle aches,Diabetes,Penicillin,allergic reaction,take home care measures,Yes
+42.0,Female,Caucasian,Urban,Middle,joint pain and swelling,2.0,9.0,none,Diabetes,Peanuts,migraine,take home care measures,Yes
+85.0,Male,Caucasian,Urban,Low,nausea and vomiting,2.0,25.0,nausea,Hypertension,Peanuts,muscle strain,take home care measures,No
+61.0,Other,Other,Suburban,Middle,fatigue and weakness,5.474786656322731,30.0,muscle aches,Asthma,Pollen,covid-19,visit doctor,Yes
+39.0,Male,African American,Urban,Low,sharp stomach pain,3.0,19.0,muscle aches,Diabetes,Peanuts,covid-19,visit doctor,No
+44.0,Male,Other,Rural,Middle,sharp stomach pain,1.0,9.0,muscle aches,Diabetes,Dust,allergic reaction,go to emergency,Yes
+53.2381679389313,Male,Asian,Rural,High,blurry vision,9.0,28.0,muscle aches,Hypertension,Dust,diabetes,go to emergency,No
+42.0,Female,Hispanic,Rural,Middle,mild headache,4.0,22.0,nausea,Hypertension,Dust,covid-19,take home care measures,Yes
+26.0,Female,African American,Suburban,Middle,blurry vision,7.0,16.028505392912173,none,Diabetes,Pollen,arthritis,take home care measures,Yes
+73.0,Male,Asian,Urban,Low,mild headache,9.0,4.0,muscle aches,Asthma,Peanuts,covid-19,go to emergency,Yes
+54.0,Female,Hispanic,Suburban,Middle,fever and body aches,2.0,16.028505392912173,fatigue,Asthma,Peanuts,covid-19,take home care measures,Yes
+31.0,Male,Hispanic,Rural,High,blurry vision,5.474786656322731,12.0,nausea,Diabetes,Peanuts,common cold,take home care measures,Yes
+79.0,Male,African American,Urban,Low,blurry vision,7.0,12.0,nausea,Diabetes,Dust,covid-19,take home care measures,Yes
+18.0,Male,Asian,Rural,Low,severe dizziness,10.0,23.0,muscle aches,Diabetes,Penicillin,migraine,take home care measures,Yes
+65.0,Male,Caucasian,Rural,Low,fever and body aches,5.0,7.0,nausea,Asthma,Peanuts,kidney stones,go to emergency,Yes
+85.0,Male,Asian,Rural,Middle,frequent urination,3.0,16.0,fever,Diabetes,Peanuts,diabetes,visit doctor,No
+29.0,Other,Caucasian,Urban,Middle,blurry vision,4.0,29.0,muscle aches,Diabetes,Dust,arthritis,visit doctor,No
+41.0,Male,Hispanic,Urban,Middle,chest pain,3.0,22.0,none,Diabetes,Penicillin,gastroenteritis,go to emergency,Yes
+85.0,Female,Hispanic,Rural,Middle,blurry vision,8.0,15.0,nausea,Diabetes,Dust,covid-19,take home care measures,Yes
+53.2381679389313,Male,Asian,Urban,Low,persistent cough and shortness of breath,10.0,3.0,none,Diabetes,Pollen,flu,take home care measures,Yes
+18.0,Female,Other,Rural,High,mild headache,4.0,30.0,nausea,Diabetes,Penicillin,covid-19,visit doctor,No
+61.0,Other,Asian,Rural,Middle,fatigue and weakness,5.474786656322731,30.0,fever,Diabetes,Peanuts,gastroenteritis,take home care measures,No
+71.0,Male,African American,Urban,Middle,frequent urination,5.474786656322731,24.0,nausea,Diabetes,Penicillin,covid-19,visit doctor,Yes
+66.0,Other,Other,Urban,Middle,persistent cough and shortness of breath,2.0,1.0,fever,Diabetes,Peanuts,common cold,visit doctor,No
+46.0,Other,Asian,Rural,Middle,back pain and muscle stiffness,7.0,6.0,muscle aches,Diabetes,Penicillin,muscle strain,visit doctor,No
+71.0,Male,Hispanic,Rural,Low,blurry vision,7.0,3.0,muscle aches,Diabetes,Peanuts,flu,take home care measures,No
+53.2381679389313,Other,African American,Urban,Low,sharp stomach pain,8.0,16.028505392912173,nausea,Asthma,Peanuts,anxiety,take home care measures,No
+63.0,Male,Other,Rural,Middle,numbness in legs,3.0,5.0,none,Diabetes,Peanuts,sinus infection,visit doctor,No
+47.0,Other,Hispanic,Urban,High,fever and body aches,7.0,20.0,nausea,Diabetes,Peanuts,arthritis,take home care measures,Yes
+83.0,Male,Hispanic,Rural,Middle,joint pain and swelling,6.0,5.0,fatigue,Hypertension,Peanuts,covid-19,take home care measures,Yes
+23.0,Male,Asian,Rural,Low,chest pain,10.0,16.028505392912173,none,Hypertension,Dust,anxiety,visit doctor,Yes
+22.0,Male,Asian,Urban,Low,joint pain and swelling,8.0,23.0,fatigue,Diabetes,Peanuts,hypertension,take home care measures,Yes
+83.0,Male,African American,Suburban,High,chest pain,10.0,16.028505392912173,nausea,Asthma,Peanuts,muscle strain,go to emergency,No
+27.0,Female,Hispanic,Rural,Middle,sore throat and difficulty swallowing,1.0,17.0,none,Hypertension,Peanuts,anxiety,go to emergency,Yes
+31.0,Male,African American,Rural,Low,back pain and muscle stiffness,7.0,18.0,muscle aches,Asthma,Pollen,arthritis,take home care measures,Yes
+29.0,Male,Other,Suburban,High,severe dizziness,8.0,20.0,fever,Diabetes,Pollen,allergic reaction,take home care measures,Yes
+87.0,Other,Caucasian,Urban,High,fever and body aches,5.0,14.0,fatigue,Asthma,Penicillin,kidney stones,take home care measures,Yes
+71.0,Other,African American,Suburban,High,blurry vision,5.474786656322731,3.0,fatigue,Diabetes,Peanuts,sinus infection,visit doctor,No
+72.0,Male,Other,Rural,Middle,blurry vision,5.474786656322731,27.0,fever,Diabetes,Pollen,common cold,visit doctor,No
+54.0,Other,Other,Suburban,Middle,blurry vision,7.0,5.0,nausea,Asthma,Penicillin,kidney stones,visit doctor,No
+75.0,Male,Hispanic,Rural,Low,blurry vision,5.474786656322731,13.0,nausea,Asthma,Peanuts,arthritis,visit doctor,No
+68.0,Male,African American,Urban,High,severe dizziness,5.474786656322731,16.0,muscle aches,Diabetes,Peanuts,food poisoning,take home care measures,No
+26.0,Female,Other,Suburban,Middle,skin rash,7.0,16.0,fever,Asthma,Pollen,hypertension,go to emergency,Yes
+51.0,Male,Caucasian,Urban,Middle,persistent cough and shortness of breath,3.0,6.0,fever,Diabetes,Penicillin,flu,take home care measures,No
+53.2381679389313,Female,Caucasian,Rural,Middle,mild headache,3.0,28.0,none,Diabetes,Penicillin,kidney stones,visit doctor,Yes
+55.0,Female,Hispanic,Rural,High,severe dizziness,5.474786656322731,21.0,nausea,Diabetes,Penicillin,hypertension,take home care measures,Yes
+53.2381679389313,Male,Caucasian,Rural,Middle,chest pain,9.0,16.028505392912173,nausea,Asthma,Peanuts,covid-19,take home care measures,Yes
+61.0,Male,Caucasian,Suburban,Low,frequent urination,2.0,5.0,none,Asthma,Pollen,covid-19,take home care measures,No
+72.0,Female,Asian,Rural,Middle,numbness in legs,7.0,16.028505392912173,nausea,Diabetes,Peanuts,covid-19,take home care measures,No
+58.0,Female,Other,Suburban,Low,sore throat and difficulty swallowing,2.0,15.0,nausea,Asthma,Peanuts,migraine,take home care measures,Yes
+87.0,Female,African American,Rural,Middle,mild headache,5.0,28.0,muscle aches,Diabetes,Peanuts,arthritis,go to emergency,No
+42.0,Male,Other,Suburban,High,nausea and vomiting,3.0,16.028505392912173,muscle aches,Diabetes,Penicillin,sinus infection,take home care measures,No
+31.0,Female,Caucasian,Rural,High,blurry vision,2.0,28.0,fatigue,Asthma,Peanuts,gastroenteritis,visit doctor,Yes
+24.0,Other,Caucasian,Urban,Low,back pain and muscle stiffness,8.0,16.028505392912173,none,Hypertension,Peanuts,covid-19,take home care measures,No
+53.2381679389313,Other,African American,Suburban,Low,fatigue and weakness,1.0,16.028505392912173,fever,Diabetes,Pollen,asthma,visit doctor,No
+57.0,Male,Asian,Rural,Middle,fatigue and weakness,6.0,14.0,none,Hypertension,Peanuts,sinus infection,take home care measures,No
+73.0,Other,Hispanic,Rural,Middle,blurry vision,4.0,12.0,none,Diabetes,Penicillin,kidney stones,take home care measures,No
+58.0,Male,Caucasian,Suburban,Low,blurry vision,5.0,29.0,fatigue,Diabetes,Peanuts,kidney stones,visit doctor,No
+58.0,Other,Caucasian,Rural,Low,severe dizziness,4.0,2.0,none,Hypertension,Penicillin,migraine,visit doctor,No
+44.0,Other,African American,Rural,Middle,blurry vision,2.0,28.0,nausea,Diabetes,Peanuts,allergic reaction,take home care measures,Yes
+57.0,Other,Other,Rural,Middle,blurry vision,7.0,10.0,nausea,Diabetes,Peanuts,gastroenteritis,take home care measures,Yes
+29.0,Other,African American,Rural,Middle,joint pain and swelling,5.0,23.0,fatigue,Asthma,Penicillin,anxiety,take home care measures,No
+59.0,Other,Other,Rural,Low,persistent cough and shortness of breath,4.0,5.0,muscle aches,Hypertension,Peanuts,arthritis,take home care measures,No
+88.0,Other,Hispanic,Urban,High,chest pain,4.0,7.0,none,Diabetes,Peanuts,flu,go to emergency,Yes
+33.0,Male,African American,Suburban,Middle,sore throat and difficulty swallowing,10.0,4.0,muscle aches,Diabetes,Peanuts,covid-19,take home care measures,Yes
+23.0,Male,African American,Urban,High,sore throat and difficulty swallowing,4.0,17.0,fatigue,Diabetes,Penicillin,allergic reaction,take home care measures,Yes
+24.0,Male,Hispanic,Rural,Low,nausea and vomiting,5.474786656322731,16.028505392912173,fever,Hypertension,Peanuts,arthritis,take home care measures,Yes
+76.0,Male,Caucasian,Suburban,High,fever and body aches,1.0,30.0,fatigue,Diabetes,Dust,migraine,go to emergency,Yes
+80.0,Male,Hispanic,Suburban,Middle,sharp stomach pain,2.0,23.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,Yes
+43.0,Other,Other,Rural,Low,joint pain and swelling,3.0,2.0,nausea,Hypertension,Pollen,kidney stones,go to emergency,No
+50.0,Male,African American,Suburban,Middle,skin rash,4.0,1.0,none,Asthma,Dust,food poisoning,take home care measures,Yes
+31.0,Male,Caucasian,Suburban,High,severe dizziness,3.0,28.0,none,Diabetes,Peanuts,covid-19,take home care measures,No
+54.0,Other,Caucasian,Rural,Low,skin rash,4.0,13.0,fever,Diabetes,Dust,covid-19,take home care measures,Yes
+47.0,Male,African American,Rural,Low,blurry vision,5.474786656322731,22.0,nausea,Diabetes,Dust,diabetes,take home care measures,Yes
+46.0,Other,Asian,Urban,High,nausea and vomiting,10.0,1.0,fatigue,Diabetes,Peanuts,muscle strain,go to emergency,Yes
+89.0,Female,African American,Suburban,Middle,sharp stomach pain,6.0,16.028505392912173,nausea,Diabetes,Peanuts,diabetes,take home care measures,No
+38.0,Male,Asian,Suburban,High,fatigue and weakness,5.0,27.0,none,Asthma,Peanuts,covid-19,visit doctor,Yes
+53.2381679389313,Female,African American,Rural,High,mild headache,7.0,24.0,fatigue,Diabetes,Peanuts,sinus infection,take home care measures,Yes
+23.0,Male,Hispanic,Urban,Middle,frequent urination,5.0,11.0,fever,Diabetes,Peanuts,diabetes,take home care measures,Yes
+79.0,Other,Caucasian,Urban,High,frequent urination,5.474786656322731,30.0,fever,Hypertension,Dust,asthma,go to emergency,Yes
+40.0,Female,Hispanic,Rural,Low,persistent cough and shortness of breath,2.0,19.0,nausea,Hypertension,Dust,kidney stones,take home care measures,Yes
+89.0,Other,African American,Rural,Middle,chest pain,5.474786656322731,11.0,fever,Hypertension,Dust,gastroenteritis,go to emergency,Yes
+78.0,Male,Other,Rural,Middle,fever and body aches,5.474786656322731,27.0,fever,Diabetes,Dust,common cold,go to emergency,Yes
+67.0,Other,Caucasian,Urban,Low,blurry vision,5.474786656322731,16.028505392912173,fatigue,Diabetes,Dust,arthritis,take home care measures,Yes
+85.0,Male,Caucasian,Rural,Middle,chest pain,10.0,24.0,nausea,Diabetes,Peanuts,arthritis,visit doctor,Yes
+90.0,Male,Other,Rural,High,numbness in legs,5.474786656322731,25.0,fever,Diabetes,Peanuts,covid-19,go to emergency,Yes
+53.2381679389313,Male,Caucasian,Urban,High,blurry vision,9.0,13.0,nausea,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+53.2381679389313,Male,Asian,Rural,Low,mild headache,7.0,13.0,none,Asthma,Peanuts,anxiety,visit doctor,Yes
+37.0,Female,Other,Urban,High,sore throat and difficulty swallowing,2.0,23.0,nausea,Diabetes,Peanuts,hypertension,take home care measures,Yes
+30.0,Other,Caucasian,Rural,Low,frequent urination,7.0,23.0,fatigue,Asthma,Penicillin,muscle strain,go to emergency,No
+67.0,Other,Other,Rural,Low,joint pain and swelling,2.0,30.0,fatigue,Diabetes,Dust,allergic reaction,take home care measures,No
+55.0,Male,African American,Rural,High,fatigue and weakness,5.0,25.0,none,Diabetes,Peanuts,food poisoning,go to emergency,Yes
+53.2381679389313,Male,African American,Urban,High,skin rash,2.0,14.0,fever,Diabetes,Peanuts,muscle strain,go to emergency,No
+53.2381679389313,Male,Other,Suburban,Low,fatigue and weakness,10.0,30.0,muscle aches,Diabetes,Peanuts,muscle strain,go to emergency,Yes
+59.0,Other,African American,Rural,Low,joint pain and swelling,10.0,1.0,muscle aches,Diabetes,Penicillin,arthritis,take home care measures,Yes
+33.0,Male,African American,Rural,Middle,blurry vision,8.0,16.028505392912173,fever,Hypertension,Dust,migraine,take home care measures,Yes
+46.0,Male,African American,Rural,Middle,nausea and vomiting,8.0,9.0,none,Diabetes,Peanuts,covid-19,take home care measures,No
+67.0,Other,African American,Rural,Middle,back pain and muscle stiffness,2.0,12.0,none,Diabetes,Dust,covid-19,take home care measures,Yes
+24.0,Other,African American,Urban,Low,blurry vision,10.0,16.0,fatigue,Hypertension,Pollen,sinus infection,go to emergency,Yes
+63.0,Other,Other,Rural,Middle,numbness in legs,7.0,17.0,muscle aches,Hypertension,Peanuts,kidney stones,visit doctor,Yes
+78.0,Male,Other,Suburban,Low,chest pain,3.0,18.0,nausea,Diabetes,Dust,covid-19,take home care measures,Yes
+30.0,Female,African American,Rural,High,sharp stomach pain,7.0,3.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,No
+46.0,Male,Hispanic,Urban,High,numbness in legs,10.0,16.028505392912173,nausea,Diabetes,Dust,covid-19,visit doctor,No
+47.0,Other,Hispanic,Rural,Low,blurry vision,6.0,6.0,nausea,Diabetes,Peanuts,flu,take home care measures,No
+72.0,Male,African American,Urban,Middle,frequent urination,8.0,16.0,nausea,Diabetes,Peanuts,sinus infection,go to emergency,Yes
+39.0,Other,Other,Rural,High,persistent cough and shortness of breath,10.0,20.0,fever,Diabetes,Peanuts,kidney stones,visit doctor,No
+53.2381679389313,Female,Caucasian,Urban,Low,sore throat and difficulty swallowing,2.0,21.0,fatigue,Diabetes,Peanuts,diabetes,take home care measures,Yes
+72.0,Other,Hispanic,Suburban,High,blurry vision,1.0,12.0,nausea,Diabetes,Peanuts,hypertension,visit doctor,Yes
+53.2381679389313,Male,Other,Rural,Low,skin rash,8.0,10.0,nausea,Asthma,Peanuts,covid-19,visit doctor,Yes
+90.0,Male,Caucasian,Urban,Low,nausea and vomiting,9.0,22.0,fatigue,Diabetes,Peanuts,muscle strain,go to emergency,Yes
+61.0,Female,Asian,Rural,Low,blurry vision,2.0,16.028505392912173,nausea,Diabetes,Peanuts,allergic reaction,take home care measures,Yes
+73.0,Other,Hispanic,Rural,Middle,chest pain,5.0,2.0,nausea,Asthma,Peanuts,covid-19,go to emergency,No
+59.0,Male,Asian,Rural,High,back pain and muscle stiffness,5.474786656322731,14.0,fever,Hypertension,Peanuts,food poisoning,take home care measures,Yes
+68.0,Female,African American,Suburban,Low,chest pain,9.0,1.0,muscle aches,Asthma,Peanuts,flu,go to emergency,No
+25.0,Female,African American,Suburban,Middle,nausea and vomiting,8.0,6.0,muscle aches,Diabetes,Peanuts,flu,go to emergency,Yes
+45.0,Other,Asian,Urban,Middle,severe dizziness,6.0,16.0,fatigue,Hypertension,Peanuts,allergic reaction,visit doctor,No
+39.0,Male,Asian,Rural,Middle,skin rash,2.0,22.0,nausea,Asthma,Peanuts,flu,visit doctor,No
+60.0,Other,Caucasian,Suburban,Middle,joint pain and swelling,3.0,19.0,nausea,Hypertension,Penicillin,sinus infection,go to emergency,Yes
+53.2381679389313,Other,African American,Rural,Low,frequent urination,3.0,20.0,muscle aches,Hypertension,Peanuts,anxiety,take home care measures,Yes
+87.0,Female,African American,Suburban,High,mild headache,9.0,1.0,fatigue,Diabetes,Pollen,allergic reaction,take home care measures,No
+45.0,Male,Hispanic,Urban,Middle,severe dizziness,5.0,21.0,nausea,Diabetes,Pollen,asthma,take home care measures,No
+60.0,Male,Hispanic,Rural,Low,skin rash,2.0,28.0,nausea,Asthma,Peanuts,arthritis,take home care measures,No
+68.0,Male,African American,Rural,Low,fatigue and weakness,5.474786656322731,21.0,none,Hypertension,Peanuts,anxiety,take home care measures,No
+84.0,Other,Caucasian,Rural,Low,mild headache,9.0,22.0,nausea,Diabetes,Peanuts,food poisoning,take home care measures,Yes
+39.0,Male,Caucasian,Suburban,Middle,joint pain and swelling,4.0,1.0,muscle aches,Diabetes,Peanuts,allergic reaction,go to emergency,No
+88.0,Male,Other,Urban,Low,blurry vision,7.0,1.0,nausea,Diabetes,Pollen,hypertension,go to emergency,Yes
+54.0,Male,Caucasian,Urban,Low,nausea and vomiting,4.0,4.0,fatigue,Asthma,Peanuts,hypertension,take home care measures,Yes
+88.0,Female,African American,Rural,High,mild headache,5.474786656322731,27.0,fever,Asthma,Penicillin,migraine,take home care measures,Yes
+54.0,Male,Other,Rural,Low,severe dizziness,9.0,30.0,none,Hypertension,Pollen,hypertension,visit doctor,No
+36.0,Male,Caucasian,Urban,Middle,nausea and vomiting,5.0,24.0,fever,Diabetes,Dust,flu,take home care measures,Yes
+79.0,Male,Other,Rural,Low,fatigue and weakness,7.0,3.0,nausea,Hypertension,Peanuts,allergic reaction,take home care measures,No
+62.0,Male,African American,Urban,Low,nausea and vomiting,9.0,15.0,nausea,Diabetes,Peanuts,covid-19,take home care measures,No
+71.0,Male,Hispanic,Rural,Low,sore throat and difficulty swallowing,10.0,24.0,muscle aches,Asthma,Pollen,food poisoning,go to emergency,Yes
+67.0,Female,African American,Urban,Middle,blurry vision,5.474786656322731,16.028505392912173,nausea,Diabetes,Peanuts,migraine,visit doctor,No
+19.0,Male,African American,Suburban,Middle,persistent cough and shortness of breath,6.0,4.0,nausea,Diabetes,Pollen,covid-19,go to emergency,Yes
+32.0,Other,African American,Suburban,Middle,fever and body aches,2.0,22.0,fever,Diabetes,Penicillin,allergic reaction,visit doctor,Yes
+31.0,Male,African American,Rural,Middle,sharp stomach pain,2.0,30.0,fatigue,Diabetes,Dust,covid-19,go to emergency,No
+61.0,Female,Hispanic,Suburban,High,joint pain and swelling,6.0,2.0,fever,Asthma,Penicillin,arthritis,take home care measures,No
+37.0,Male,Asian,Urban,High,fever and body aches,4.0,27.0,fever,Diabetes,Peanuts,migraine,take home care measures,Yes
+53.2381679389313,Male,Other,Urban,High,blurry vision,6.0,4.0,nausea,Hypertension,Penicillin,anxiety,take home care measures,No
+34.0,Male,African American,Suburban,Middle,fever and body aches,1.0,16.028505392912173,nausea,Diabetes,Peanuts,common cold,visit doctor,Yes
+89.0,Other,Hispanic,Urban,Middle,numbness in legs,5.0,3.0,fever,Asthma,Pollen,diabetes,take home care measures,Yes
+84.0,Male,Other,Rural,Middle,mild headache,4.0,18.0,fatigue,Diabetes,Dust,flu,go to emergency,Yes
+57.0,Other,Asian,Rural,High,frequent urination,9.0,19.0,fatigue,Diabetes,Pollen,flu,take home care measures,No
+60.0,Female,Other,Suburban,Middle,sharp stomach pain,5.0,9.0,none,Diabetes,Peanuts,migraine,take home care measures,No
+53.2381679389313,Other,Hispanic,Rural,High,nausea and vomiting,1.0,27.0,nausea,Hypertension,Dust,gastroenteritis,visit doctor,No
+86.0,Other,Hispanic,Urban,Low,joint pain and swelling,8.0,7.0,nausea,Diabetes,Penicillin,sinus infection,go to emergency,No
+88.0,Female,Caucasian,Suburban,Middle,blurry vision,2.0,16.028505392912173,muscle aches,Hypertension,Peanuts,hypertension,visit doctor,Yes
+18.0,Male,Hispanic,Rural,Middle,blurry vision,5.0,25.0,fatigue,Diabetes,Penicillin,allergic reaction,take home care measures,No
+24.0,Female,Other,Suburban,Low,blurry vision,1.0,2.0,none,Diabetes,Dust,gastroenteritis,take home care measures,Yes
+82.0,Female,Hispanic,Suburban,High,chest pain,9.0,2.0,fever,Diabetes,Penicillin,hypertension,visit doctor,Yes
+46.0,Female,Asian,Suburban,High,sore throat and difficulty swallowing,5.474786656322731,1.0,fever,Diabetes,Peanuts,anxiety,go to emergency,No
+67.0,Other,African American,Suburban,Middle,blurry vision,8.0,28.0,fatigue,Asthma,Dust,diabetes,go to emergency,No
+26.0,Male,African American,Rural,Middle,persistent cough and shortness of breath,5.0,27.0,fever,Asthma,Peanuts,kidney stones,take home care measures,Yes
+62.0,Male,Asian,Rural,Middle,mild headache,7.0,29.0,muscle aches,Diabetes,Peanuts,covid-19,visit doctor,No
+75.0,Male,Asian,Urban,High,blurry vision,1.0,7.0,muscle aches,Diabetes,Pollen,flu,visit doctor,No
+22.0,Male,African American,Suburban,High,back pain and muscle stiffness,5.0,23.0,nausea,Asthma,Peanuts,diabetes,go to emergency,Yes
+18.0,Male,African American,Urban,High,fever and body aches,2.0,13.0,none,Diabetes,Dust,covid-19,take home care measures,No
+53.2381679389313,Other,Other,Urban,Middle,severe dizziness,4.0,8.0,fatigue,Asthma,Penicillin,diabetes,take home care measures,Yes
+69.0,Other,Hispanic,Suburban,Middle,numbness in legs,4.0,16.028505392912173,fatigue,Diabetes,Peanuts,sinus infection,go to emergency,Yes
+51.0,Male,African American,Rural,Low,skin rash,5.474786656322731,2.0,nausea,Asthma,Penicillin,asthma,go to emergency,Yes
+67.0,Female,Asian,Urban,Middle,fever and body aches,7.0,12.0,none,Diabetes,Penicillin,migraine,visit doctor,Yes
+53.2381679389313,Female,African American,Urban,Middle,skin rash,10.0,16.028505392912173,muscle aches,Diabetes,Penicillin,hypertension,take home care measures,Yes
+55.0,Male,Asian,Urban,Middle,fatigue and weakness,7.0,13.0,none,Diabetes,Peanuts,hypertension,visit doctor,Yes
+37.0,Female,Caucasian,Suburban,Middle,persistent cough and shortness of breath,4.0,13.0,muscle aches,Asthma,Peanuts,covid-19,take home care measures,No
+53.2381679389313,Male,Caucasian,Suburban,High,numbness in legs,8.0,16.028505392912173,none,Diabetes,Dust,covid-19,visit doctor,No
+33.0,Female,African American,Rural,High,mild headache,6.0,13.0,fever,Diabetes,Peanuts,hypertension,go to emergency,No
+81.0,Female,African American,Rural,Low,numbness in legs,4.0,16.0,fever,Hypertension,Pollen,kidney stones,go to emergency,No
+29.0,Other,African American,Rural,High,severe dizziness,8.0,23.0,nausea,Hypertension,Penicillin,covid-19,go to emergency,Yes
+51.0,Male,Other,Suburban,High,blurry vision,8.0,13.0,nausea,Asthma,Peanuts,flu,take home care measures,Yes
+36.0,Male,Caucasian,Suburban,High,frequent urination,5.0,23.0,fever,Diabetes,Peanuts,diabetes,take home care measures,No
+53.2381679389313,Female,Caucasian,Suburban,Low,blurry vision,2.0,24.0,none,Asthma,Penicillin,flu,go to emergency,Yes
+74.0,Male,Hispanic,Rural,Low,nausea and vomiting,5.0,24.0,nausea,Diabetes,Pollen,food poisoning,take home care measures,No
+62.0,Male,African American,Rural,Middle,fever and body aches,4.0,2.0,muscle aches,Diabetes,Dust,covid-19,visit doctor,No
+86.0,Female,African American,Urban,Middle,blurry vision,9.0,26.0,muscle aches,Diabetes,Dust,covid-19,take home care measures,No
+21.0,Other,African American,Suburban,Low,blurry vision,10.0,16.028505392912173,nausea,Diabetes,Dust,flu,visit doctor,No
+62.0,Female,African American,Suburban,High,back pain and muscle stiffness,4.0,7.0,nausea,Hypertension,Dust,diabetes,take home care measures,No
+53.2381679389313,Male,Asian,Rural,Middle,sore throat and difficulty swallowing,5.474786656322731,3.0,nausea,Diabetes,Peanuts,hypertension,take home care measures,Yes
+41.0,Other,Caucasian,Suburban,Middle,skin rash,5.474786656322731,16.028505392912173,fever,Hypertension,Penicillin,arthritis,go to emergency,Yes
+77.0,Male,African American,Urban,Middle,persistent cough and shortness of breath,1.0,25.0,nausea,Asthma,Peanuts,arthritis,go to emergency,No
+81.0,Female,Caucasian,Urban,Low,blurry vision,8.0,17.0,muscle aches,Diabetes,Peanuts,kidney stones,visit doctor,No
+23.0,Male,Asian,Urban,Middle,persistent cough and shortness of breath,1.0,27.0,nausea,Hypertension,Peanuts,sinus infection,visit doctor,Yes
+85.0,Male,African American,Suburban,High,blurry vision,4.0,12.0,fatigue,Diabetes,Dust,gastroenteritis,take home care measures,Yes
+79.0,Male,Caucasian,Suburban,High,blurry vision,8.0,16.028505392912173,muscle aches,Asthma,Peanuts,covid-19,take home care measures,Yes
+90.0,Female,African American,Suburban,High,numbness in legs,7.0,26.0,nausea,Asthma,Peanuts,covid-19,take home care measures,Yes
+53.2381679389313,Male,African American,Urban,Middle,frequent urination,9.0,14.0,muscle aches,Hypertension,Peanuts,common cold,go to emergency,Yes
+53.2381679389313,Female,Caucasian,Rural,Low,sore throat and difficulty swallowing,5.474786656322731,11.0,fever,Diabetes,Penicillin,diabetes,go to emergency,Yes
+31.0,Male,Asian,Rural,Low,mild headache,3.0,27.0,nausea,Asthma,Peanuts,hypertension,visit doctor,No
+38.0,Female,Caucasian,Rural,Low,blurry vision,4.0,8.0,fever,Diabetes,Peanuts,food poisoning,visit doctor,No
+61.0,Male,African American,Urban,Middle,fever and body aches,8.0,7.0,nausea,Hypertension,Penicillin,common cold,take home care measures,Yes
+24.0,Female,African American,Rural,Low,fever and body aches,7.0,16.028505392912173,nausea,Diabetes,Peanuts,flu,take home care measures,No
+39.0,Other,African American,Suburban,High,frequent urination,4.0,17.0,nausea,Diabetes,Peanuts,covid-19,take home care measures,No
+53.0,Other,Other,Rural,High,chest pain,5.474786656322731,30.0,none,Diabetes,Peanuts,covid-19,take home care measures,No
+36.0,Female,African American,Rural,Low,persistent cough and shortness of breath,5.0,19.0,none,Diabetes,Peanuts,kidney stones,go to emergency,No
+53.2381679389313,Male,Caucasian,Rural,Middle,blurry vision,4.0,27.0,muscle aches,Diabetes,Peanuts,diabetes,go to emergency,Yes
+81.0,Female,Asian,Rural,High,severe dizziness,10.0,15.0,nausea,Asthma,Peanuts,anxiety,go to emergency,No
+25.0,Female,African American,Urban,Middle,chest pain,4.0,16.028505392912173,none,Diabetes,Peanuts,hypertension,visit doctor,No
+82.0,Male,Hispanic,Suburban,Middle,fever and body aches,4.0,16.028505392912173,none,Diabetes,Dust,covid-19,go to emergency,No
+39.0,Male,Asian,Rural,High,blurry vision,7.0,12.0,none,Asthma,Penicillin,common cold,take home care measures,No
+76.0,Male,African American,Urban,Middle,numbness in legs,5.474786656322731,14.0,fever,Diabetes,Dust,allergic reaction,take home care measures,Yes
+72.0,Male,African American,Suburban,Middle,sharp stomach pain,10.0,16.028505392912173,fatigue,Hypertension,Pollen,covid-19,take home care measures,Yes
+30.0,Female,Asian,Suburban,Low,skin rash,5.474786656322731,8.0,nausea,Hypertension,Dust,gastroenteritis,go to emergency,No
+45.0,Other,Hispanic,Suburban,Middle,fever and body aches,5.474786656322731,16.028505392912173,nausea,Diabetes,Penicillin,anxiety,take home care measures,Yes
+44.0,Other,African American,Rural,Low,frequent urination,7.0,6.0,muscle aches,Diabetes,Peanuts,gastroenteritis,visit doctor,Yes
+78.0,Other,Asian,Urban,Low,chest pain,8.0,11.0,muscle aches,Diabetes,Peanuts,diabetes,take home care measures,No
+79.0,Female,Other,Suburban,High,numbness in legs,5.0,22.0,none,Diabetes,Peanuts,asthma,go to emergency,Yes
+76.0,Female,Other,Urban,Low,severe dizziness,6.0,13.0,nausea,Diabetes,Dust,covid-19,take home care measures,Yes
+48.0,Other,African American,Suburban,High,persistent cough and shortness of breath,7.0,16.028505392912173,nausea,Asthma,Peanuts,common cold,visit doctor,No
+68.0,Other,Caucasian,Urban,Middle,fever and body aches,6.0,25.0,muscle aches,Asthma,Peanuts,diabetes,take home care measures,No
+20.0,Male,Hispanic,Urban,Middle,back pain and muscle stiffness,7.0,4.0,fever,Diabetes,Peanuts,asthma,take home care measures,Yes
+29.0,Male,Hispanic,Rural,Low,joint pain and swelling,9.0,20.0,nausea,Asthma,Pollen,flu,visit doctor,Yes
+59.0,Female,African American,Rural,High,numbness in legs,5.0,7.0,none,Hypertension,Pollen,migraine,go to emergency,No
+45.0,Male,African American,Urban,Middle,fever and body aches,2.0,15.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,No
+45.0,Female,Caucasian,Suburban,High,back pain and muscle stiffness,3.0,15.0,fever,Asthma,Peanuts,flu,go to emergency,Yes
+27.0,Female,Caucasian,Urban,Middle,sharp stomach pain,5.474786656322731,1.0,fever,Hypertension,Peanuts,hypertension,visit doctor,No
+60.0,Male,African American,Rural,Middle,sore throat and difficulty swallowing,1.0,5.0,muscle aches,Diabetes,Dust,food poisoning,go to emergency,No
+59.0,Male,Asian,Rural,Middle,chest pain,5.474786656322731,6.0,nausea,Asthma,Peanuts,common cold,visit doctor,No
+73.0,Other,Hispanic,Rural,High,frequent urination,6.0,14.0,nausea,Hypertension,Dust,anxiety,visit doctor,Yes
+73.0,Other,African American,Suburban,Low,sore throat and difficulty swallowing,5.474786656322731,18.0,fever,Asthma,Penicillin,covid-19,visit doctor,No
+36.0,Male,Caucasian,Suburban,High,fatigue and weakness,9.0,14.0,nausea,Hypertension,Penicillin,anxiety,go to emergency,No
+49.0,Female,African American,Suburban,High,sharp stomach pain,1.0,8.0,fatigue,Hypertension,Pollen,covid-19,go to emergency,Yes
+53.2381679389313,Male,African American,Suburban,Middle,sharp stomach pain,6.0,2.0,none,Asthma,Dust,sinus infection,take home care measures,No
+84.0,Male,African American,Rural,High,blurry vision,1.0,20.0,none,Hypertension,Peanuts,covid-19,take home care measures,No
+25.0,Other,Hispanic,Suburban,Low,sharp stomach pain,5.474786656322731,14.0,fever,Diabetes,Peanuts,migraine,take home care measures,No
+22.0,Female,Other,Rural,Middle,fever and body aches,4.0,24.0,fatigue,Diabetes,Peanuts,muscle strain,visit doctor,Yes
+46.0,Male,Other,Rural,Low,fever and body aches,6.0,3.0,fever,Diabetes,Peanuts,hypertension,go to emergency,Yes
+53.2381679389313,Other,Hispanic,Rural,Middle,blurry vision,10.0,20.0,fatigue,Diabetes,Peanuts,gastroenteritis,visit doctor,Yes
+53.2381679389313,Other,African American,Urban,Low,fever and body aches,10.0,23.0,fever,Asthma,Peanuts,anxiety,take home care measures,Yes
+31.0,Male,African American,Suburban,Middle,joint pain and swelling,8.0,2.0,nausea,Asthma,Peanuts,gastroenteritis,go to emergency,Yes
+88.0,Female,African American,Rural,Middle,numbness in legs,3.0,19.0,nausea,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+50.0,Other,Caucasian,Urban,Low,persistent cough and shortness of breath,4.0,16.028505392912173,fever,Asthma,Peanuts,muscle strain,visit doctor,No
+29.0,Female,African American,Rural,High,chest pain,4.0,30.0,fatigue,Asthma,Peanuts,common cold,go to emergency,No
+53.2381679389313,Male,Asian,Urban,High,sore throat and difficulty swallowing,7.0,19.0,nausea,Asthma,Dust,arthritis,take home care measures,No
+26.0,Female,African American,Suburban,Low,fever and body aches,8.0,11.0,nausea,Diabetes,Pollen,flu,go to emergency,No
+76.0,Female,Hispanic,Suburban,High,back pain and muscle stiffness,5.474786656322731,24.0,fatigue,Asthma,Dust,kidney stones,take home care measures,No
+65.0,Male,Caucasian,Suburban,Low,back pain and muscle stiffness,5.474786656322731,25.0,none,Asthma,Peanuts,migraine,visit doctor,Yes
+31.0,Male,African American,Rural,Middle,blurry vision,3.0,23.0,none,Diabetes,Pollen,food poisoning,take home care measures,Yes
+50.0,Other,Caucasian,Suburban,High,sharp stomach pain,5.474786656322731,16.028505392912173,fatigue,Diabetes,Pollen,kidney stones,go to emergency,Yes
+48.0,Other,African American,Rural,Middle,fatigue and weakness,2.0,30.0,fatigue,Asthma,Peanuts,flu,visit doctor,Yes
+85.0,Male,Caucasian,Rural,Low,nausea and vomiting,5.0,16.028505392912173,fever,Diabetes,Peanuts,allergic reaction,visit doctor,No
+20.0,Male,African American,Urban,Middle,sore throat and difficulty swallowing,4.0,12.0,none,Hypertension,Peanuts,food poisoning,take home care measures,Yes
+71.0,Male,African American,Rural,Middle,joint pain and swelling,2.0,16.028505392912173,none,Diabetes,Penicillin,food poisoning,take home care measures,Yes
+23.0,Female,Caucasian,Suburban,Low,sharp stomach pain,1.0,29.0,nausea,Diabetes,Peanuts,sinus infection,go to emergency,Yes
+53.2381679389313,Male,Other,Suburban,Low,back pain and muscle stiffness,1.0,30.0,nausea,Diabetes,Pollen,covid-19,take home care measures,Yes
+37.0,Male,Hispanic,Suburban,Middle,back pain and muscle stiffness,5.0,10.0,fatigue,Diabetes,Dust,anxiety,go to emergency,No
+75.0,Male,African American,Rural,Low,mild headache,5.474786656322731,3.0,fatigue,Asthma,Peanuts,anxiety,go to emergency,No
+53.2381679389313,Male,African American,Rural,High,fatigue and weakness,5.0,9.0,fever,Hypertension,Dust,diabetes,visit doctor,No
+24.0,Male,African American,Suburban,Low,fever and body aches,7.0,25.0,none,Asthma,Peanuts,hypertension,go to emergency,Yes
+48.0,Female,Caucasian,Urban,Low,back pain and muscle stiffness,1.0,15.0,fever,Diabetes,Peanuts,asthma,go to emergency,No
+61.0,Male,Hispanic,Rural,Low,blurry vision,7.0,16.028505392912173,none,Diabetes,Peanuts,arthritis,go to emergency,Yes
+48.0,Male,Caucasian,Urban,Low,sore throat and difficulty swallowing,6.0,16.028505392912173,fever,Diabetes,Peanuts,hypertension,take home care measures,Yes
+53.2381679389313,Male,Hispanic,Rural,Middle,skin rash,5.474786656322731,16.028505392912173,nausea,Hypertension,Peanuts,allergic reaction,go to emergency,No
+53.2381679389313,Female,Caucasian,Urban,Middle,numbness in legs,10.0,2.0,nausea,Diabetes,Pollen,common cold,take home care measures,No
+62.0,Female,Hispanic,Urban,High,sore throat and difficulty swallowing,5.474786656322731,16.0,muscle aches,Diabetes,Penicillin,hypertension,go to emergency,No
+22.0,Male,African American,Rural,High,severe dizziness,4.0,19.0,fatigue,Hypertension,Peanuts,anxiety,go to emergency,No
+49.0,Female,Hispanic,Suburban,Middle,blurry vision,7.0,6.0,none,Asthma,Peanuts,covid-19,take home care measures,Yes
+39.0,Male,Asian,Urban,Middle,mild headache,2.0,9.0,fatigue,Diabetes,Peanuts,asthma,take home care measures,Yes
+79.0,Male,Hispanic,Suburban,Middle,blurry vision,5.474786656322731,29.0,muscle aches,Asthma,Peanuts,covid-19,visit doctor,No
+89.0,Male,African American,Urban,High,sore throat and difficulty swallowing,10.0,16.0,none,Diabetes,Pollen,sinus infection,go to emergency,No
+69.0,Female,Asian,Urban,Low,frequent urination,5.0,9.0,nausea,Asthma,Penicillin,kidney stones,go to emergency,Yes
+36.0,Male,African American,Suburban,High,nausea and vomiting,4.0,28.0,none,Diabetes,Dust,anxiety,take home care measures,No
+54.0,Male,African American,Rural,Middle,blurry vision,1.0,9.0,nausea,Hypertension,Pollen,common cold,go to emergency,No
+90.0,Male,African American,Urban,Middle,fatigue and weakness,9.0,1.0,nausea,Asthma,Peanuts,allergic reaction,visit doctor,No
+63.0,Female,African American,Rural,Low,blurry vision,6.0,21.0,nausea,Hypertension,Peanuts,anxiety,visit doctor,No
+53.2381679389313,Male,Hispanic,Rural,Low,blurry vision,5.474786656322731,20.0,muscle aches,Diabetes,Penicillin,food poisoning,go to emergency,No
+62.0,Female,African American,Suburban,Middle,fever and body aches,3.0,18.0,none,Diabetes,Dust,arthritis,go to emergency,Yes
+87.0,Other,Asian,Rural,Low,fatigue and weakness,3.0,8.0,nausea,Hypertension,Dust,food poisoning,take home care measures,Yes
+34.0,Female,African American,Suburban,Middle,sore throat and difficulty swallowing,2.0,9.0,nausea,Diabetes,Peanuts,common cold,take home care measures,No
+35.0,Male,Other,Rural,Middle,blurry vision,7.0,21.0,fever,Hypertension,Pollen,migraine,visit doctor,Yes
+26.0,Male,African American,Suburban,High,persistent cough and shortness of breath,2.0,2.0,nausea,Hypertension,Peanuts,flu,take home care measures,Yes
+42.0,Male,African American,Rural,Low,numbness in legs,3.0,16.028505392912173,fatigue,Diabetes,Dust,covid-19,go to emergency,Yes
+78.0,Male,Other,Rural,Middle,mild headache,9.0,11.0,nausea,Diabetes,Dust,food poisoning,take home care measures,No
+54.0,Female,African American,Urban,High,back pain and muscle stiffness,5.474786656322731,6.0,fever,Diabetes,Peanuts,arthritis,take home care measures,Yes
+49.0,Other,Asian,Suburban,Middle,back pain and muscle stiffness,5.0,20.0,nausea,Diabetes,Penicillin,common cold,take home care measures,Yes
+22.0,Male,Caucasian,Rural,Middle,severe dizziness,1.0,26.0,muscle aches,Diabetes,Peanuts,diabetes,take home care measures,No
+66.0,Other,African American,Rural,Middle,nausea and vomiting,1.0,29.0,fever,Diabetes,Penicillin,diabetes,take home care measures,Yes
+53.2381679389313,Female,African American,Urban,High,chest pain,9.0,24.0,nausea,Diabetes,Peanuts,asthma,visit doctor,No
+56.0,Male,Hispanic,Urban,Middle,blurry vision,5.474786656322731,13.0,none,Diabetes,Penicillin,common cold,go to emergency,Yes
+43.0,Female,Asian,Urban,High,chest pain,9.0,2.0,nausea,Hypertension,Peanuts,covid-19,take home care measures,Yes
+22.0,Female,Caucasian,Rural,High,fever and body aches,3.0,23.0,muscle aches,Diabetes,Penicillin,diabetes,visit doctor,No
+20.0,Male,Other,Rural,High,sharp stomach pain,9.0,23.0,none,Diabetes,Dust,migraine,take home care measures,Yes
+37.0,Other,Asian,Rural,Low,blurry vision,5.474786656322731,26.0,nausea,Diabetes,Peanuts,anxiety,go to emergency,No
+53.2381679389313,Other,Caucasian,Urban,Low,blurry vision,10.0,16.028505392912173,fever,Diabetes,Penicillin,hypertension,go to emergency,Yes
+20.0,Male,Other,Urban,High,skin rash,5.474786656322731,19.0,nausea,Hypertension,Pollen,common cold,take home care measures,No
+51.0,Male,Caucasian,Suburban,Middle,sharp stomach pain,3.0,5.0,fatigue,Diabetes,Peanuts,flu,take home care measures,No
+70.0,Male,Caucasian,Suburban,High,blurry vision,5.0,29.0,fatigue,Diabetes,Peanuts,covid-19,visit doctor,Yes
+35.0,Male,Other,Rural,Middle,blurry vision,3.0,10.0,muscle aches,Diabetes,Pollen,food poisoning,take home care measures,No
+55.0,Female,Caucasian,Urban,High,blurry vision,9.0,8.0,nausea,Asthma,Peanuts,diabetes,take home care measures,Yes
+29.0,Other,Hispanic,Urban,Middle,blurry vision,5.474786656322731,23.0,nausea,Diabetes,Dust,migraine,take home care measures,Yes
+25.0,Female,Asian,Rural,Middle,skin rash,6.0,11.0,muscle aches,Diabetes,Dust,hypertension,visit doctor,Yes
+38.0,Male,Asian,Rural,Middle,nausea and vomiting,2.0,22.0,nausea,Diabetes,Pollen,hypertension,go to emergency,Yes
+86.0,Female,Hispanic,Suburban,Low,persistent cough and shortness of breath,5.474786656322731,24.0,fever,Asthma,Penicillin,gastroenteritis,visit doctor,Yes
+53.2381679389313,Female,Asian,Urban,Middle,chest pain,5.0,10.0,nausea,Asthma,Dust,muscle strain,go to emergency,No
+53.2381679389313,Male,African American,Suburban,Middle,blurry vision,10.0,16.028505392912173,fatigue,Hypertension,Peanuts,arthritis,go to emergency,Yes
+46.0,Other,African American,Suburban,Low,blurry vision,1.0,16.028505392912173,muscle aches,Diabetes,Pollen,food poisoning,go to emergency,No
+27.0,Female,African American,Suburban,Low,blurry vision,6.0,27.0,none,Asthma,Dust,diabetes,take home care measures,Yes
+37.0,Female,African American,Rural,Middle,chest pain,10.0,20.0,muscle aches,Diabetes,Pollen,kidney stones,take home care measures,Yes
+72.0,Other,Asian,Urban,Middle,blurry vision,8.0,17.0,fatigue,Diabetes,Peanuts,asthma,take home care measures,Yes
+85.0,Other,African American,Suburban,Low,fatigue and weakness,5.474786656322731,4.0,fatigue,Diabetes,Pollen,common cold,go to emergency,No
+81.0,Female,African American,Rural,Low,fatigue and weakness,7.0,11.0,fever,Asthma,Penicillin,food poisoning,visit doctor,Yes
+69.0,Other,Hispanic,Urban,High,blurry vision,3.0,8.0,muscle aches,Diabetes,Peanuts,anxiety,take home care measures,No
+62.0,Male,African American,Suburban,High,blurry vision,1.0,16.028505392912173,fatigue,Diabetes,Pollen,kidney stones,take home care measures,No
+28.0,Male,African American,Rural,Middle,blurry vision,6.0,9.0,nausea,Asthma,Peanuts,covid-19,take home care measures,Yes
+32.0,Male,African American,Rural,Middle,sore throat and difficulty swallowing,10.0,6.0,fever,Diabetes,Dust,muscle strain,visit doctor,No
+53.0,Female,Caucasian,Suburban,Middle,skin rash,2.0,16.0,muscle aches,Asthma,Dust,kidney stones,visit doctor,No
+62.0,Male,Caucasian,Rural,High,blurry vision,4.0,5.0,muscle aches,Asthma,Peanuts,food poisoning,visit doctor,No
+51.0,Female,Other,Suburban,Low,blurry vision,3.0,16.028505392912173,nausea,Hypertension,Peanuts,arthritis,take home care measures,Yes
+41.0,Female,Caucasian,Rural,Middle,persistent cough and shortness of breath,6.0,30.0,fever,Diabetes,Penicillin,food poisoning,go to emergency,Yes
+38.0,Male,African American,Rural,High,numbness in legs,7.0,13.0,fever,Asthma,Pollen,anxiety,take home care measures,Yes
+53.2381679389313,Male,Other,Urban,Low,blurry vision,5.0,19.0,nausea,Diabetes,Peanuts,sinus infection,visit doctor,No
+76.0,Male,African American,Urban,High,mild headache,7.0,9.0,muscle aches,Diabetes,Penicillin,common cold,visit doctor,No
+28.0,Female,African American,Urban,High,chest pain,3.0,28.0,fatigue,Asthma,Pollen,hypertension,take home care measures,No
+27.0,Female,African American,Rural,Middle,sharp stomach pain,1.0,3.0,fever,Diabetes,Dust,hypertension,go to emergency,No
+19.0,Other,Asian,Rural,High,skin rash,4.0,14.0,none,Asthma,Peanuts,migraine,visit doctor,No
+25.0,Other,Asian,Suburban,Middle,severe dizziness,2.0,27.0,nausea,Diabetes,Pollen,migraine,go to emergency,No
+25.0,Male,Caucasian,Rural,High,frequent urination,2.0,16.028505392912173,nausea,Diabetes,Peanuts,diabetes,go to emergency,Yes
+82.0,Other,Hispanic,Urban,High,fever and body aches,4.0,19.0,nausea,Diabetes,Penicillin,kidney stones,take home care measures,Yes
+74.0,Female,Asian,Rural,High,blurry vision,7.0,26.0,nausea,Diabetes,Penicillin,kidney stones,take home care measures,Yes
+62.0,Female,Asian,Urban,High,sharp stomach pain,6.0,9.0,nausea,Diabetes,Dust,diabetes,take home care measures,Yes
+43.0,Other,African American,Suburban,Middle,blurry vision,3.0,10.0,fatigue,Diabetes,Peanuts,covid-19,visit doctor,Yes
+57.0,Other,Asian,Rural,Middle,chest pain,1.0,30.0,nausea,Diabetes,Penicillin,covid-19,visit doctor,No
+86.0,Female,Other,Rural,Middle,mild headache,5.0,20.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,Yes
+36.0,Female,Other,Urban,Middle,blurry vision,6.0,20.0,nausea,Diabetes,Peanuts,anxiety,visit doctor,No
+84.0,Male,Hispanic,Urban,Middle,mild headache,8.0,13.0,fatigue,Asthma,Pollen,gastroenteritis,take home care measures,Yes
+52.0,Female,Caucasian,Rural,High,severe dizziness,7.0,16.0,none,Asthma,Peanuts,hypertension,visit doctor,No
+63.0,Male,African American,Rural,Middle,joint pain and swelling,1.0,5.0,none,Asthma,Peanuts,gastroenteritis,go to emergency,No
+42.0,Female,African American,Rural,High,severe dizziness,4.0,17.0,muscle aches,Diabetes,Dust,sinus infection,visit doctor,No
+43.0,Female,Asian,Urban,Low,frequent urination,10.0,22.0,fever,Diabetes,Dust,sinus infection,take home care measures,No
+20.0,Male,Hispanic,Urban,Low,fever and body aches,7.0,5.0,fever,Asthma,Peanuts,flu,go to emergency,No
+19.0,Other,Hispanic,Rural,Low,blurry vision,4.0,12.0,fatigue,Diabetes,Pollen,asthma,go to emergency,No
+53.2381679389313,Male,Other,Urban,Middle,joint pain and swelling,5.474786656322731,16.0,none,Diabetes,Peanuts,covid-19,visit doctor,No
+78.0,Other,African American,Suburban,Low,blurry vision,1.0,27.0,muscle aches,Asthma,Pollen,arthritis,take home care measures,Yes
+51.0,Female,African American,Rural,Middle,chest pain,10.0,27.0,muscle aches,Diabetes,Penicillin,food poisoning,take home care measures,No
+53.0,Female,Asian,Urban,Low,fever and body aches,4.0,8.0,fever,Asthma,Pollen,covid-19,visit doctor,Yes
+36.0,Male,Asian,Suburban,Low,skin rash,6.0,23.0,muscle aches,Diabetes,Peanuts,covid-19,take home care measures,No
+35.0,Female,Hispanic,Urban,High,nausea and vomiting,6.0,2.0,fatigue,Diabetes,Pollen,covid-19,take home care measures,Yes
+80.0,Female,Caucasian,Rural,Middle,blurry vision,1.0,2.0,fever,Asthma,Penicillin,anxiety,visit doctor,Yes
+87.0,Female,African American,Rural,High,mild headache,4.0,30.0,fatigue,Hypertension,Pollen,food poisoning,go to emergency,Yes
+53.2381679389313,Other,Other,Rural,Middle,persistent cough and shortness of breath,10.0,19.0,nausea,Diabetes,Peanuts,arthritis,go to emergency,No
+53.2381679389313,Other,Hispanic,Urban,Low,skin rash,2.0,18.0,nausea,Asthma,Peanuts,kidney stones,visit doctor,No
+18.0,Other,Other,Rural,Low,sharp stomach pain,9.0,3.0,nausea,Diabetes,Dust,asthma,take home care measures,Yes
+87.0,Female,Asian,Urban,High,numbness in legs,6.0,7.0,muscle aches,Hypertension,Peanuts,flu,take home care measures,No
+71.0,Male,African American,Rural,Low,frequent urination,5.474786656322731,23.0,fever,Diabetes,Peanuts,kidney stones,visit doctor,Yes
+38.0,Female,Caucasian,Rural,Low,sharp stomach pain,5.474786656322731,27.0,none,Asthma,Dust,common cold,take home care measures,No
+90.0,Other,African American,Suburban,Low,fever and body aches,7.0,26.0,none,Diabetes,Peanuts,kidney stones,visit doctor,Yes
+90.0,Male,Hispanic,Rural,High,mild headache,1.0,19.0,fever,Hypertension,Peanuts,covid-19,take home care measures,No
+83.0,Female,Caucasian,Suburban,High,blurry vision,10.0,12.0,nausea,Diabetes,Penicillin,diabetes,visit doctor,Yes
+63.0,Female,Asian,Rural,Middle,numbness in legs,3.0,23.0,nausea,Hypertension,Penicillin,covid-19,take home care measures,No
+79.0,Other,Hispanic,Suburban,High,skin rash,7.0,16.028505392912173,fever,Diabetes,Penicillin,migraine,take home care measures,Yes
+53.2381679389313,Female,Caucasian,Rural,Low,blurry vision,3.0,29.0,nausea,Asthma,Dust,asthma,take home care measures,Yes
+53.2381679389313,Female,Caucasian,Rural,Low,skin rash,5.474786656322731,25.0,none,Diabetes,Penicillin,covid-19,take home care measures,Yes
+53.2381679389313,Other,Caucasian,Urban,Middle,sore throat and difficulty swallowing,10.0,30.0,nausea,Asthma,Peanuts,migraine,take home care measures,Yes
+53.2381679389313,Male,Other,Suburban,Middle,mild headache,9.0,23.0,none,Asthma,Peanuts,kidney stones,go to emergency,No
+58.0,Other,Hispanic,Urban,Low,blurry vision,5.0,16.0,none,Hypertension,Peanuts,covid-19,take home care measures,No
+83.0,Female,Asian,Suburban,Middle,skin rash,5.474786656322731,14.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,Yes
+89.0,Other,Hispanic,Urban,High,numbness in legs,9.0,19.0,fatigue,Diabetes,Peanuts,covid-19,visit doctor,No
+25.0,Other,Other,Urban,High,back pain and muscle stiffness,8.0,16.028505392912173,nausea,Asthma,Peanuts,asthma,take home care measures,Yes
+53.2381679389313,Other,African American,Rural,High,frequent urination,1.0,16.028505392912173,fever,Asthma,Penicillin,common cold,take home care measures,Yes
+73.0,Other,African American,Urban,High,blurry vision,5.0,24.0,muscle aches,Diabetes,Peanuts,flu,take home care measures,Yes
+73.0,Male,Other,Rural,Middle,blurry vision,7.0,20.0,fatigue,Diabetes,Penicillin,gastroenteritis,take home care measures,Yes
+50.0,Other,Caucasian,Urban,Middle,sharp stomach pain,6.0,23.0,none,Asthma,Peanuts,diabetes,take home care measures,Yes
+60.0,Female,African American,Rural,Low,chest pain,6.0,11.0,nausea,Diabetes,Pollen,flu,visit doctor,Yes
+18.0,Male,African American,Suburban,Middle,blurry vision,3.0,10.0,fatigue,Asthma,Peanuts,anxiety,take home care measures,No
+23.0,Other,Asian,Urban,Middle,severe dizziness,6.0,16.0,nausea,Asthma,Peanuts,food poisoning,visit doctor,Yes
+53.2381679389313,Female,African American,Suburban,Low,blurry vision,5.0,26.0,fatigue,Diabetes,Dust,common cold,take home care measures,No
+19.0,Other,African American,Rural,High,chest pain,9.0,16.028505392912173,none,Hypertension,Penicillin,food poisoning,take home care measures,Yes
+35.0,Male,Caucasian,Urban,Low,fever and body aches,6.0,25.0,muscle aches,Asthma,Peanuts,covid-19,take home care measures,Yes
+53.2381679389313,Female,Caucasian,Urban,Middle,persistent cough and shortness of breath,5.474786656322731,24.0,none,Diabetes,Dust,muscle strain,take home care measures,No
+31.0,Male,Other,Suburban,High,sore throat and difficulty swallowing,8.0,4.0,nausea,Diabetes,Peanuts,common cold,visit doctor,Yes
+77.0,Other,Asian,Suburban,Low,sharp stomach pain,1.0,3.0,nausea,Hypertension,Peanuts,kidney stones,take home care measures,Yes
+28.0,Male,Caucasian,Urban,High,back pain and muscle stiffness,4.0,29.0,fever,Diabetes,Dust,muscle strain,visit doctor,Yes
+36.0,Female,Asian,Rural,High,persistent cough and shortness of breath,5.0,2.0,fatigue,Diabetes,Peanuts,migraine,take home care measures,Yes
+74.0,Female,African American,Suburban,Middle,fever and body aches,4.0,29.0,fever,Hypertension,Peanuts,food poisoning,go to emergency,Yes
+63.0,Female,Asian,Rural,Low,blurry vision,2.0,3.0,fever,Hypertension,Pollen,covid-19,visit doctor,Yes
+33.0,Other,Hispanic,Urban,High,blurry vision,3.0,19.0,fever,Hypertension,Pollen,kidney stones,go to emergency,No
+35.0,Other,African American,Rural,High,severe dizziness,5.474786656322731,28.0,nausea,Diabetes,Penicillin,allergic reaction,take home care measures,No
+62.0,Male,Caucasian,Urban,Middle,fatigue and weakness,1.0,16.028505392912173,fever,Diabetes,Peanuts,covid-19,take home care measures,Yes
+26.0,Female,African American,Rural,Middle,numbness in legs,6.0,5.0,none,Hypertension,Dust,anxiety,go to emergency,Yes
+53.2381679389313,Male,African American,Rural,Middle,mild headache,10.0,25.0,nausea,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+22.0,Male,Asian,Urban,Middle,back pain and muscle stiffness,1.0,12.0,fatigue,Hypertension,Dust,covid-19,take home care measures,No
+75.0,Female,Hispanic,Rural,Middle,fatigue and weakness,7.0,27.0,nausea,Asthma,Penicillin,allergic reaction,take home care measures,Yes
+32.0,Other,Other,Suburban,High,nausea and vomiting,5.474786656322731,19.0,none,Diabetes,Dust,hypertension,visit doctor,Yes
+25.0,Male,Hispanic,Rural,Low,mild headache,3.0,14.0,none,Hypertension,Peanuts,anxiety,take home care measures,No
+84.0,Male,Other,Urban,Middle,joint pain and swelling,5.474786656322731,16.028505392912173,muscle aches,Asthma,Peanuts,flu,go to emergency,Yes
+64.0,Male,Caucasian,Urban,High,severe dizziness,5.474786656322731,22.0,fever,Diabetes,Pollen,muscle strain,go to emergency,Yes
+31.0,Female,Caucasian,Rural,Low,mild headache,4.0,16.028505392912173,fever,Asthma,Pollen,arthritis,go to emergency,No
+79.0,Male,Caucasian,Suburban,High,back pain and muscle stiffness,5.474786656322731,17.0,nausea,Diabetes,Pollen,covid-19,go to emergency,No
+76.0,Other,Asian,Rural,High,mild headache,4.0,26.0,nausea,Diabetes,Dust,flu,take home care measures,Yes
+54.0,Other,Asian,Urban,Low,blurry vision,7.0,19.0,muscle aches,Diabetes,Dust,arthritis,take home care measures,No
+53.2381679389313,Other,Asian,Suburban,Middle,fever and body aches,8.0,29.0,muscle aches,Diabetes,Pollen,diabetes,visit doctor,Yes
+53.2381679389313,Female,Asian,Rural,Low,frequent urination,4.0,4.0,fatigue,Diabetes,Peanuts,muscle strain,visit doctor,Yes
+47.0,Female,Hispanic,Suburban,Low,numbness in legs,6.0,9.0,fever,Diabetes,Penicillin,diabetes,go to emergency,No
+38.0,Other,African American,Suburban,Middle,frequent urination,9.0,14.0,fever,Asthma,Penicillin,covid-19,visit doctor,No
+76.0,Male,Asian,Rural,Middle,fever and body aches,7.0,16.0,nausea,Asthma,Pollen,sinus infection,take home care measures,Yes
+23.0,Other,Other,Rural,High,sore throat and difficulty swallowing,3.0,16.028505392912173,none,Diabetes,Peanuts,covid-19,take home care measures,No
+22.0,Other,African American,Urban,Middle,fever and body aches,1.0,25.0,fatigue,Hypertension,Penicillin,migraine,take home care measures,Yes
+40.0,Other,Caucasian,Rural,Middle,joint pain and swelling,4.0,5.0,none,Diabetes,Peanuts,migraine,visit doctor,No
+68.0,Male,Caucasian,Suburban,Low,nausea and vomiting,1.0,27.0,nausea,Hypertension,Pollen,migraine,go to emergency,Yes
+27.0,Male,Asian,Suburban,Middle,fever and body aches,8.0,3.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,Yes
+30.0,Male,Hispanic,Rural,High,frequent urination,5.474786656322731,18.0,fever,Asthma,Dust,muscle strain,visit doctor,Yes
+50.0,Other,Other,Urban,Middle,sharp stomach pain,3.0,9.0,none,Diabetes,Dust,flu,visit doctor,Yes
+41.0,Male,Caucasian,Suburban,Middle,frequent urination,1.0,6.0,fatigue,Diabetes,Peanuts,asthma,take home care measures,Yes
+53.2381679389313,Male,Hispanic,Rural,High,skin rash,9.0,16.028505392912173,nausea,Diabetes,Peanuts,kidney stones,take home care measures,No
+44.0,Male,Hispanic,Urban,Middle,chest pain,7.0,5.0,fatigue,Hypertension,Peanuts,sinus infection,take home care measures,Yes
+57.0,Male,Other,Suburban,Middle,severe dizziness,5.474786656322731,16.028505392912173,fever,Asthma,Pollen,anxiety,visit doctor,Yes
+87.0,Other,African American,Rural,Low,nausea and vomiting,9.0,26.0,muscle aches,Diabetes,Peanuts,kidney stones,go to emergency,Yes
+87.0,Male,Caucasian,Rural,Middle,chest pain,1.0,16.028505392912173,fever,Asthma,Pollen,covid-19,visit doctor,No
+82.0,Male,Other,Suburban,High,frequent urination,1.0,16.028505392912173,muscle aches,Diabetes,Peanuts,gastroenteritis,take home care measures,Yes
+31.0,Other,Caucasian,Suburban,Middle,blurry vision,9.0,16.028505392912173,fatigue,Hypertension,Peanuts,anxiety,take home care measures,Yes
+45.0,Other,Caucasian,Rural,Low,skin rash,5.0,16.0,fatigue,Diabetes,Peanuts,allergic reaction,go to emergency,Yes
+20.0,Female,Caucasian,Rural,Middle,skin rash,5.474786656322731,9.0,none,Diabetes,Dust,covid-19,take home care measures,No
+39.0,Other,Caucasian,Suburban,Middle,nausea and vomiting,8.0,25.0,nausea,Diabetes,Peanuts,anxiety,take home care measures,Yes
+35.0,Female,Other,Urban,Middle,mild headache,6.0,10.0,nausea,Hypertension,Peanuts,food poisoning,take home care measures,Yes
+74.0,Male,Asian,Rural,Middle,blurry vision,6.0,2.0,none,Diabetes,Peanuts,diabetes,visit doctor,Yes
+40.0,Other,Hispanic,Suburban,Middle,persistent cough and shortness of breath,2.0,12.0,nausea,Diabetes,Peanuts,arthritis,visit doctor,No
+50.0,Male,African American,Rural,High,blurry vision,10.0,26.0,nausea,Hypertension,Pollen,gastroenteritis,go to emergency,Yes
+79.0,Male,Caucasian,Suburban,High,back pain and muscle stiffness,10.0,13.0,nausea,Diabetes,Pollen,muscle strain,visit doctor,Yes
+21.0,Other,Asian,Urban,Middle,blurry vision,10.0,30.0,fatigue,Diabetes,Peanuts,covid-19,visit doctor,Yes
+42.0,Female,Caucasian,Rural,Middle,joint pain and swelling,4.0,11.0,nausea,Hypertension,Peanuts,muscle strain,visit doctor,No
+68.0,Male,Caucasian,Rural,Low,mild headache,2.0,24.0,muscle aches,Asthma,Peanuts,muscle strain,visit doctor,Yes
+29.0,Other,African American,Suburban,High,nausea and vomiting,6.0,12.0,fatigue,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+49.0,Male,African American,Suburban,High,sore throat and difficulty swallowing,2.0,30.0,fever,Diabetes,Peanuts,covid-19,visit doctor,No
+44.0,Female,Hispanic,Suburban,Low,blurry vision,9.0,28.0,fatigue,Asthma,Peanuts,asthma,visit doctor,Yes
+59.0,Other,African American,Suburban,High,numbness in legs,7.0,24.0,muscle aches,Asthma,Dust,food poisoning,visit doctor,Yes
+78.0,Female,African American,Urban,Low,numbness in legs,6.0,11.0,nausea,Diabetes,Peanuts,kidney stones,go to emergency,Yes
+25.0,Female,Caucasian,Urban,High,blurry vision,1.0,29.0,muscle aches,Asthma,Penicillin,migraine,go to emergency,No
+55.0,Male,Hispanic,Rural,High,fever and body aches,6.0,20.0,nausea,Diabetes,Peanuts,gastroenteritis,go to emergency,No
+70.0,Male,Hispanic,Rural,Low,nausea and vomiting,9.0,25.0,none,Hypertension,Peanuts,kidney stones,visit doctor,No
+63.0,Female,Hispanic,Rural,Middle,nausea and vomiting,5.474786656322731,7.0,none,Diabetes,Peanuts,gastroenteritis,take home care measures,Yes
+81.0,Other,Asian,Rural,Middle,sharp stomach pain,4.0,29.0,muscle aches,Hypertension,Penicillin,covid-19,take home care measures,Yes
+65.0,Other,Asian,Rural,Low,blurry vision,2.0,7.0,none,Diabetes,Penicillin,migraine,go to emergency,Yes
+60.0,Male,Asian,Rural,High,joint pain and swelling,8.0,21.0,muscle aches,Asthma,Pollen,arthritis,take home care measures,Yes
+37.0,Male,Asian,Rural,Middle,chest pain,5.0,16.028505392912173,fever,Hypertension,Peanuts,sinus infection,go to emergency,Yes
+85.0,Male,Asian,Rural,Middle,severe dizziness,9.0,10.0,muscle aches,Hypertension,Peanuts,covid-19,take home care measures,Yes
+78.0,Male,African American,Urban,Low,persistent cough and shortness of breath,1.0,22.0,nausea,Diabetes,Pollen,common cold,take home care measures,Yes
+89.0,Other,Other,Rural,Middle,severe dizziness,6.0,17.0,fever,Diabetes,Dust,covid-19,visit doctor,Yes
+53.2381679389313,Other,Asian,Urban,Middle,blurry vision,2.0,29.0,nausea,Asthma,Pollen,flu,go to emergency,No
+52.0,Male,Hispanic,Rural,Middle,blurry vision,3.0,15.0,fatigue,Diabetes,Dust,covid-19,visit doctor,Yes
+37.0,Male,Hispanic,Rural,Low,blurry vision,10.0,30.0,nausea,Asthma,Pollen,allergic reaction,go to emergency,No
+33.0,Male,Hispanic,Rural,High,blurry vision,8.0,8.0,muscle aches,Diabetes,Pollen,gastroenteritis,go to emergency,Yes
+52.0,Male,African American,Suburban,High,fatigue and weakness,4.0,15.0,fever,Diabetes,Penicillin,common cold,take home care measures,Yes
+53.2381679389313,Male,Hispanic,Rural,High,sharp stomach pain,6.0,9.0,nausea,Hypertension,Peanuts,common cold,take home care measures,Yes
+87.0,Male,Other,Suburban,Low,mild headache,5.474786656322731,1.0,fever,Diabetes,Dust,migraine,visit doctor,Yes
+53.2381679389313,Female,Other,Rural,Low,blurry vision,8.0,28.0,fatigue,Diabetes,Peanuts,covid-19,take home care measures,Yes
+35.0,Other,Other,Rural,High,fatigue and weakness,9.0,19.0,none,Hypertension,Penicillin,gastroenteritis,go to emergency,Yes
+45.0,Female,Caucasian,Suburban,High,mild headache,1.0,16.0,none,Diabetes,Peanuts,migraine,visit doctor,Yes
+46.0,Male,Other,Suburban,Middle,severe dizziness,2.0,22.0,muscle aches,Asthma,Peanuts,covid-19,take home care measures,Yes
+81.0,Male,African American,Rural,Middle,blurry vision,7.0,8.0,muscle aches,Diabetes,Pollen,hypertension,visit doctor,Yes
+70.0,Other,Other,Urban,Low,blurry vision,4.0,29.0,nausea,Diabetes,Penicillin,asthma,visit doctor,No
+85.0,Male,Asian,Suburban,Low,nausea and vomiting,9.0,1.0,muscle aches,Diabetes,Penicillin,kidney stones,take home care measures,No
+47.0,Male,Asian,Suburban,Middle,back pain and muscle stiffness,9.0,16.028505392912173,none,Diabetes,Peanuts,covid-19,take home care measures,No
+48.0,Male,African American,Urban,Middle,sharp stomach pain,7.0,6.0,muscle aches,Asthma,Penicillin,anxiety,visit doctor,Yes
+51.0,Male,Hispanic,Rural,Low,blurry vision,3.0,13.0,muscle aches,Hypertension,Pollen,arthritis,take home care measures,No
+27.0,Male,African American,Rural,Middle,severe dizziness,2.0,26.0,none,Diabetes,Dust,sinus infection,go to emergency,Yes
+34.0,Male,Other,Rural,Low,back pain and muscle stiffness,7.0,16.028505392912173,nausea,Diabetes,Dust,flu,take home care measures,Yes
+89.0,Other,Other,Urban,Middle,nausea and vomiting,7.0,17.0,nausea,Asthma,Peanuts,food poisoning,take home care measures,Yes
+30.0,Female,Hispanic,Urban,Low,blurry vision,5.474786656322731,11.0,fever,Diabetes,Peanuts,covid-19,visit doctor,Yes
+53.2381679389313,Male,Caucasian,Urban,Middle,frequent urination,5.0,19.0,nausea,Diabetes,Penicillin,sinus infection,take home care measures,Yes
+78.0,Male,African American,Suburban,Middle,persistent cough and shortness of breath,4.0,16.0,nausea,Asthma,Dust,common cold,take home care measures,Yes
+89.0,Female,Caucasian,Urban,Low,skin rash,5.474786656322731,16.028505392912173,none,Diabetes,Pollen,diabetes,take home care measures,No
+63.0,Other,African American,Suburban,High,blurry vision,5.474786656322731,29.0,none,Diabetes,Dust,hypertension,take home care measures,Yes
+42.0,Other,African American,Urban,Low,mild headache,6.0,6.0,nausea,Diabetes,Penicillin,sinus infection,take home care measures,Yes
+52.0,Other,African American,Rural,High,chest pain,10.0,23.0,fever,Asthma,Peanuts,covid-19,take home care measures,No
+20.0,Other,Other,Urban,Middle,back pain and muscle stiffness,5.0,17.0,nausea,Hypertension,Pollen,common cold,take home care measures,No
+75.0,Female,African American,Suburban,Low,back pain and muscle stiffness,1.0,27.0,muscle aches,Diabetes,Penicillin,covid-19,take home care measures,Yes
+53.2381679389313,Male,Asian,Urban,High,frequent urination,10.0,19.0,nausea,Asthma,Peanuts,allergic reaction,visit doctor,No
+25.0,Female,Hispanic,Rural,Middle,blurry vision,3.0,24.0,muscle aches,Diabetes,Penicillin,migraine,go to emergency,No
+20.0,Other,African American,Suburban,Low,sharp stomach pain,5.474786656322731,20.0,fever,Hypertension,Penicillin,allergic reaction,take home care measures,Yes
+19.0,Male,African American,Rural,Low,joint pain and swelling,6.0,29.0,nausea,Diabetes,Peanuts,covid-19,take home care measures,Yes
+82.0,Male,Hispanic,Rural,Low,sore throat and difficulty swallowing,4.0,14.0,nausea,Diabetes,Peanuts,allergic reaction,go to emergency,No
+44.0,Female,Hispanic,Rural,High,frequent urination,4.0,11.0,muscle aches,Diabetes,Peanuts,food poisoning,go to emergency,Yes
+53.2381679389313,Male,Hispanic,Suburban,High,blurry vision,7.0,7.0,muscle aches,Asthma,Peanuts,anxiety,visit doctor,No
+62.0,Male,Caucasian,Suburban,High,blurry vision,5.474786656322731,26.0,none,Diabetes,Dust,allergic reaction,go to emergency,No
+29.0,Male,African American,Rural,Low,blurry vision,5.474786656322731,5.0,fatigue,Diabetes,Dust,arthritis,go to emergency,No
+32.0,Male,Caucasian,Suburban,High,numbness in legs,7.0,16.0,muscle aches,Asthma,Peanuts,arthritis,take home care measures,Yes
+82.0,Male,African American,Urban,Low,fever and body aches,4.0,21.0,none,Hypertension,Peanuts,allergic reaction,take home care measures,No
+51.0,Female,Caucasian,Suburban,Low,blurry vision,5.0,27.0,nausea,Diabetes,Pollen,hypertension,take home care measures,No
+75.0,Female,Asian,Urban,Low,sharp stomach pain,6.0,25.0,nausea,Asthma,Penicillin,hypertension,visit doctor,No
+62.0,Female,Other,Urban,Middle,fever and body aches,5.474786656322731,28.0,fever,Hypertension,Dust,anxiety,take home care measures,Yes
+53.2381679389313,Other,African American,Rural,High,fatigue and weakness,3.0,14.0,nausea,Asthma,Peanuts,gastroenteritis,visit doctor,No
+74.0,Other,Other,Rural,Low,numbness in legs,8.0,14.0,muscle aches,Diabetes,Penicillin,migraine,visit doctor,No
+38.0,Male,African American,Suburban,Low,mild headache,1.0,27.0,fever,Diabetes,Peanuts,asthma,visit doctor,Yes
+53.2381679389313,Female,Asian,Urban,Middle,skin rash,2.0,25.0,fatigue,Diabetes,Dust,food poisoning,go to emergency,Yes
+19.0,Other,African American,Urban,Middle,back pain and muscle stiffness,10.0,16.028505392912173,none,Hypertension,Peanuts,allergic reaction,visit doctor,No
+77.0,Female,Hispanic,Rural,Middle,chest pain,8.0,12.0,nausea,Diabetes,Penicillin,asthma,visit doctor,Yes
+53.0,Male,Asian,Rural,Low,persistent cough and shortness of breath,9.0,10.0,fever,Diabetes,Pollen,covid-19,visit doctor,Yes
+23.0,Other,Other,Urban,Middle,persistent cough and shortness of breath,2.0,7.0,fever,Diabetes,Penicillin,flu,visit doctor,No
+21.0,Other,Caucasian,Urban,Middle,joint pain and swelling,6.0,22.0,nausea,Diabetes,Dust,anxiety,visit doctor,No
+32.0,Male,Hispanic,Rural,High,skin rash,5.0,16.028505392912173,fever,Diabetes,Penicillin,migraine,go to emergency,No
+53.2381679389313,Female,African American,Urban,Middle,blurry vision,7.0,10.0,nausea,Diabetes,Penicillin,diabetes,take home care measures,Yes
+81.0,Male,African American,Rural,High,skin rash,7.0,14.0,fatigue,Hypertension,Penicillin,food poisoning,take home care measures,No
+63.0,Other,Asian,Suburban,High,joint pain and swelling,2.0,18.0,none,Diabetes,Peanuts,flu,visit doctor,No
+39.0,Other,Caucasian,Rural,Middle,joint pain and swelling,2.0,16.028505392912173,nausea,Diabetes,Pollen,covid-19,visit doctor,Yes
+29.0,Male,Hispanic,Rural,Low,back pain and muscle stiffness,3.0,19.0,nausea,Diabetes,Pollen,asthma,go to emergency,No
+19.0,Other,Caucasian,Rural,High,blurry vision,5.474786656322731,11.0,fever,Diabetes,Dust,covid-19,visit doctor,Yes
+34.0,Other,Other,Rural,Low,sore throat and difficulty swallowing,5.474786656322731,4.0,nausea,Diabetes,Penicillin,allergic reaction,take home care measures,No
+53.2381679389313,Female,African American,Urban,Low,numbness in legs,5.474786656322731,12.0,muscle aches,Hypertension,Pollen,gastroenteritis,visit doctor,No
+29.0,Other,Caucasian,Rural,Low,persistent cough and shortness of breath,5.0,16.028505392912173,nausea,Asthma,Peanuts,hypertension,take home care measures,No
+81.0,Female,African American,Suburban,Low,blurry vision,5.474786656322731,8.0,fatigue,Asthma,Peanuts,covid-19,take home care measures,No
+65.0,Other,Other,Suburban,High,blurry vision,1.0,27.0,fatigue,Diabetes,Penicillin,common cold,visit doctor,No
+40.0,Male,Asian,Rural,High,blurry vision,9.0,4.0,muscle aches,Diabetes,Peanuts,covid-19,take home care measures,Yes
+18.0,Female,African American,Rural,Low,mild headache,7.0,16.028505392912173,none,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+39.0,Female,Other,Suburban,Middle,sharp stomach pain,7.0,11.0,nausea,Hypertension,Peanuts,allergic reaction,take home care measures,Yes
+43.0,Male,African American,Urban,High,mild headache,5.474786656322731,27.0,muscle aches,Diabetes,Peanuts,common cold,visit doctor,Yes
+34.0,Other,Caucasian,Suburban,Low,numbness in legs,3.0,11.0,fever,Diabetes,Pollen,gastroenteritis,take home care measures,No
+28.0,Male,African American,Urban,Low,persistent cough and shortness of breath,7.0,3.0,muscle aches,Diabetes,Pollen,allergic reaction,take home care measures,Yes
+67.0,Male,Other,Suburban,Low,sore throat and difficulty swallowing,2.0,19.0,none,Hypertension,Penicillin,common cold,go to emergency,Yes
+53.2381679389313,Female,Asian,Rural,Middle,persistent cough and shortness of breath,5.474786656322731,17.0,muscle aches,Hypertension,Pollen,food poisoning,take home care measures,Yes
+34.0,Female,Hispanic,Urban,High,frequent urination,4.0,16.028505392912173,muscle aches,Diabetes,Penicillin,kidney stones,take home care measures,No
+19.0,Female,Hispanic,Rural,Low,chest pain,6.0,16.028505392912173,nausea,Asthma,Peanuts,kidney stones,visit doctor,Yes
+18.0,Male,Other,Urban,Low,blurry vision,1.0,15.0,fever,Hypertension,Peanuts,flu,take home care measures,Yes
+79.0,Other,Other,Urban,Middle,joint pain and swelling,5.474786656322731,3.0,fever,Diabetes,Pollen,migraine,take home care measures,Yes
+20.0,Female,Asian,Urban,Middle,back pain and muscle stiffness,8.0,26.0,fatigue,Diabetes,Penicillin,allergic reaction,take home care measures,Yes
+68.0,Male,African American,Rural,High,persistent cough and shortness of breath,5.474786656322731,15.0,fatigue,Asthma,Peanuts,diabetes,take home care measures,No
+29.0,Female,African American,Rural,Middle,frequent urination,10.0,16.028505392912173,none,Diabetes,Peanuts,arthritis,go to emergency,Yes
+20.0,Other,Other,Suburban,Middle,mild headache,5.0,17.0,fever,Diabetes,Pollen,flu,visit doctor,No
+53.2381679389313,Male,Other,Rural,Middle,blurry vision,1.0,15.0,nausea,Asthma,Penicillin,muscle strain,go to emergency,Yes
+86.0,Male,African American,Suburban,High,skin rash,3.0,14.0,fever,Hypertension,Peanuts,kidney stones,take home care measures,No
+53.2381679389313,Female,African American,Rural,Middle,nausea and vomiting,9.0,16.028505392912173,none,Diabetes,Peanuts,covid-19,visit doctor,Yes
+61.0,Male,African American,Rural,Middle,fatigue and weakness,2.0,24.0,fatigue,Diabetes,Peanuts,common cold,visit doctor,No
+58.0,Male,Asian,Suburban,Middle,mild headache,5.474786656322731,16.028505392912173,muscle aches,Hypertension,Dust,diabetes,visit doctor,Yes
+78.0,Male,Hispanic,Urban,Middle,blurry vision,4.0,13.0,none,Hypertension,Pollen,covid-19,visit doctor,Yes
+60.0,Other,Asian,Urban,High,skin rash,4.0,25.0,none,Hypertension,Peanuts,allergic reaction,go to emergency,No
+55.0,Female,Caucasian,Suburban,Low,blurry vision,5.474786656322731,20.0,fever,Hypertension,Dust,sinus infection,go to emergency,Yes
+28.0,Male,Asian,Suburban,Middle,numbness in legs,5.474786656322731,13.0,fatigue,Diabetes,Peanuts,anxiety,take home care measures,No
+27.0,Male,Hispanic,Rural,Low,fever and body aches,2.0,4.0,fatigue,Diabetes,Penicillin,covid-19,go to emergency,Yes
+70.0,Female,African American,Urban,Low,mild headache,1.0,21.0,none,Diabetes,Peanuts,migraine,visit doctor,Yes
+32.0,Other,African American,Suburban,Low,blurry vision,7.0,20.0,fatigue,Diabetes,Penicillin,gastroenteritis,go to emergency,No
+53.2381679389313,Other,African American,Rural,Low,blurry vision,10.0,22.0,fever,Diabetes,Penicillin,sinus infection,take home care measures,Yes
+53.2381679389313,Other,Caucasian,Suburban,High,fatigue and weakness,7.0,20.0,none,Diabetes,Peanuts,anxiety,take home care measures,No
+35.0,Other,Asian,Rural,High,blurry vision,3.0,13.0,muscle aches,Hypertension,Pollen,kidney stones,take home care measures,Yes
+43.0,Male,Caucasian,Urban,High,sharp stomach pain,10.0,18.0,muscle aches,Asthma,Peanuts,sinus infection,go to emergency,No
+79.0,Female,African American,Rural,Low,persistent cough and shortness of breath,10.0,27.0,muscle aches,Diabetes,Peanuts,anxiety,visit doctor,No
+82.0,Male,African American,Urban,Middle,sore throat and difficulty swallowing,3.0,1.0,fever,Diabetes,Peanuts,anxiety,take home care measures,Yes
+37.0,Male,African American,Suburban,Middle,nausea and vomiting,5.0,15.0,muscle aches,Diabetes,Peanuts,gastroenteritis,visit doctor,Yes
+66.0,Other,African American,Rural,Middle,chest pain,4.0,16.0,fatigue,Hypertension,Peanuts,migraine,take home care measures,No
+47.0,Other,African American,Rural,Low,blurry vision,3.0,7.0,none,Diabetes,Penicillin,muscle strain,take home care measures,Yes
+50.0,Female,Asian,Suburban,High,chest pain,5.0,16.028505392912173,muscle aches,Diabetes,Peanuts,arthritis,take home care measures,No
+73.0,Male,Other,Rural,High,sore throat and difficulty swallowing,9.0,10.0,fatigue,Asthma,Penicillin,covid-19,visit doctor,Yes
+79.0,Male,Asian,Rural,High,skin rash,9.0,19.0,none,Diabetes,Peanuts,covid-19,go to emergency,No
+57.0,Female,African American,Urban,Middle,blurry vision,5.0,3.0,muscle aches,Diabetes,Peanuts,covid-19,go to emergency,Yes
+45.0,Female,Caucasian,Urban,Low,blurry vision,3.0,26.0,muscle aches,Asthma,Penicillin,food poisoning,take home care measures,Yes
+23.0,Other,Other,Suburban,Low,numbness in legs,1.0,6.0,fever,Diabetes,Dust,covid-19,visit doctor,Yes
+76.0,Male,Asian,Suburban,Low,severe dizziness,5.474786656322731,28.0,none,Hypertension,Peanuts,arthritis,take home care measures,No
+31.0,Male,Asian,Rural,High,blurry vision,7.0,26.0,nausea,Hypertension,Peanuts,kidney stones,visit doctor,Yes
+73.0,Male,African American,Rural,Middle,fever and body aches,3.0,12.0,nausea,Diabetes,Peanuts,sinus infection,take home care measures,No
+53.2381679389313,Male,Hispanic,Urban,Low,skin rash,4.0,3.0,nausea,Diabetes,Dust,arthritis,take home care measures,Yes
+30.0,Male,African American,Suburban,High,chest pain,5.0,18.0,none,Diabetes,Peanuts,covid-19,visit doctor,Yes
+55.0,Other,African American,Rural,Middle,blurry vision,5.474786656322731,6.0,muscle aches,Diabetes,Pollen,sinus infection,take home care measures,Yes
+57.0,Other,Hispanic,Rural,Middle,persistent cough and shortness of breath,5.0,29.0,fatigue,Diabetes,Dust,diabetes,visit doctor,Yes
+88.0,Other,Caucasian,Suburban,Low,sharp stomach pain,3.0,16.028505392912173,nausea,Asthma,Dust,migraine,take home care measures,No
+37.0,Male,Hispanic,Urban,High,back pain and muscle stiffness,2.0,27.0,muscle aches,Diabetes,Penicillin,sinus infection,take home care measures,Yes
+45.0,Female,Other,Rural,Middle,blurry vision,6.0,2.0,fever,Diabetes,Dust,arthritis,take home care measures,Yes
+79.0,Male,Other,Urban,Middle,persistent cough and shortness of breath,6.0,26.0,nausea,Diabetes,Peanuts,hypertension,go to emergency,Yes
+74.0,Male,African American,Suburban,Middle,mild headache,8.0,11.0,fever,Diabetes,Dust,gastroenteritis,go to emergency,Yes
+60.0,Male,Asian,Suburban,High,skin rash,4.0,10.0,fatigue,Diabetes,Peanuts,covid-19,take home care measures,No
+24.0,Male,African American,Urban,Middle,severe dizziness,6.0,11.0,fever,Diabetes,Peanuts,common cold,go to emergency,Yes
+52.0,Other,African American,Rural,Middle,fever and body aches,6.0,19.0,fever,Diabetes,Penicillin,anxiety,go to emergency,Yes
+19.0,Female,Caucasian,Rural,Low,nausea and vomiting,5.0,8.0,fatigue,Asthma,Peanuts,muscle strain,take home care measures,Yes
+53.0,Male,Asian,Rural,Middle,back pain and muscle stiffness,9.0,4.0,fever,Diabetes,Peanuts,asthma,go to emergency,Yes
+55.0,Other,African American,Urban,High,blurry vision,5.474786656322731,22.0,nausea,Asthma,Peanuts,asthma,take home care measures,Yes
+59.0,Female,African American,Suburban,High,severe dizziness,5.474786656322731,13.0,fever,Diabetes,Pollen,hypertension,take home care measures,No
+79.0,Female,Hispanic,Rural,High,nausea and vomiting,2.0,9.0,muscle aches,Diabetes,Dust,muscle strain,take home care measures,Yes
+88.0,Other,Caucasian,Suburban,Middle,chest pain,9.0,15.0,fever,Asthma,Peanuts,anxiety,go to emergency,Yes
+28.0,Other,Hispanic,Suburban,Middle,chest pain,6.0,16.028505392912173,nausea,Asthma,Peanuts,arthritis,visit doctor,Yes
+60.0,Male,African American,Rural,Middle,mild headache,7.0,30.0,none,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+84.0,Other,Hispanic,Urban,Middle,sore throat and difficulty swallowing,6.0,21.0,nausea,Diabetes,Peanuts,hypertension,go to emergency,Yes
+20.0,Female,Hispanic,Suburban,Low,blurry vision,10.0,13.0,none,Asthma,Peanuts,diabetes,take home care measures,Yes
+59.0,Female,Hispanic,Urban,Middle,frequent urination,5.474786656322731,11.0,muscle aches,Diabetes,Dust,gastroenteritis,visit doctor,Yes
+39.0,Male,Asian,Rural,Middle,sharp stomach pain,4.0,10.0,fatigue,Diabetes,Peanuts,kidney stones,go to emergency,Yes
+31.0,Male,African American,Urban,High,joint pain and swelling,6.0,16.028505392912173,nausea,Diabetes,Peanuts,covid-19,take home care measures,No
+38.0,Female,Other,Urban,High,blurry vision,6.0,2.0,nausea,Hypertension,Pollen,food poisoning,visit doctor,No
+18.0,Other,Asian,Suburban,Low,chest pain,1.0,13.0,fever,Asthma,Penicillin,muscle strain,go to emergency,No
+36.0,Male,Asian,Suburban,High,joint pain and swelling,8.0,16.028505392912173,fatigue,Hypertension,Penicillin,diabetes,take home care measures,Yes
+30.0,Female,Other,Urban,Middle,blurry vision,5.474786656322731,19.0,nausea,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+69.0,Other,Caucasian,Suburban,Middle,severe dizziness,10.0,28.0,nausea,Asthma,Peanuts,gastroenteritis,go to emergency,No
+43.0,Male,Other,Suburban,Low,joint pain and swelling,9.0,19.0,nausea,Hypertension,Dust,covid-19,take home care measures,No
+34.0,Other,African American,Urban,High,numbness in legs,10.0,27.0,nausea,Diabetes,Pollen,hypertension,visit doctor,Yes
+27.0,Other,African American,Suburban,High,joint pain and swelling,1.0,16.028505392912173,nausea,Diabetes,Peanuts,covid-19,go to emergency,Yes
+53.2381679389313,Other,Hispanic,Suburban,Middle,blurry vision,5.474786656322731,2.0,none,Diabetes,Peanuts,diabetes,go to emergency,Yes
+54.0,Female,Asian,Urban,Middle,severe dizziness,7.0,29.0,fever,Hypertension,Pollen,covid-19,visit doctor,Yes
+42.0,Female,African American,Rural,High,persistent cough and shortness of breath,5.0,11.0,nausea,Diabetes,Peanuts,allergic reaction,visit doctor,No
+64.0,Other,African American,Rural,Low,severe dizziness,6.0,20.0,fever,Diabetes,Pollen,gastroenteritis,visit doctor,Yes
+74.0,Female,Caucasian,Rural,Low,fever and body aches,5.0,4.0,none,Diabetes,Peanuts,covid-19,visit doctor,Yes
+31.0,Other,African American,Urban,Middle,back pain and muscle stiffness,5.474786656322731,18.0,nausea,Diabetes,Dust,asthma,take home care measures,No
+37.0,Other,African American,Suburban,Low,persistent cough and shortness of breath,2.0,20.0,muscle aches,Diabetes,Peanuts,covid-19,go to emergency,No
+35.0,Other,Asian,Rural,Low,blurry vision,9.0,16.028505392912173,fatigue,Diabetes,Peanuts,food poisoning,visit doctor,No
+42.0,Male,Hispanic,Urban,High,fatigue and weakness,4.0,14.0,muscle aches,Diabetes,Pollen,covid-19,visit doctor,No
+19.0,Male,Hispanic,Urban,Low,frequent urination,3.0,22.0,fatigue,Diabetes,Peanuts,diabetes,visit doctor,No
+64.0,Male,Other,Urban,Middle,mild headache,5.0,4.0,none,Diabetes,Peanuts,common cold,take home care measures,No
+73.0,Female,Other,Rural,Middle,back pain and muscle stiffness,7.0,16.028505392912173,none,Hypertension,Peanuts,food poisoning,visit doctor,Yes
+54.0,Other,Asian,Urban,High,back pain and muscle stiffness,9.0,6.0,nausea,Diabetes,Dust,covid-19,go to emergency,Yes
+59.0,Female,Caucasian,Suburban,Low,persistent cough and shortness of breath,2.0,23.0,nausea,Diabetes,Peanuts,arthritis,take home care measures,Yes
+53.2381679389313,Female,Caucasian,Rural,High,fatigue and weakness,4.0,30.0,nausea,Diabetes,Dust,anxiety,visit doctor,Yes
+90.0,Other,Other,Urban,Middle,numbness in legs,5.474786656322731,12.0,fever,Asthma,Peanuts,covid-19,visit doctor,No
+43.0,Male,Hispanic,Urban,Low,frequent urination,2.0,16.028505392912173,nausea,Hypertension,Pollen,gastroenteritis,take home care measures,Yes
+22.0,Male,Other,Urban,Middle,joint pain and swelling,5.474786656322731,24.0,nausea,Asthma,Peanuts,flu,go to emergency,Yes
+36.0,Male,Other,Urban,Low,back pain and muscle stiffness,2.0,23.0,muscle aches,Hypertension,Peanuts,flu,visit doctor,Yes
+67.0,Other,Other,Suburban,Middle,severe dizziness,6.0,16.028505392912173,fever,Diabetes,Penicillin,sinus infection,take home care measures,No
+53.2381679389313,Female,African American,Urban,Low,severe dizziness,5.0,24.0,fatigue,Diabetes,Pollen,common cold,take home care measures,No
+55.0,Female,Caucasian,Rural,Middle,blurry vision,6.0,10.0,muscle aches,Diabetes,Peanuts,food poisoning,go to emergency,Yes
+71.0,Other,African American,Urban,Middle,blurry vision,9.0,5.0,nausea,Diabetes,Pollen,allergic reaction,take home care measures,Yes
+45.0,Female,Hispanic,Urban,Middle,blurry vision,9.0,21.0,muscle aches,Hypertension,Peanuts,covid-19,take home care measures,No
+31.0,Other,Other,Rural,High,numbness in legs,6.0,12.0,fever,Diabetes,Peanuts,flu,take home care measures,No
+63.0,Other,Asian,Rural,Low,sore throat and difficulty swallowing,1.0,2.0,nausea,Hypertension,Peanuts,food poisoning,go to emergency,No
+33.0,Female,African American,Rural,Middle,joint pain and swelling,2.0,13.0,fatigue,Diabetes,Peanuts,arthritis,visit doctor,No
+70.0,Female,African American,Urban,Low,frequent urination,6.0,26.0,fatigue,Hypertension,Peanuts,gastroenteritis,visit doctor,Yes
+64.0,Female,Asian,Urban,Middle,fever and body aches,5.474786656322731,7.0,fever,Diabetes,Peanuts,diabetes,visit doctor,No
+39.0,Female,African American,Suburban,Middle,nausea and vomiting,5.0,9.0,nausea,Asthma,Pollen,sinus infection,go to emergency,No
+23.0,Female,Hispanic,Suburban,Low,severe dizziness,5.474786656322731,28.0,fever,Diabetes,Pollen,covid-19,take home care measures,Yes
+18.0,Other,African American,Rural,Middle,joint pain and swelling,8.0,12.0,none,Diabetes,Peanuts,arthritis,visit doctor,No
+74.0,Female,African American,Urban,Middle,sore throat and difficulty swallowing,8.0,8.0,fatigue,Diabetes,Peanuts,covid-19,take home care measures,Yes
+23.0,Other,African American,Rural,High,fever and body aches,6.0,16.028505392912173,fever,Diabetes,Peanuts,kidney stones,take home care measures,Yes
+39.0,Male,African American,Rural,Low,nausea and vomiting,1.0,21.0,nausea,Hypertension,Pollen,kidney stones,go to emergency,No
+33.0,Female,African American,Urban,Middle,persistent cough and shortness of breath,5.474786656322731,23.0,fatigue,Diabetes,Pollen,kidney stones,take home care measures,Yes
+20.0,Female,African American,Rural,Middle,sore throat and difficulty swallowing,1.0,8.0,nausea,Asthma,Penicillin,covid-19,go to emergency,Yes
+79.0,Male,Hispanic,Rural,Low,severe dizziness,5.474786656322731,20.0,nausea,Diabetes,Pollen,covid-19,visit doctor,No
+26.0,Male,Hispanic,Rural,Middle,nausea and vomiting,6.0,26.0,nausea,Diabetes,Penicillin,muscle strain,take home care measures,Yes
+60.0,Other,African American,Rural,Middle,sharp stomach pain,3.0,16.028505392912173,fever,Diabetes,Dust,covid-19,visit doctor,Yes
+34.0,Other,African American,Suburban,Low,blurry vision,3.0,4.0,fever,Asthma,Peanuts,kidney stones,take home care measures,Yes
+54.0,Female,Other,Urban,High,fever and body aches,6.0,2.0,nausea,Diabetes,Dust,sinus infection,take home care measures,Yes
+29.0,Male,Caucasian,Suburban,Middle,frequent urination,10.0,4.0,muscle aches,Asthma,Peanuts,covid-19,go to emergency,Yes
+41.0,Male,Caucasian,Urban,High,numbness in legs,1.0,23.0,fatigue,Hypertension,Penicillin,food poisoning,go to emergency,Yes
+32.0,Male,Caucasian,Rural,High,frequent urination,5.0,20.0,none,Diabetes,Penicillin,asthma,visit doctor,No
+84.0,Male,Hispanic,Suburban,High,blurry vision,5.0,1.0,muscle aches,Hypertension,Peanuts,anxiety,go to emergency,Yes
+81.0,Male,Other,Suburban,Middle,frequent urination,8.0,14.0,none,Hypertension,Peanuts,covid-19,take home care measures,No
+52.0,Female,Caucasian,Suburban,Middle,skin rash,5.0,16.028505392912173,none,Diabetes,Peanuts,anxiety,take home care measures,Yes
+32.0,Female,Asian,Urban,Middle,joint pain and swelling,2.0,30.0,fatigue,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+59.0,Male,Other,Urban,Low,joint pain and swelling,10.0,27.0,nausea,Diabetes,Penicillin,diabetes,take home care measures,No
+51.0,Male,African American,Rural,Middle,nausea and vomiting,3.0,14.0,muscle aches,Diabetes,Dust,sinus infection,visit doctor,Yes
+53.2381679389313,Male,Other,Suburban,Low,chest pain,6.0,14.0,nausea,Hypertension,Peanuts,asthma,visit doctor,No
+53.2381679389313,Female,African American,Suburban,Middle,frequent urination,5.0,16.028505392912173,nausea,Hypertension,Pollen,diabetes,take home care measures,No
+45.0,Male,African American,Rural,Middle,fever and body aches,10.0,6.0,fever,Diabetes,Pollen,arthritis,go to emergency,No
+45.0,Female,Hispanic,Suburban,Middle,back pain and muscle stiffness,7.0,16.028505392912173,none,Diabetes,Peanuts,common cold,take home care measures,Yes
+24.0,Male,Caucasian,Suburban,High,persistent cough and shortness of breath,7.0,24.0,fatigue,Hypertension,Peanuts,kidney stones,take home care measures,No
+55.0,Female,Other,Urban,High,fatigue and weakness,1.0,23.0,fever,Diabetes,Peanuts,arthritis,go to emergency,Yes
+18.0,Female,Hispanic,Suburban,Middle,persistent cough and shortness of breath,5.0,14.0,nausea,Hypertension,Peanuts,covid-19,visit doctor,No
+22.0,Other,African American,Rural,Low,blurry vision,5.0,5.0,fever,Diabetes,Peanuts,hypertension,take home care measures,No
+43.0,Other,Other,Urban,Middle,severe dizziness,2.0,16.0,fever,Diabetes,Peanuts,diabetes,take home care measures,Yes
+69.0,Male,Caucasian,Suburban,High,sharp stomach pain,5.474786656322731,18.0,nausea,Hypertension,Peanuts,common cold,take home care measures,No
+36.0,Male,Asian,Suburban,Middle,joint pain and swelling,6.0,24.0,fever,Diabetes,Pollen,flu,visit doctor,No
+53.2381679389313,Other,African American,Suburban,Low,nausea and vomiting,4.0,10.0,fatigue,Diabetes,Peanuts,migraine,visit doctor,No
+61.0,Male,African American,Suburban,Middle,frequent urination,3.0,21.0,muscle aches,Hypertension,Dust,anxiety,visit doctor,Yes
+54.0,Other,African American,Urban,Middle,blurry vision,10.0,23.0,muscle aches,Diabetes,Peanuts,asthma,take home care measures,No
+68.0,Other,African American,Rural,Low,blurry vision,3.0,16.028505392912173,fever,Hypertension,Pollen,anxiety,visit doctor,Yes
+53.0,Female,African American,Urban,Middle,blurry vision,9.0,8.0,muscle aches,Hypertension,Penicillin,gastroenteritis,go to emergency,Yes
+23.0,Female,African American,Rural,Middle,frequent urination,2.0,20.0,muscle aches,Hypertension,Dust,flu,take home care measures,No
+68.0,Male,Asian,Suburban,High,persistent cough and shortness of breath,5.474786656322731,12.0,nausea,Asthma,Dust,muscle strain,go to emergency,Yes
+53.2381679389313,Female,African American,Urban,High,chest pain,1.0,30.0,fatigue,Diabetes,Peanuts,covid-19,take home care measures,Yes
+88.0,Male,African American,Suburban,Low,sharp stomach pain,7.0,24.0,muscle aches,Hypertension,Dust,covid-19,go to emergency,Yes
+24.0,Other,African American,Rural,Middle,sharp stomach pain,10.0,5.0,nausea,Diabetes,Peanuts,covid-19,go to emergency,Yes
+59.0,Male,Caucasian,Suburban,High,sore throat and difficulty swallowing,5.474786656322731,18.0,nausea,Diabetes,Penicillin,diabetes,go to emergency,Yes
+39.0,Male,African American,Rural,High,chest pain,4.0,16.0,fatigue,Diabetes,Dust,anxiety,visit doctor,No
+88.0,Other,Other,Rural,Low,nausea and vomiting,8.0,26.0,none,Diabetes,Dust,asthma,go to emergency,No
+26.0,Male,African American,Urban,Low,frequent urination,7.0,22.0,muscle aches,Diabetes,Pollen,muscle strain,visit doctor,Yes
+37.0,Other,Asian,Suburban,Low,blurry vision,7.0,28.0,fatigue,Diabetes,Pollen,anxiety,visit doctor,No
+53.0,Male,African American,Suburban,High,severe dizziness,8.0,16.028505392912173,fever,Diabetes,Dust,flu,take home care measures,No
+80.0,Male,Other,Rural,High,blurry vision,5.0,28.0,nausea,Diabetes,Pollen,flu,take home care measures,Yes
+71.0,Female,African American,Rural,Middle,nausea and vomiting,9.0,24.0,fatigue,Diabetes,Pollen,hypertension,go to emergency,Yes
+86.0,Male,Asian,Urban,Middle,blurry vision,9.0,15.0,nausea,Hypertension,Penicillin,hypertension,take home care measures,Yes
+28.0,Male,Hispanic,Urban,Middle,fatigue and weakness,8.0,10.0,nausea,Hypertension,Pollen,muscle strain,go to emergency,Yes
+89.0,Female,African American,Urban,Middle,sore throat and difficulty swallowing,9.0,24.0,nausea,Asthma,Penicillin,sinus infection,go to emergency,Yes
+19.0,Male,Other,Rural,Middle,blurry vision,4.0,15.0,fever,Asthma,Pollen,sinus infection,visit doctor,Yes
+22.0,Male,Asian,Suburban,High,fatigue and weakness,3.0,30.0,muscle aches,Hypertension,Peanuts,anxiety,take home care measures,No
+40.0,Male,Hispanic,Rural,Middle,chest pain,5.0,16.028505392912173,fatigue,Diabetes,Pollen,diabetes,visit doctor,No
+60.0,Female,Other,Urban,Low,fever and body aches,4.0,18.0,muscle aches,Diabetes,Pollen,covid-19,visit doctor,Yes
+47.0,Male,Asian,Suburban,High,numbness in legs,10.0,4.0,none,Diabetes,Dust,arthritis,take home care measures,Yes
+69.0,Male,Other,Urban,Middle,nausea and vomiting,1.0,23.0,fatigue,Diabetes,Dust,sinus infection,go to emergency,No
+53.2381679389313,Female,Asian,Urban,High,back pain and muscle stiffness,3.0,16.028505392912173,fever,Diabetes,Pollen,allergic reaction,go to emergency,No
+79.0,Female,African American,Rural,Middle,blurry vision,2.0,18.0,nausea,Asthma,Peanuts,allergic reaction,take home care measures,Yes
+70.0,Male,Asian,Suburban,High,skin rash,5.474786656322731,9.0,fatigue,Asthma,Peanuts,sinus infection,go to emergency,Yes
+59.0,Male,Asian,Suburban,Low,blurry vision,2.0,27.0,nausea,Hypertension,Peanuts,kidney stones,visit doctor,Yes
+34.0,Male,African American,Rural,Middle,severe dizziness,9.0,30.0,muscle aches,Diabetes,Peanuts,covid-19,take home care measures,Yes
+82.0,Female,African American,Rural,Middle,severe dizziness,2.0,4.0,fever,Diabetes,Peanuts,covid-19,visit doctor,No
+46.0,Female,Caucasian,Suburban,Low,fever and body aches,10.0,19.0,fatigue,Diabetes,Dust,muscle strain,take home care measures,Yes
+50.0,Male,Caucasian,Suburban,High,severe dizziness,4.0,15.0,nausea,Asthma,Peanuts,migraine,go to emergency,Yes
+74.0,Female,Asian,Urban,Middle,fatigue and weakness,9.0,27.0,fatigue,Diabetes,Peanuts,food poisoning,take home care measures,Yes
+64.0,Female,Other,Urban,Low,back pain and muscle stiffness,6.0,24.0,none,Hypertension,Peanuts,diabetes,visit doctor,Yes
+51.0,Other,African American,Suburban,Middle,mild headache,10.0,5.0,fatigue,Diabetes,Pollen,diabetes,take home care measures,Yes
+53.2381679389313,Other,Caucasian,Rural,Low,skin rash,6.0,22.0,none,Hypertension,Dust,anxiety,take home care measures,Yes
+19.0,Other,Asian,Urban,High,joint pain and swelling,2.0,9.0,fatigue,Diabetes,Dust,covid-19,take home care measures,No
+20.0,Male,African American,Urban,Middle,blurry vision,3.0,16.028505392912173,muscle aches,Diabetes,Peanuts,gastroenteritis,visit doctor,No
+50.0,Female,African American,Suburban,High,skin rash,3.0,17.0,none,Hypertension,Dust,asthma,go to emergency,Yes
+62.0,Other,African American,Urban,High,persistent cough and shortness of breath,5.474786656322731,17.0,muscle aches,Asthma,Peanuts,arthritis,take home care measures,No
+78.0,Female,Hispanic,Rural,Middle,blurry vision,7.0,11.0,nausea,Asthma,Dust,allergic reaction,visit doctor,Yes
+28.0,Male,African American,Suburban,High,chest pain,3.0,28.0,none,Hypertension,Dust,arthritis,visit doctor,Yes
+51.0,Male,Hispanic,Rural,Low,nausea and vomiting,6.0,17.0,fever,Diabetes,Peanuts,food poisoning,go to emergency,No
+53.2381679389313,Male,Asian,Rural,Middle,blurry vision,8.0,16.0,fever,Asthma,Peanuts,asthma,take home care measures,No
+21.0,Other,Other,Rural,Middle,persistent cough and shortness of breath,10.0,3.0,fatigue,Diabetes,Penicillin,covid-19,take home care measures,Yes
+50.0,Male,Other,Suburban,High,fatigue and weakness,5.0,16.0,nausea,Diabetes,Dust,anxiety,take home care measures,Yes
+73.0,Male,Other,Rural,Middle,blurry vision,4.0,20.0,fatigue,Asthma,Dust,diabetes,go to emergency,No
+20.0,Male,Other,Rural,Low,back pain and muscle stiffness,5.0,11.0,fatigue,Asthma,Peanuts,gastroenteritis,visit doctor,No
+39.0,Male,Asian,Urban,Middle,fatigue and weakness,8.0,16.0,fever,Asthma,Peanuts,arthritis,go to emergency,No
+69.0,Male,Other,Rural,High,blurry vision,5.474786656322731,17.0,none,Diabetes,Pollen,arthritis,go to emergency,Yes
+75.0,Female,Other,Urban,Middle,blurry vision,10.0,10.0,muscle aches,Diabetes,Peanuts,covid-19,go to emergency,No
+72.0,Other,Hispanic,Urban,Middle,nausea and vomiting,1.0,1.0,fatigue,Diabetes,Dust,asthma,go to emergency,No
+27.0,Female,African American,Suburban,Middle,severe dizziness,9.0,1.0,nausea,Asthma,Penicillin,diabetes,go to emergency,Yes
+67.0,Other,Hispanic,Urban,Middle,fatigue and weakness,6.0,26.0,nausea,Diabetes,Pollen,covid-19,go to emergency,No
+82.0,Female,Caucasian,Rural,Middle,nausea and vomiting,8.0,21.0,nausea,Diabetes,Pollen,migraine,take home care measures,No
+53.2381679389313,Female,Caucasian,Suburban,Middle,nausea and vomiting,1.0,8.0,none,Hypertension,Peanuts,hypertension,go to emergency,Yes
+53.2381679389313,Male,Other,Rural,High,blurry vision,7.0,11.0,none,Asthma,Peanuts,common cold,take home care measures,No
+84.0,Male,Caucasian,Rural,Middle,severe dizziness,10.0,15.0,nausea,Hypertension,Peanuts,muscle strain,visit doctor,Yes
+53.2381679389313,Female,Hispanic,Suburban,Middle,sore throat and difficulty swallowing,2.0,16.028505392912173,fever,Diabetes,Pollen,flu,go to emergency,Yes
+82.0,Other,Caucasian,Suburban,Middle,blurry vision,9.0,10.0,fatigue,Asthma,Peanuts,hypertension,go to emergency,Yes
+60.0,Male,Hispanic,Rural,Middle,numbness in legs,8.0,16.0,nausea,Hypertension,Peanuts,covid-19,go to emergency,Yes
+51.0,Other,African American,Suburban,Middle,sharp stomach pain,10.0,23.0,muscle aches,Diabetes,Peanuts,gastroenteritis,take home care measures,No
+53.2381679389313,Female,Other,Rural,High,fatigue and weakness,7.0,24.0,fatigue,Asthma,Penicillin,covid-19,take home care measures,No
+84.0,Female,Asian,Suburban,High,sore throat and difficulty swallowing,5.0,5.0,none,Diabetes,Pollen,anxiety,take home care measures,No
+90.0,Male,Caucasian,Rural,High,joint pain and swelling,4.0,16.028505392912173,none,Diabetes,Peanuts,arthritis,visit doctor,Yes
+68.0,Other,Other,Urban,Middle,blurry vision,6.0,17.0,none,Hypertension,Dust,covid-19,take home care measures,Yes
+85.0,Other,African American,Rural,Low,chest pain,4.0,25.0,nausea,Diabetes,Pollen,common cold,go to emergency,Yes
+64.0,Male,Other,Urban,Middle,blurry vision,2.0,13.0,fatigue,Asthma,Dust,covid-19,take home care measures,No
+26.0,Female,Other,Suburban,Middle,back pain and muscle stiffness,6.0,16.028505392912173,muscle aches,Diabetes,Pollen,anxiety,take home care measures,No
+82.0,Male,Other,Rural,High,blurry vision,6.0,23.0,fever,Diabetes,Dust,anxiety,take home care measures,Yes
+23.0,Male,African American,Rural,Middle,nausea and vomiting,7.0,4.0,none,Asthma,Peanuts,asthma,take home care measures,No
+53.2381679389313,Female,African American,Rural,Middle,severe dizziness,5.474786656322731,21.0,nausea,Diabetes,Pollen,food poisoning,go to emergency,No
+40.0,Other,African American,Rural,Middle,fatigue and weakness,9.0,19.0,muscle aches,Diabetes,Peanuts,kidney stones,take home care measures,Yes
+45.0,Male,Hispanic,Rural,Low,sharp stomach pain,10.0,20.0,nausea,Hypertension,Peanuts,covid-19,take home care measures,Yes
+36.0,Other,Caucasian,Suburban,High,severe dizziness,3.0,16.028505392912173,none,Diabetes,Peanuts,asthma,visit doctor,Yes
+45.0,Female,Other,Rural,Middle,chest pain,9.0,17.0,none,Diabetes,Dust,allergic reaction,take home care measures,No
+80.0,Other,African American,Suburban,Middle,blurry vision,9.0,19.0,fatigue,Hypertension,Dust,hypertension,go to emergency,Yes
+60.0,Female,African American,Rural,High,chest pain,9.0,29.0,fever,Diabetes,Peanuts,common cold,go to emergency,Yes
+85.0,Female,Other,Urban,Low,joint pain and swelling,2.0,22.0,fever,Hypertension,Penicillin,allergic reaction,go to emergency,No
+48.0,Female,Asian,Rural,Middle,numbness in legs,8.0,16.0,nausea,Diabetes,Dust,sinus infection,take home care measures,Yes
+38.0,Male,African American,Rural,Low,sore throat and difficulty swallowing,10.0,22.0,nausea,Asthma,Dust,muscle strain,visit doctor,Yes
+71.0,Female,Asian,Rural,Middle,blurry vision,5.474786656322731,1.0,fever,Diabetes,Peanuts,migraine,take home care measures,Yes
+54.0,Other,African American,Urban,Low,frequent urination,4.0,9.0,none,Diabetes,Peanuts,common cold,visit doctor,Yes
+34.0,Male,African American,Rural,Low,blurry vision,6.0,16.028505392912173,fatigue,Diabetes,Pollen,covid-19,visit doctor,No
+29.0,Female,Other,Rural,High,nausea and vomiting,10.0,16.028505392912173,muscle aches,Asthma,Penicillin,covid-19,go to emergency,Yes
+29.0,Other,Hispanic,Rural,High,persistent cough and shortness of breath,3.0,13.0,fatigue,Diabetes,Dust,covid-19,visit doctor,Yes
+39.0,Male,Caucasian,Rural,Low,severe dizziness,8.0,16.028505392912173,nausea,Diabetes,Peanuts,food poisoning,take home care measures,No
+55.0,Male,African American,Rural,Low,mild headache,5.0,18.0,nausea,Diabetes,Dust,covid-19,go to emergency,No
+62.0,Female,African American,Urban,Low,blurry vision,7.0,14.0,nausea,Diabetes,Penicillin,food poisoning,go to emergency,Yes
+47.0,Female,Asian,Suburban,Middle,chest pain,8.0,15.0,none,Diabetes,Peanuts,covid-19,go to emergency,Yes
+41.0,Female,Caucasian,Rural,High,numbness in legs,7.0,16.028505392912173,none,Diabetes,Pollen,common cold,go to emergency,No
+60.0,Other,Asian,Urban,High,skin rash,3.0,23.0,fever,Diabetes,Peanuts,sinus infection,go to emergency,Yes
+70.0,Male,Hispanic,Rural,Middle,skin rash,1.0,1.0,fever,Diabetes,Penicillin,covid-19,take home care measures,No
+58.0,Male,Other,Rural,Low,frequent urination,7.0,13.0,none,Diabetes,Peanuts,gastroenteritis,take home care measures,Yes
+63.0,Other,Hispanic,Urban,High,numbness in legs,9.0,25.0,muscle aches,Hypertension,Peanuts,arthritis,visit doctor,Yes
+53.2381679389313,Male,African American,Urban,Middle,back pain and muscle stiffness,3.0,6.0,fever,Asthma,Peanuts,kidney stones,visit doctor,Yes
+53.2381679389313,Other,African American,Rural,High,chest pain,3.0,24.0,nausea,Diabetes,Pollen,allergic reaction,visit doctor,No
+85.0,Other,Hispanic,Urban,Middle,joint pain and swelling,5.0,19.0,fatigue,Diabetes,Pollen,migraine,take home care measures,No
+22.0,Male,Asian,Suburban,High,severe dizziness,5.474786656322731,21.0,nausea,Diabetes,Peanuts,migraine,go to emergency,Yes
+26.0,Female,Hispanic,Suburban,Low,blurry vision,9.0,13.0,fatigue,Diabetes,Penicillin,covid-19,take home care measures,Yes
+31.0,Female,Caucasian,Rural,High,fever and body aches,5.474786656322731,9.0,fatigue,Diabetes,Penicillin,flu,visit doctor,Yes
+87.0,Male,Hispanic,Suburban,High,nausea and vomiting,1.0,27.0,fever,Diabetes,Pollen,covid-19,take home care measures,No
+35.0,Other,Other,Urban,High,frequent urination,5.0,19.0,fever,Diabetes,Peanuts,flu,visit doctor,No
+65.0,Male,Asian,Suburban,Middle,chest pain,3.0,29.0,none,Diabetes,Pollen,hypertension,take home care measures,No
+53.2381679389313,Other,Hispanic,Rural,Middle,numbness in legs,3.0,8.0,nausea,Asthma,Penicillin,covid-19,visit doctor,Yes
+53.0,Female,Hispanic,Urban,Low,numbness in legs,6.0,16.028505392912173,nausea,Diabetes,Penicillin,muscle strain,take home care measures,No
+74.0,Female,Caucasian,Urban,Middle,blurry vision,7.0,28.0,none,Hypertension,Peanuts,covid-19,go to emergency,Yes
+65.0,Male,African American,Urban,High,blurry vision,3.0,16.028505392912173,fever,Hypertension,Penicillin,migraine,take home care measures,Yes
+53.2381679389313,Other,African American,Urban,Low,joint pain and swelling,3.0,12.0,nausea,Diabetes,Dust,diabetes,visit doctor,No
+78.0,Female,African American,Suburban,High,severe dizziness,5.0,14.0,muscle aches,Asthma,Peanuts,flu,visit doctor,Yes
+39.0,Other,Asian,Urban,Middle,nausea and vomiting,1.0,23.0,none,Diabetes,Peanuts,muscle strain,go to emergency,No
+52.0,Male,Other,Rural,High,back pain and muscle stiffness,5.474786656322731,16.028505392912173,fatigue,Diabetes,Peanuts,covid-19,take home care measures,Yes
+80.0,Other,Other,Rural,High,sore throat and difficulty swallowing,3.0,25.0,nausea,Asthma,Penicillin,covid-19,go to emergency,Yes
+72.0,Male,African American,Rural,High,fever and body aches,10.0,25.0,fever,Diabetes,Pollen,common cold,take home care measures,No
+89.0,Male,African American,Suburban,Middle,persistent cough and shortness of breath,5.474786656322731,20.0,nausea,Asthma,Peanuts,sinus infection,take home care measures,No
+69.0,Male,Hispanic,Suburban,Middle,nausea and vomiting,5.474786656322731,11.0,fever,Diabetes,Peanuts,covid-19,take home care measures,No
+56.0,Other,Other,Suburban,Middle,sore throat and difficulty swallowing,8.0,16.0,none,Asthma,Peanuts,gastroenteritis,go to emergency,Yes
+40.0,Male,African American,Suburban,Middle,blurry vision,6.0,27.0,nausea,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+24.0,Female,Hispanic,Rural,High,fatigue and weakness,1.0,16.028505392912173,muscle aches,Diabetes,Peanuts,food poisoning,go to emergency,Yes
+72.0,Male,Other,Rural,High,sharp stomach pain,2.0,28.0,fatigue,Diabetes,Dust,muscle strain,take home care measures,No
+26.0,Other,Other,Rural,High,frequent urination,5.0,11.0,fatigue,Diabetes,Peanuts,hypertension,go to emergency,Yes
+45.0,Female,Asian,Urban,Low,blurry vision,4.0,27.0,fatigue,Diabetes,Penicillin,arthritis,visit doctor,Yes
+35.0,Male,African American,Rural,Middle,back pain and muscle stiffness,1.0,10.0,none,Hypertension,Dust,gastroenteritis,visit doctor,Yes
+51.0,Female,Caucasian,Urban,Middle,blurry vision,6.0,19.0,fever,Hypertension,Peanuts,diabetes,go to emergency,No
+35.0,Male,Hispanic,Urban,Middle,fever and body aches,9.0,20.0,muscle aches,Diabetes,Pollen,gastroenteritis,take home care measures,No
+44.0,Other,African American,Urban,Middle,skin rash,3.0,21.0,nausea,Diabetes,Peanuts,hypertension,take home care measures,No
+73.0,Male,Caucasian,Suburban,Middle,sharp stomach pain,1.0,26.0,muscle aches,Asthma,Peanuts,sinus infection,visit doctor,Yes
+53.2381679389313,Male,Asian,Rural,High,mild headache,4.0,16.028505392912173,fever,Diabetes,Pollen,migraine,take home care measures,Yes
+53.2381679389313,Male,Other,Urban,Middle,fever and body aches,10.0,22.0,nausea,Diabetes,Peanuts,allergic reaction,take home care measures,Yes
+54.0,Male,Hispanic,Suburban,Low,skin rash,1.0,23.0,fever,Diabetes,Peanuts,diabetes,visit doctor,No
+26.0,Male,African American,Suburban,Low,skin rash,2.0,17.0,nausea,Diabetes,Peanuts,arthritis,take home care measures,No
+46.0,Other,Other,Rural,Middle,severe dizziness,8.0,16.028505392912173,none,Diabetes,Peanuts,hypertension,visit doctor,Yes
+89.0,Other,Other,Suburban,High,blurry vision,2.0,9.0,fever,Diabetes,Peanuts,allergic reaction,take home care measures,Yes
+51.0,Female,Hispanic,Rural,Low,blurry vision,10.0,8.0,nausea,Asthma,Peanuts,food poisoning,take home care measures,No
+48.0,Male,African American,Rural,Low,blurry vision,5.0,19.0,nausea,Asthma,Pollen,food poisoning,take home care measures,Yes
+21.0,Male,African American,Rural,High,sore throat and difficulty swallowing,4.0,19.0,fatigue,Diabetes,Peanuts,allergic reaction,go to emergency,No
+45.0,Female,Hispanic,Rural,High,sore throat and difficulty swallowing,1.0,23.0,muscle aches,Diabetes,Dust,muscle strain,visit doctor,Yes
+54.0,Male,Other,Rural,Middle,blurry vision,3.0,2.0,nausea,Diabetes,Peanuts,muscle strain,take home care measures,No
+25.0,Female,African American,Rural,Middle,chest pain,6.0,24.0,muscle aches,Hypertension,Penicillin,flu,visit doctor,Yes
+53.2381679389313,Male,Other,Rural,High,skin rash,6.0,8.0,nausea,Diabetes,Pollen,flu,take home care measures,No
+20.0,Female,Asian,Urban,Low,skin rash,5.474786656322731,4.0,nausea,Hypertension,Peanuts,food poisoning,take home care measures,No
+21.0,Other,Asian,Suburban,Middle,frequent urination,5.474786656322731,9.0,nausea,Diabetes,Dust,arthritis,take home care measures,Yes
+29.0,Female,Caucasian,Rural,High,joint pain and swelling,8.0,28.0,nausea,Asthma,Penicillin,kidney stones,go to emergency,Yes
+44.0,Other,Asian,Suburban,Low,fever and body aches,3.0,18.0,fatigue,Diabetes,Peanuts,gastroenteritis,take home care measures,Yes
+53.2381679389313,Female,Other,Rural,Low,nausea and vomiting,8.0,10.0,fatigue,Asthma,Peanuts,arthritis,take home care measures,Yes
+82.0,Male,African American,Urban,Middle,sore throat and difficulty swallowing,4.0,16.028505392912173,fatigue,Diabetes,Dust,sinus infection,take home care measures,Yes
+21.0,Female,Caucasian,Suburban,Middle,blurry vision,8.0,7.0,nausea,Diabetes,Penicillin,allergic reaction,take home care measures,Yes
+86.0,Other,Caucasian,Suburban,High,chest pain,7.0,17.0,none,Diabetes,Pollen,migraine,take home care measures,Yes
+82.0,Female,African American,Rural,High,frequent urination,2.0,24.0,nausea,Hypertension,Dust,muscle strain,go to emergency,Yes
+79.0,Male,Caucasian,Rural,Middle,sore throat and difficulty swallowing,5.474786656322731,30.0,none,Asthma,Dust,muscle strain,take home care measures,Yes
+20.0,Male,Asian,Urban,Middle,back pain and muscle stiffness,8.0,9.0,fever,Diabetes,Pollen,allergic reaction,go to emergency,Yes
+32.0,Male,African American,Suburban,High,joint pain and swelling,5.474786656322731,3.0,none,Diabetes,Peanuts,muscle strain,visit doctor,No
+53.2381679389313,Other,Asian,Urban,Low,sharp stomach pain,6.0,3.0,fatigue,Diabetes,Peanuts,anxiety,visit doctor,Yes
+39.0,Female,Hispanic,Urban,High,fatigue and weakness,8.0,26.0,muscle aches,Asthma,Pollen,hypertension,take home care measures,No
+53.2381679389313,Female,Asian,Rural,High,sore throat and difficulty swallowing,5.0,14.0,muscle aches,Diabetes,Penicillin,sinus infection,go to emergency,Yes
+18.0,Male,African American,Urban,Low,sore throat and difficulty swallowing,10.0,24.0,nausea,Diabetes,Peanuts,migraine,take home care measures,Yes
+45.0,Male,Asian,Rural,Middle,blurry vision,10.0,2.0,none,Hypertension,Peanuts,covid-19,go to emergency,No
+23.0,Male,Caucasian,Suburban,High,joint pain and swelling,7.0,20.0,none,Diabetes,Peanuts,kidney stones,go to emergency,No
+47.0,Male,Asian,Rural,Middle,numbness in legs,2.0,30.0,fatigue,Hypertension,Penicillin,muscle strain,take home care measures,No
+53.2381679389313,Other,Hispanic,Urban,Middle,mild headache,4.0,4.0,fever,Asthma,Peanuts,sinus infection,go to emergency,No
+45.0,Female,Hispanic,Suburban,Middle,blurry vision,10.0,28.0,fatigue,Asthma,Penicillin,migraine,take home care measures,Yes
+21.0,Male,Asian,Rural,Middle,skin rash,5.474786656322731,20.0,fatigue,Diabetes,Peanuts,muscle strain,go to emergency,No
+66.0,Female,Asian,Rural,High,sore throat and difficulty swallowing,10.0,1.0,fatigue,Hypertension,Peanuts,hypertension,go to emergency,Yes
+77.0,Other,Other,Rural,Middle,fatigue and weakness,7.0,8.0,fatigue,Diabetes,Peanuts,flu,take home care measures,Yes
+19.0,Female,African American,Rural,Middle,numbness in legs,3.0,9.0,none,Diabetes,Dust,migraine,visit doctor,Yes
+80.0,Other,African American,Suburban,High,joint pain and swelling,2.0,19.0,nausea,Asthma,Dust,asthma,go to emergency,Yes
+53.0,Other,Caucasian,Urban,Middle,blurry vision,5.474786656322731,19.0,none,Diabetes,Peanuts,asthma,take home care measures,No
+89.0,Male,Other,Rural,High,mild headache,10.0,14.0,nausea,Diabetes,Pollen,hypertension,go to emergency,No
+66.0,Male,African American,Suburban,Low,blurry vision,10.0,20.0,fatigue,Diabetes,Peanuts,migraine,visit doctor,No
+53.2381679389313,Other,African American,Urban,High,blurry vision,8.0,15.0,muscle aches,Diabetes,Penicillin,hypertension,go to emergency,No
+23.0,Female,Hispanic,Rural,Middle,numbness in legs,2.0,21.0,fever,Diabetes,Dust,common cold,visit doctor,Yes
+68.0,Female,Caucasian,Rural,High,mild headache,5.474786656322731,13.0,nausea,Hypertension,Pollen,sinus infection,take home care measures,No
+28.0,Male,African American,Urban,Middle,back pain and muscle stiffness,6.0,3.0,muscle aches,Diabetes,Peanuts,covid-19,visit doctor,No
+53.2381679389313,Other,Asian,Rural,Middle,blurry vision,8.0,26.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,Yes
+24.0,Male,African American,Rural,High,mild headache,6.0,13.0,fever,Diabetes,Dust,flu,take home care measures,No
+49.0,Male,Hispanic,Rural,High,blurry vision,1.0,14.0,fatigue,Diabetes,Penicillin,covid-19,take home care measures,Yes
+55.0,Male,Caucasian,Suburban,Low,severe dizziness,7.0,22.0,fatigue,Asthma,Peanuts,covid-19,visit doctor,No
+34.0,Female,Hispanic,Rural,Middle,blurry vision,1.0,1.0,fatigue,Diabetes,Pollen,hypertension,visit doctor,Yes
+58.0,Other,Caucasian,Rural,High,nausea and vomiting,2.0,4.0,none,Diabetes,Peanuts,covid-19,take home care measures,Yes
+35.0,Male,Other,Rural,High,back pain and muscle stiffness,3.0,20.0,none,Diabetes,Penicillin,covid-19,take home care measures,Yes
+87.0,Female,Asian,Suburban,High,back pain and muscle stiffness,8.0,27.0,nausea,Diabetes,Peanuts,covid-19,visit doctor,No
+53.0,Male,Other,Suburban,Middle,blurry vision,3.0,24.0,muscle aches,Diabetes,Dust,arthritis,visit doctor,Yes
+53.2381679389313,Male,Hispanic,Urban,Low,nausea and vomiting,7.0,24.0,fever,Diabetes,Peanuts,arthritis,go to emergency,Yes
+75.0,Male,Caucasian,Urban,Middle,sharp stomach pain,4.0,18.0,fatigue,Hypertension,Peanuts,food poisoning,take home care measures,No
+67.0,Other,Hispanic,Urban,Middle,mild headache,9.0,16.0,fever,Diabetes,Peanuts,anxiety,visit doctor,No
+66.0,Female,Asian,Rural,Low,mild headache,4.0,28.0,none,Diabetes,Peanuts,arthritis,take home care measures,Yes
+26.0,Female,Asian,Rural,Low,fatigue and weakness,10.0,6.0,nausea,Diabetes,Peanuts,muscle strain,take home care measures,No
+75.0,Male,Other,Urban,Low,severe dizziness,5.474786656322731,16.028505392912173,none,Hypertension,Pollen,covid-19,take home care measures,No
+24.0,Male,Caucasian,Rural,High,skin rash,5.474786656322731,12.0,nausea,Asthma,Penicillin,kidney stones,go to emergency,Yes
+69.0,Other,African American,Suburban,Middle,frequent urination,2.0,17.0,fatigue,Asthma,Peanuts,covid-19,take home care measures,Yes
+53.2381679389313,Other,African American,Urban,Middle,chest pain,6.0,16.028505392912173,nausea,Diabetes,Peanuts,asthma,go to emergency,No
+19.0,Other,Hispanic,Urban,Middle,chest pain,8.0,16.028505392912173,fatigue,Hypertension,Peanuts,asthma,go to emergency,Yes
+55.0,Female,Other,Rural,High,blurry vision,5.0,8.0,muscle aches,Hypertension,Peanuts,migraine,take home care measures,Yes
+31.0,Male,African American,Suburban,Middle,persistent cough and shortness of breath,3.0,17.0,none,Asthma,Peanuts,diabetes,visit doctor,Yes
+42.0,Male,Asian,Rural,Low,chest pain,8.0,22.0,muscle aches,Diabetes,Peanuts,common cold,take home care measures,Yes
+39.0,Male,Asian,Rural,High,chest pain,3.0,9.0,fever,Diabetes,Penicillin,covid-19,go to emergency,No
+48.0,Male,African American,Rural,Low,fever and body aches,7.0,22.0,nausea,Asthma,Peanuts,covid-19,take home care measures,Yes
+53.0,Male,Caucasian,Rural,Low,mild headache,8.0,22.0,nausea,Asthma,Pollen,gastroenteritis,go to emergency,No
+32.0,Other,Caucasian,Rural,Low,sore throat and difficulty swallowing,4.0,16.028505392912173,muscle aches,Hypertension,Peanuts,covid-19,go to emergency,Yes
+74.0,Male,African American,Suburban,Middle,blurry vision,2.0,28.0,muscle aches,Asthma,Pollen,covid-19,visit doctor,Yes
+37.0,Female,Other,Rural,Middle,numbness in legs,5.0,16.028505392912173,none,Diabetes,Pollen,muscle strain,take home care measures,Yes
+70.0,Other,African American,Rural,High,back pain and muscle stiffness,4.0,12.0,none,Diabetes,Pollen,food poisoning,take home care measures,No
+79.0,Male,African American,Suburban,Low,fever and body aches,3.0,8.0,fever,Diabetes,Pollen,sinus infection,take home care measures,No
+57.0,Male,African American,Suburban,Low,blurry vision,2.0,7.0,muscle aches,Diabetes,Penicillin,diabetes,go to emergency,No
+53.2381679389313,Male,African American,Rural,Middle,mild headache,8.0,14.0,nausea,Diabetes,Dust,hypertension,take home care measures,Yes
+40.0,Female,Hispanic,Rural,Middle,numbness in legs,7.0,11.0,nausea,Asthma,Dust,food poisoning,take home care measures,Yes
+53.2381679389313,Male,Asian,Urban,Middle,fatigue and weakness,4.0,22.0,muscle aches,Diabetes,Peanuts,anxiety,visit doctor,Yes
+30.0,Male,African American,Rural,High,skin rash,2.0,16.028505392912173,fever,Asthma,Peanuts,sinus infection,take home care measures,No
+30.0,Female,African American,Suburban,Low,chest pain,3.0,10.0,nausea,Asthma,Penicillin,asthma,visit doctor,No
+71.0,Other,Caucasian,Suburban,Low,back pain and muscle stiffness,6.0,22.0,nausea,Asthma,Peanuts,anxiety,visit doctor,No
+53.2381679389313,Male,Asian,Urban,High,fatigue and weakness,4.0,18.0,none,Asthma,Penicillin,common cold,take home care measures,Yes
+29.0,Male,Caucasian,Suburban,Low,blurry vision,8.0,25.0,nausea,Hypertension,Peanuts,migraine,go to emergency,No
+18.0,Male,Hispanic,Rural,Middle,mild headache,3.0,3.0,nausea,Diabetes,Peanuts,asthma,go to emergency,Yes
+53.2381679389313,Male,Caucasian,Urban,Low,persistent cough and shortness of breath,6.0,5.0,none,Diabetes,Peanuts,flu,take home care measures,Yes
+38.0,Male,Asian,Suburban,High,blurry vision,9.0,9.0,fatigue,Asthma,Peanuts,arthritis,go to emergency,Yes
+63.0,Other,Hispanic,Rural,Low,joint pain and swelling,5.474786656322731,27.0,muscle aches,Diabetes,Penicillin,asthma,go to emergency,No
+53.2381679389313,Female,Hispanic,Urban,Middle,mild headache,8.0,13.0,nausea,Diabetes,Peanuts,common cold,go to emergency,No
+29.0,Female,African American,Urban,Low,fatigue and weakness,1.0,24.0,nausea,Hypertension,Peanuts,arthritis,take home care measures,Yes
+67.0,Male,Asian,Rural,Middle,fatigue and weakness,8.0,16.0,nausea,Diabetes,Pollen,flu,take home care measures,Yes
+70.0,Other,Caucasian,Suburban,Middle,nausea and vomiting,10.0,16.0,muscle aches,Diabetes,Peanuts,flu,go to emergency,Yes
+43.0,Male,Other,Urban,Low,blurry vision,1.0,9.0,nausea,Diabetes,Peanuts,sinus infection,go to emergency,Yes
+53.2381679389313,Female,Other,Rural,High,severe dizziness,1.0,16.028505392912173,fever,Asthma,Peanuts,flu,go to emergency,Yes
+53.2381679389313,Male,Asian,Rural,High,mild headache,7.0,23.0,nausea,Diabetes,Penicillin,covid-19,go to emergency,Yes
+42.0,Male,African American,Rural,Middle,sharp stomach pain,4.0,16.028505392912173,muscle aches,Hypertension,Peanuts,covid-19,take home care measures,No
+53.2381679389313,Male,Caucasian,Suburban,High,joint pain and swelling,8.0,27.0,muscle aches,Diabetes,Pollen,anxiety,go to emergency,Yes
+73.0,Female,Hispanic,Rural,Middle,sharp stomach pain,8.0,27.0,nausea,Diabetes,Peanuts,covid-19,take home care measures,Yes
+28.0,Female,Asian,Suburban,Low,joint pain and swelling,8.0,6.0,nausea,Diabetes,Peanuts,asthma,take home care measures,Yes
+84.0,Male,Hispanic,Urban,Low,joint pain and swelling,5.474786656322731,16.028505392912173,nausea,Diabetes,Peanuts,anxiety,go to emergency,No
+58.0,Other,Caucasian,Urban,Middle,blurry vision,7.0,10.0,nausea,Diabetes,Dust,food poisoning,go to emergency,No
+61.0,Other,African American,Urban,Middle,blurry vision,1.0,18.0,fever,Asthma,Penicillin,covid-19,go to emergency,No
+67.0,Other,African American,Rural,High,blurry vision,10.0,16.0,none,Hypertension,Peanuts,gastroenteritis,visit doctor,No
+61.0,Female,Caucasian,Suburban,Middle,chest pain,9.0,28.0,nausea,Diabetes,Peanuts,hypertension,visit doctor,Yes
+87.0,Male,African American,Suburban,Middle,fever and body aches,8.0,19.0,nausea,Diabetes,Penicillin,flu,take home care measures,No
+82.0,Female,Other,Suburban,High,frequent urination,8.0,16.028505392912173,nausea,Diabetes,Peanuts,allergic reaction,take home care measures,No
+90.0,Other,Caucasian,Suburban,Middle,back pain and muscle stiffness,8.0,16.0,muscle aches,Diabetes,Pollen,allergic reaction,go to emergency,Yes
+53.2381679389313,Male,African American,Suburban,Middle,blurry vision,5.474786656322731,24.0,none,Asthma,Penicillin,common cold,go to emergency,No
+56.0,Male,Hispanic,Urban,High,persistent cough and shortness of breath,8.0,16.0,nausea,Diabetes,Peanuts,sinus infection,take home care measures,Yes
+53.2381679389313,Female,Other,Rural,Middle,persistent cough and shortness of breath,8.0,2.0,none,Hypertension,Pollen,migraine,visit doctor,No
+46.0,Male,African American,Suburban,Middle,skin rash,6.0,22.0,none,Diabetes,Peanuts,covid-19,go to emergency,No
+38.0,Male,Other,Rural,Middle,severe dizziness,3.0,16.028505392912173,muscle aches,Hypertension,Peanuts,food poisoning,visit doctor,Yes
+29.0,Female,African American,Rural,Low,blurry vision,2.0,24.0,fatigue,Asthma,Peanuts,arthritis,visit doctor,No
+42.0,Female,Caucasian,Rural,Low,skin rash,9.0,16.028505392912173,muscle aches,Diabetes,Dust,anxiety,visit doctor,Yes
+67.0,Male,Other,Urban,Low,persistent cough and shortness of breath,2.0,1.0,muscle aches,Hypertension,Pollen,hypertension,visit doctor,No
+77.0,Other,African American,Suburban,High,nausea and vomiting,4.0,28.0,muscle aches,Diabetes,Peanuts,covid-19,visit doctor,No
+53.2381679389313,Male,African American,Rural,Middle,skin rash,8.0,10.0,muscle aches,Hypertension,Peanuts,muscle strain,go to emergency,No
+33.0,Female,Asian,Suburban,High,persistent cough and shortness of breath,6.0,2.0,fatigue,Asthma,Dust,covid-19,go to emergency,Yes
+47.0,Female,Other,Suburban,Low,blurry vision,4.0,16.028505392912173,muscle aches,Diabetes,Peanuts,food poisoning,take home care measures,No
+56.0,Other,African American,Rural,Middle,sharp stomach pain,7.0,16.028505392912173,fever,Hypertension,Peanuts,diabetes,take home care measures,No
+26.0,Male,Hispanic,Suburban,High,sharp stomach pain,7.0,14.0,muscle aches,Asthma,Penicillin,flu,take home care measures,No
+41.0,Male,Hispanic,Suburban,Middle,fever and body aches,3.0,29.0,fever,Hypertension,Penicillin,gastroenteritis,go to emergency,No
+31.0,Other,Hispanic,Rural,Middle,frequent urination,3.0,24.0,muscle aches,Diabetes,Penicillin,asthma,visit doctor,No
+53.2381679389313,Female,Caucasian,Rural,Middle,persistent cough and shortness of breath,10.0,19.0,none,Hypertension,Peanuts,flu,take home care measures,Yes
+50.0,Female,Asian,Urban,Middle,nausea and vomiting,10.0,15.0,fever,Diabetes,Dust,gastroenteritis,take home care measures,No
+21.0,Male,African American,Rural,Middle,chest pain,2.0,24.0,muscle aches,Diabetes,Penicillin,kidney stones,take home care measures,Yes
+83.0,Male,Asian,Suburban,High,blurry vision,5.0,2.0,fatigue,Diabetes,Pollen,muscle strain,take home care measures,Yes
+53.2381679389313,Male,Asian,Suburban,Low,skin rash,4.0,25.0,muscle aches,Diabetes,Peanuts,covid-19,visit doctor,Yes
+80.0,Male,African American,Rural,Low,blurry vision,10.0,6.0,fatigue,Hypertension,Dust,muscle strain,visit doctor,Yes
+87.0,Male,African American,Urban,Middle,fatigue and weakness,8.0,21.0,none,Diabetes,Dust,covid-19,visit doctor,Yes
+53.2381679389313,Other,African American,Rural,Middle,blurry vision,7.0,15.0,nausea,Hypertension,Peanuts,hypertension,visit doctor,No
+55.0,Male,Asian,Rural,Middle,joint pain and swelling,5.474786656322731,16.028505392912173,fever,Asthma,Peanuts,flu,take home care measures,Yes
+57.0,Male,African American,Rural,Middle,fatigue and weakness,8.0,28.0,none,Diabetes,Dust,hypertension,take home care measures,Yes
+86.0,Other,African American,Suburban,Middle,blurry vision,5.0,20.0,nausea,Diabetes,Penicillin,covid-19,visit doctor,Yes
+83.0,Male,Other,Rural,High,fatigue and weakness,4.0,28.0,fever,Asthma,Peanuts,common cold,take home care measures,Yes
+56.0,Female,Other,Rural,Middle,blurry vision,9.0,13.0,nausea,Diabetes,Peanuts,covid-19,take home care measures,No
+65.0,Male,African American,Urban,Middle,severe dizziness,9.0,30.0,fatigue,Diabetes,Dust,hypertension,go to emergency,Yes
+53.2381679389313,Male,Asian,Rural,Low,fatigue and weakness,9.0,3.0,fatigue,Hypertension,Dust,migraine,visit doctor,No
+39.0,Male,Caucasian,Rural,High,nausea and vomiting,9.0,2.0,muscle aches,Diabetes,Penicillin,arthritis,take home care measures,Yes
+18.0,Female,African American,Rural,Middle,persistent cough and shortness of breath,7.0,18.0,fever,Diabetes,Peanuts,covid-19,go to emergency,Yes
+89.0,Female,Other,Urban,Middle,blurry vision,6.0,1.0,fatigue,Asthma,Pollen,gastroenteritis,go to emergency,Yes
+38.0,Male,Caucasian,Urban,Middle,sharp stomach pain,10.0,19.0,muscle aches,Hypertension,Peanuts,arthritis,take home care measures,Yes
+39.0,Male,Asian,Suburban,Low,blurry vision,5.474786656322731,8.0,nausea,Diabetes,Peanuts,anxiety,take home care measures,Yes
+48.0,Other,African American,Rural,High,mild headache,7.0,3.0,fever,Asthma,Peanuts,covid-19,take home care measures,Yes
+22.0,Male,Caucasian,Rural,Middle,mild headache,7.0,15.0,none,Hypertension,Peanuts,asthma,go to emergency,No
+31.0,Female,African American,Rural,Low,sore throat and difficulty swallowing,4.0,5.0,fatigue,Asthma,Peanuts,sinus infection,visit doctor,No
+24.0,Male,Asian,Urban,Low,fever and body aches,3.0,29.0,muscle aches,Asthma,Peanuts,kidney stones,take home care measures,No
+22.0,Other,African American,Rural,Middle,joint pain and swelling,6.0,13.0,none,Diabetes,Dust,anxiety,visit doctor,Yes
+68.0,Other,African American,Rural,High,severe dizziness,4.0,16.028505392912173,fever,Diabetes,Peanuts,arthritis,take home care measures,No
+18.0,Male,Caucasian,Suburban,Middle,sharp stomach pain,10.0,28.0,nausea,Hypertension,Dust,common cold,take home care measures,No
+33.0,Other,African American,Rural,Middle,numbness in legs,1.0,28.0,muscle aches,Diabetes,Penicillin,common cold,go to emergency,No
+53.2381679389313,Other,Other,Urban,Middle,blurry vision,1.0,20.0,none,Diabetes,Dust,allergic reaction,take home care measures,Yes
+82.0,Male,Hispanic,Urban,Low,skin rash,10.0,11.0,fatigue,Asthma,Pollen,covid-19,go to emergency,No
+77.0,Male,Hispanic,Suburban,High,sore throat and difficulty swallowing,10.0,16.028505392912173,nausea,Diabetes,Peanuts,migraine,go to emergency,Yes
+53.2381679389313,Other,Other,Rural,Middle,frequent urination,3.0,16.028505392912173,fatigue,Hypertension,Peanuts,covid-19,go to emergency,No
+53.2381679389313,Other,African American,Suburban,Middle,chest pain,5.0,19.0,nausea,Asthma,Peanuts,covid-19,take home care measures,Yes
+84.0,Male,Other,Rural,Middle,persistent cough and shortness of breath,5.474786656322731,16.028505392912173,fatigue,Diabetes,Peanuts,hypertension,take home care measures,No
+35.0,Male,African American,Urban,Low,persistent cough and shortness of breath,5.0,15.0,muscle aches,Asthma,Peanuts,allergic reaction,go to emergency,Yes
+27.0,Male,Other,Urban,Middle,frequent urination,8.0,11.0,nausea,Diabetes,Dust,covid-19,go to emergency,No
+48.0,Other,African American,Urban,Middle,mild headache,3.0,26.0,fever,Asthma,Peanuts,asthma,take home care measures,No
+58.0,Female,Caucasian,Rural,Middle,persistent cough and shortness of breath,4.0,21.0,fever,Diabetes,Peanuts,migraine,take home care measures,Yes
+78.0,Female,African American,Rural,Middle,joint pain and swelling,10.0,29.0,none,Diabetes,Peanuts,asthma,take home care measures,Yes
+29.0,Other,Hispanic,Rural,Middle,numbness in legs,4.0,20.0,nausea,Diabetes,Penicillin,covid-19,take home care measures,Yes
+52.0,Other,Caucasian,Suburban,Low,blurry vision,10.0,2.0,fatigue,Hypertension,Pollen,sinus infection,visit doctor,No
+43.0,Male,Asian,Suburban,High,blurry vision,5.474786656322731,23.0,nausea,Diabetes,Dust,muscle strain,take home care measures,Yes
+34.0,Other,Caucasian,Urban,Middle,sore throat and difficulty swallowing,7.0,16.028505392912173,muscle aches,Hypertension,Peanuts,arthritis,take home care measures,No
+23.0,Other,Other,Rural,Middle,blurry vision,10.0,22.0,nausea,Asthma,Penicillin,covid-19,visit doctor,Yes
+24.0,Male,Other,Urban,High,joint pain and swelling,6.0,13.0,fever,Diabetes,Dust,muscle strain,go to emergency,Yes
+32.0,Male,African American,Urban,Middle,back pain and muscle stiffness,2.0,28.0,muscle aches,Hypertension,Peanuts,arthritis,take home care measures,Yes
+19.0,Male,African American,Urban,High,fever and body aches,5.0,16.028505392912173,fever,Diabetes,Peanuts,diabetes,take home care measures,No
+53.2381679389313,Female,Caucasian,Suburban,Low,frequent urination,2.0,28.0,nausea,Hypertension,Dust,diabetes,take home care measures,Yes
+34.0,Female,African American,Suburban,Middle,skin rash,3.0,29.0,fever,Hypertension,Pollen,food poisoning,take home care measures,Yes
+53.2381679389313,Male,African American,Rural,High,nausea and vomiting,5.0,14.0,nausea,Diabetes,Penicillin,diabetes,visit doctor,Yes
+24.0,Female,Asian,Urban,High,sharp stomach pain,6.0,16.028505392912173,none,Diabetes,Dust,allergic reaction,take home care measures,No
+76.0,Male,Hispanic,Rural,Middle,persistent cough and shortness of breath,4.0,7.0,nausea,Diabetes,Peanuts,kidney stones,go to emergency,Yes
+25.0,Other,African American,Rural,Low,blurry vision,3.0,17.0,fatigue,Hypertension,Peanuts,sinus infection,go to emergency,No
+84.0,Male,Caucasian,Suburban,Low,blurry vision,6.0,23.0,fatigue,Hypertension,Peanuts,covid-19,go to emergency,Yes
+48.0,Other,Asian,Urban,Low,persistent cough and shortness of breath,5.474786656322731,20.0,nausea,Diabetes,Penicillin,hypertension,take home care measures,Yes
+21.0,Male,African American,Rural,Low,frequent urination,5.474786656322731,16.028505392912173,nausea,Hypertension,Peanuts,covid-19,take home care measures,No
+35.0,Male,Other,Suburban,Low,sharp stomach pain,10.0,16.028505392912173,fatigue,Diabetes,Peanuts,kidney stones,take home care measures,Yes
+55.0,Male,Asian,Rural,Middle,blurry vision,5.0,30.0,nausea,Diabetes,Pollen,diabetes,go to emergency,Yes
+41.0,Male,Caucasian,Urban,High,sharp stomach pain,5.0,18.0,none,Diabetes,Peanuts,common cold,go to emergency,No
+58.0,Other,Asian,Rural,Low,persistent cough and shortness of breath,9.0,26.0,fatigue,Asthma,Peanuts,covid-19,take home care measures,Yes
+71.0,Male,Asian,Rural,High,nausea and vomiting,7.0,19.0,muscle aches,Diabetes,Peanuts,allergic reaction,go to emergency,No
+76.0,Male,Asian,Suburban,Low,nausea and vomiting,4.0,6.0,fever,Asthma,Dust,sinus infection,go to emergency,No
+22.0,Male,Hispanic,Urban,Middle,joint pain and swelling,10.0,7.0,none,Diabetes,Peanuts,asthma,take home care measures,Yes
+68.0,Male,Hispanic,Suburban,Middle,blurry vision,7.0,23.0,none,Diabetes,Penicillin,muscle strain,go to emergency,No
+64.0,Female,Other,Urban,High,blurry vision,10.0,15.0,none,Diabetes,Pollen,common cold,take home care measures,No
+77.0,Female,African American,Rural,Low,blurry vision,10.0,19.0,fatigue,Diabetes,Penicillin,flu,visit doctor,Yes
+27.0,Female,Asian,Rural,High,chest pain,7.0,9.0,nausea,Diabetes,Peanuts,common cold,visit doctor,No
+89.0,Other,African American,Suburban,Middle,frequent urination,3.0,14.0,nausea,Hypertension,Peanuts,hypertension,visit doctor,Yes
+54.0,Female,Caucasian,Rural,Low,mild headache,6.0,18.0,muscle aches,Asthma,Dust,food poisoning,take home care measures,No
+81.0,Female,Hispanic,Rural,Middle,mild headache,2.0,30.0,nausea,Diabetes,Pollen,flu,take home care measures,Yes
+61.0,Male,Other,Urban,Low,sore throat and difficulty swallowing,5.474786656322731,29.0,fever,Diabetes,Peanuts,food poisoning,take home care measures,No
+74.0,Male,Hispanic,Suburban,High,skin rash,5.474786656322731,28.0,nausea,Diabetes,Peanuts,kidney stones,go to emergency,Yes
+53.2381679389313,Male,Caucasian,Suburban,High,severe dizziness,8.0,21.0,nausea,Hypertension,Pollen,asthma,take home care measures,No
+83.0,Female,African American,Suburban,Low,fever and body aches,5.474786656322731,29.0,muscle aches,Diabetes,Penicillin,food poisoning,go to emergency,No
+67.0,Female,Asian,Rural,High,fever and body aches,6.0,26.0,nausea,Diabetes,Pollen,muscle strain,visit doctor,No
+54.0,Female,African American,Suburban,High,joint pain and swelling,6.0,22.0,nausea,Hypertension,Dust,muscle strain,visit doctor,Yes
+70.0,Male,Other,Rural,Middle,sore throat and difficulty swallowing,3.0,21.0,muscle aches,Diabetes,Peanuts,covid-19,take home care measures,Yes
+53.2381679389313,Male,Caucasian,Urban,Middle,sore throat and difficulty swallowing,9.0,10.0,fatigue,Diabetes,Peanuts,gastroenteritis,take home care measures,Yes
+21.0,Other,African American,Suburban,Low,sore throat and difficulty swallowing,6.0,8.0,fatigue,Diabetes,Peanuts,hypertension,take home care measures,Yes
+77.0,Female,Other,Urban,Middle,chest pain,9.0,4.0,nausea,Diabetes,Pollen,food poisoning,visit doctor,Yes
+61.0,Female,African American,Rural,Low,nausea and vomiting,1.0,11.0,fatigue,Hypertension,Peanuts,diabetes,visit doctor,Yes
+83.0,Other,Other,Rural,Middle,mild headache,8.0,26.0,nausea,Diabetes,Peanuts,muscle strain,take home care measures,No
+87.0,Male,African American,Urban,High,sore throat and difficulty swallowing,3.0,16.028505392912173,fever,Diabetes,Peanuts,migraine,go to emergency,No
+32.0,Other,Other,Rural,Middle,mild headache,8.0,17.0,nausea,Diabetes,Peanuts,gastroenteritis,visit doctor,Yes
+18.0,Male,African American,Rural,Low,back pain and muscle stiffness,6.0,1.0,nausea,Diabetes,Peanuts,covid-19,go to emergency,Yes
+70.0,Male,Caucasian,Rural,High,sharp stomach pain,9.0,30.0,fever,Diabetes,Dust,migraine,go to emergency,No
+24.0,Male,African American,Rural,High,blurry vision,1.0,13.0,muscle aches,Hypertension,Dust,food poisoning,take home care measures,Yes
+53.2381679389313,Male,Hispanic,Rural,Low,back pain and muscle stiffness,6.0,4.0,none,Diabetes,Penicillin,anxiety,visit doctor,No
+81.0,Male,Asian,Rural,Middle,blurry vision,5.474786656322731,4.0,muscle aches,Diabetes,Penicillin,common cold,go to emergency,Yes
+67.0,Other,Other,Rural,Middle,numbness in legs,5.474786656322731,16.028505392912173,nausea,Diabetes,Peanuts,allergic reaction,take home care measures,No
+90.0,Other,African American,Urban,Middle,back pain and muscle stiffness,6.0,21.0,nausea,Diabetes,Peanuts,asthma,take home care measures,Yes
+43.0,Male,African American,Rural,Middle,joint pain and swelling,9.0,18.0,muscle aches,Diabetes,Pollen,common cold,take home care measures,No
+50.0,Other,Caucasian,Suburban,Middle,sharp stomach pain,4.0,26.0,nausea,Asthma,Pollen,covid-19,take home care measures,Yes
+43.0,Other,Other,Rural,Middle,back pain and muscle stiffness,2.0,25.0,fatigue,Hypertension,Peanuts,gastroenteritis,visit doctor,Yes
+53.2381679389313,Male,African American,Suburban,Low,numbness in legs,1.0,22.0,nausea,Diabetes,Peanuts,asthma,go to emergency,Yes
+83.0,Other,Asian,Urban,High,mild headache,7.0,21.0,fever,Hypertension,Penicillin,flu,take home care measures,Yes
+64.0,Male,Asian,Urban,Middle,fever and body aches,2.0,30.0,fever,Diabetes,Penicillin,hypertension,take home care measures,Yes
+77.0,Other,Hispanic,Rural,Middle,fatigue and weakness,3.0,1.0,fatigue,Asthma,Peanuts,common cold,go to emergency,No
+53.2381679389313,Male,African American,Rural,Middle,severe dizziness,7.0,12.0,none,Diabetes,Dust,covid-19,visit doctor,Yes
+47.0,Female,Hispanic,Suburban,Middle,chest pain,6.0,9.0,nausea,Diabetes,Pollen,covid-19,go to emergency,No
+44.0,Male,Caucasian,Urban,Low,frequent urination,6.0,17.0,nausea,Diabetes,Penicillin,covid-19,visit doctor,Yes
+70.0,Male,Asian,Rural,High,skin rash,7.0,9.0,none,Diabetes,Peanuts,hypertension,visit doctor,No
+82.0,Male,Other,Suburban,High,mild headache,5.474786656322731,20.0,muscle aches,Diabetes,Peanuts,muscle strain,take home care measures,Yes
+88.0,Male,Hispanic,Rural,Middle,blurry vision,1.0,28.0,nausea,Diabetes,Penicillin,muscle strain,take home care measures,Yes
+62.0,Male,Caucasian,Rural,High,joint pain and swelling,5.0,16.0,nausea,Diabetes,Dust,muscle strain,visit doctor,Yes
+53.2381679389313,Male,African American,Suburban,Middle,back pain and muscle stiffness,4.0,17.0,muscle aches,Diabetes,Peanuts,anxiety,take home care measures,Yes
+61.0,Male,Asian,Urban,Low,nausea and vomiting,9.0,1.0,muscle aches,Hypertension,Peanuts,muscle strain,take home care measures,Yes
+53.2381679389313,Female,African American,Urban,High,back pain and muscle stiffness,5.474786656322731,26.0,fatigue,Diabetes,Penicillin,kidney stones,visit doctor,Yes
+53.2381679389313,Male,African American,Urban,Low,mild headache,1.0,16.028505392912173,nausea,Diabetes,Peanuts,sinus infection,visit doctor,Yes
+46.0,Male,Other,Urban,Middle,sharp stomach pain,4.0,16.028505392912173,muscle aches,Hypertension,Peanuts,covid-19,take home care measures,Yes
+26.0,Male,African American,Rural,High,numbness in legs,1.0,15.0,nausea,Asthma,Pollen,diabetes,take home care measures,No
+36.0,Female,African American,Urban,Middle,fever and body aches,6.0,19.0,nausea,Asthma,Peanuts,allergic reaction,take home care measures,No
+85.0,Other,African American,Urban,Middle,fever and body aches,5.474786656322731,16.028505392912173,muscle aches,Diabetes,Penicillin,flu,take home care measures,No
+67.0,Male,African American,Rural,Low,numbness in legs,5.474786656322731,14.0,muscle aches,Asthma,Penicillin,covid-19,go to emergency,Yes
+47.0,Other,Caucasian,Suburban,High,blurry vision,5.474786656322731,16.028505392912173,muscle aches,Diabetes,Penicillin,hypertension,visit doctor,No
+28.0,Female,Hispanic,Rural,Middle,blurry vision,10.0,15.0,nausea,Asthma,Pollen,anxiety,go to emergency,No
+62.0,Male,Hispanic,Urban,Middle,frequent urination,10.0,22.0,nausea,Diabetes,Peanuts,diabetes,visit doctor,No
+25.0,Male,Caucasian,Urban,Low,sharp stomach pain,7.0,9.0,muscle aches,Asthma,Peanuts,covid-19,go to emergency,Yes
+66.0,Female,African American,Rural,Low,persistent cough and shortness of breath,2.0,16.0,nausea,Hypertension,Peanuts,covid-19,take home care measures,No
+69.0,Other,Asian,Rural,Low,fever and body aches,6.0,17.0,nausea,Diabetes,Dust,diabetes,go to emergency,Yes
+80.0,Male,Other,Rural,High,severe dizziness,5.474786656322731,16.0,fatigue,Hypertension,Peanuts,covid-19,go to emergency,No
+53.2381679389313,Male,Hispanic,Rural,Middle,severe dizziness,4.0,8.0,fever,Diabetes,Peanuts,covid-19,take home care measures,Yes
+64.0,Male,Caucasian,Urban,High,frequent urination,5.0,16.028505392912173,none,Diabetes,Dust,covid-19,visit doctor,No
+22.0,Male,Asian,Rural,High,skin rash,6.0,7.0,muscle aches,Diabetes,Peanuts,migraine,take home care measures,No
+68.0,Male,Hispanic,Rural,Middle,nausea and vomiting,5.474786656322731,25.0,nausea,Diabetes,Peanuts,diabetes,go to emergency,Yes
+21.0,Other,Asian,Rural,Low,sore throat and difficulty swallowing,10.0,18.0,nausea,Diabetes,Penicillin,gastroenteritis,go to emergency,Yes
+50.0,Female,Asian,Rural,Middle,sore throat and difficulty swallowing,9.0,30.0,none,Diabetes,Dust,food poisoning,visit doctor,Yes
+53.2381679389313,Other,Asian,Rural,Middle,nausea and vomiting,8.0,21.0,none,Diabetes,Penicillin,food poisoning,go to emergency,No
+36.0,Other,Asian,Suburban,Middle,fever and body aches,8.0,11.0,fatigue,Diabetes,Pollen,asthma,take home care measures,Yes
+87.0,Other,Asian,Urban,Low,sharp stomach pain,3.0,18.0,nausea,Diabetes,Dust,covid-19,go to emergency,No
+53.2381679389313,Other,Other,Rural,Low,persistent cough and shortness of breath,9.0,8.0,fever,Asthma,Penicillin,gastroenteritis,visit doctor,Yes
+73.0,Other,Asian,Rural,Middle,frequent urination,8.0,11.0,muscle aches,Hypertension,Peanuts,asthma,visit doctor,Yes
+42.0,Male,Caucasian,Rural,Middle,blurry vision,9.0,15.0,none,Diabetes,Peanuts,covid-19,take home care measures,Yes
+53.2381679389313,Other,African American,Rural,High,sharp stomach pain,7.0,17.0,muscle aches,Diabetes,Dust,food poisoning,take home care measures,Yes
+19.0,Female,African American,Suburban,High,back pain and muscle stiffness,3.0,5.0,fatigue,Hypertension,Pollen,diabetes,visit doctor,No
+62.0,Female,Other,Rural,Middle,sore throat and difficulty swallowing,9.0,25.0,nausea,Diabetes,Peanuts,allergic reaction,visit doctor,Yes
+34.0,Female,Other,Rural,Low,chest pain,10.0,17.0,nausea,Diabetes,Peanuts,muscle strain,go to emergency,Yes
+64.0,Male,African American,Suburban,Middle,sharp stomach pain,2.0,23.0,fatigue,Diabetes,Penicillin,asthma,visit doctor,No
+21.0,Male,Caucasian,Rural,Low,severe dizziness,4.0,8.0,nausea,Diabetes,Pollen,food poisoning,take home care measures,Yes
+84.0,Male,Caucasian,Rural,Low,sharp stomach pain,4.0,17.0,fever,Asthma,Dust,arthritis,visit doctor,Yes
+53.2381679389313,Other,African American,Rural,Low,severe dizziness,1.0,18.0,nausea,Diabetes,Dust,diabetes,take home care measures,Yes
+53.2381679389313,Female,Hispanic,Suburban,Middle,blurry vision,9.0,5.0,fatigue,Diabetes,Dust,covid-19,take home care measures,Yes
+27.0,Other,Other,Rural,High,frequent urination,10.0,13.0,fatigue,Diabetes,Dust,flu,visit doctor,Yes
+30.0,Male,Hispanic,Suburban,Low,fever and body aches,10.0,3.0,fatigue,Hypertension,Peanuts,covid-19,visit doctor,Yes
+35.0,Male,Other,Urban,Low,fatigue and weakness,8.0,14.0,fever,Asthma,Pollen,sinus infection,visit doctor,Yes
+58.0,Other,African American,Suburban,Middle,blurry vision,8.0,19.0,fatigue,Diabetes,Peanuts,covid-19,visit doctor,Yes
+43.0,Other,Caucasian,Suburban,Middle,blurry vision,4.0,15.0,fever,Diabetes,Peanuts,allergic reaction,go to emergency,No
+48.0,Male,African American,Suburban,Middle,frequent urination,2.0,29.0,fever,Diabetes,Peanuts,food poisoning,take home care measures,Yes
+38.0,Other,Asian,Urban,Middle,joint pain and swelling,3.0,16.028505392912173,muscle aches,Hypertension,Pollen,allergic reaction,visit doctor,No
+53.2381679389313,Male,African American,Urban,Low,frequent urination,10.0,19.0,fatigue,Asthma,Peanuts,sinus infection,take home care measures,Yes
+53.2381679389313,Female,Other,Suburban,Low,back pain and muscle stiffness,6.0,16.028505392912173,fever,Hypertension,Pollen,covid-19,go to emergency,Yes
+53.2381679389313,Female,African American,Urban,High,blurry vision,1.0,16.028505392912173,muscle aches,Diabetes,Peanuts,allergic reaction,go to emergency,No
+68.0,Other,Asian,Rural,Middle,blurry vision,3.0,13.0,muscle aches,Diabetes,Peanuts,diabetes,take home care measures,Yes
+19.0,Other,Asian,Suburban,Middle,nausea and vomiting,7.0,15.0,fever,Diabetes,Peanuts,food poisoning,visit doctor,No
+53.2381679389313,Female,African American,Rural,Low,blurry vision,6.0,16.028505392912173,muscle aches,Diabetes,Peanuts,flu,go to emergency,Yes
+90.0,Other,African American,Urban,Low,fatigue and weakness,5.0,15.0,fatigue,Diabetes,Penicillin,kidney stones,go to emergency,Yes
+79.0,Female,Other,Urban,Low,mild headache,5.474786656322731,14.0,fatigue,Diabetes,Pollen,food poisoning,take home care measures,No
+53.2381679389313,Other,Hispanic,Suburban,Middle,skin rash,5.474786656322731,25.0,none,Diabetes,Pollen,covid-19,go to emergency,Yes
+57.0,Other,Asian,Rural,High,blurry vision,9.0,27.0,fatigue,Hypertension,Peanuts,common cold,go to emergency,No
+53.2381679389313,Other,African American,Rural,Middle,blurry vision,3.0,16.028505392912173,fever,Diabetes,Pollen,asthma,visit doctor,Yes
+60.0,Female,African American,Rural,High,persistent cough and shortness of breath,5.474786656322731,11.0,muscle aches,Hypertension,Peanuts,asthma,take home care measures,Yes
+77.0,Female,Other,Suburban,High,sore throat and difficulty swallowing,1.0,20.0,nausea,Diabetes,Peanuts,gastroenteritis,take home care measures,No
+67.0,Male,Hispanic,Rural,Middle,blurry vision,3.0,2.0,nausea,Hypertension,Peanuts,flu,go to emergency,Yes
+30.0,Male,Caucasian,Suburban,Middle,severe dizziness,9.0,25.0,none,Hypertension,Peanuts,allergic reaction,visit doctor,No
+36.0,Other,Hispanic,Suburban,Middle,sharp stomach pain,6.0,10.0,muscle aches,Diabetes,Dust,food poisoning,take home care measures,No
+86.0,Other,Asian,Suburban,Middle,severe dizziness,2.0,18.0,nausea,Diabetes,Peanuts,asthma,take home care measures,No
+52.0,Other,Asian,Rural,High,numbness in legs,1.0,23.0,muscle aches,Diabetes,Dust,migraine,go to emergency,No
+77.0,Female,African American,Rural,High,fever and body aches,7.0,22.0,nausea,Diabetes,Peanuts,muscle strain,visit doctor,No
+34.0,Other,Caucasian,Urban,Low,skin rash,5.0,22.0,nausea,Diabetes,Dust,migraine,go to emergency,Yes
+68.0,Other,Hispanic,Rural,Middle,persistent cough and shortness of breath,5.0,16.028505392912173,none,Diabetes,Peanuts,covid-19,take home care measures,No
+59.0,Other,Hispanic,Urban,Middle,blurry vision,5.0,16.0,fatigue,Asthma,Peanuts,anxiety,take home care measures,Yes
+53.2381679389313,Other,Hispanic,Urban,Middle,sore throat and difficulty swallowing,5.0,16.028505392912173,nausea,Diabetes,Peanuts,covid-19,go to emergency,No
+45.0,Male,Other,Urban,Middle,skin rash,5.0,18.0,nausea,Asthma,Peanuts,asthma,go to emergency,No
+19.0,Other,Caucasian,Suburban,Middle,blurry vision,9.0,4.0,muscle aches,Diabetes,Pollen,covid-19,go to emergency,No
+53.2381679389313,Male,Other,Rural,Middle,sharp stomach pain,5.474786656322731,19.0,nausea,Hypertension,Penicillin,flu,visit doctor,No
+58.0,Male,Asian,Urban,Low,sharp stomach pain,4.0,19.0,none,Diabetes,Penicillin,diabetes,visit doctor,Yes
+53.2381679389313,Male,Hispanic,Urban,Middle,skin rash,10.0,16.028505392912173,nausea,Hypertension,Dust,covid-19,take home care measures,Yes
+80.0,Male,Asian,Rural,High,chest pain,6.0,14.0,fatigue,Diabetes,Peanuts,flu,take home care measures,Yes
+48.0,Other,Asian,Rural,High,numbness in legs,10.0,3.0,muscle aches,Diabetes,Peanuts,covid-19,take home care measures,No
+44.0,Female,African American,Urban,Low,blurry vision,9.0,12.0,muscle aches,Hypertension,Peanuts,gastroenteritis,take home care measures,Yes
+83.0,Male,African American,Suburban,Middle,joint pain and swelling,5.474786656322731,26.0,nausea,Diabetes,Peanuts,gastroenteritis,go to emergency,Yes
